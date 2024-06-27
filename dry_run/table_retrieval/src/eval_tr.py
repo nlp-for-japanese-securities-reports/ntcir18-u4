@@ -49,7 +49,7 @@ def main():
     return json.dumps({
         "status": "success",
         "scores": {
-            "cell_id": result_table_id
+            "table_id": result_table_id
         }
     }, ensure_ascii=False, indent=2)
 
