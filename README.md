@@ -4,7 +4,7 @@
 U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
 
 ## 更新情報
-- (2024/7/xx) validデータの公開
+- (2024/7/11) validデータの公開
 
 ## タスク設定
 以下をご参照ください。\
@@ -12,6 +12,7 @@ U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** �
 [TQAタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-qa?authuser=0, "Table QA")
 
 ## Baseline Scores
+validディレクトリのデータセットを対象に、各タスクのベースラインを作成し、評価を行いました。
 
 ### TRタスク
 準備中
@@ -25,6 +26,9 @@ U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** �
 | Gemini 1.5 Flash | gemini-1.5-flash-001 | 0.4898 | 1534 / 3132 |
 | Claude 3 Opus | claude-3-opus-20240229 | 0.7471 | 2340 / 3132 |
 | Claude 3 Haiku | claude-3-haiku-20240307 | 0.3209 | 1005 / 3132 |
+
+## 特記事項
+- データセットについて、Question IDは各タスクで連番になっていませんが、これはタスク間でQuestionの重複を防ぐためです。
 
 ## 出典
 - `table_retrieval`および`table_qa`ディレクトリ内のファイルは、EDINET 閲覧（提出）サイト（※）をもとに NTCIR-18 U4 タスクオーガナイザが作成したものです。
