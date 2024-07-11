@@ -4,7 +4,7 @@
 U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** と、 **Table QAサブタスク（以下、TQAタスク）** から構成されます。
 
 ## 更新情報
-- (2024/7/xx) dry runデータの公開
+- (2024/7/xx) validデータの公開
 
 ## タスク設定
 以下をご参照ください。\
@@ -27,5 +27,5 @@ U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** �
 | Claude 3 Haiku | claude-3-haiku-20240307 | 0.3209 | 1005 / 3132 |
 
 ## 出典
-- `dry_ryn`ディレクトリ内のファイルは、EDINET 閲覧（提出）サイト（※）をもとに NTCIR-18 U4 タスクオーガナイザが作成したものです。
+- `table_retrieval`および`table_qa`ディレクトリ内のファイルは、EDINET 閲覧（提出）サイト（※）をもとに NTCIR-18 U4 タスクオーガナイザが作成したものです。
     - （※）例えば書類管理番号が `S100ISN0` の場合、当該ページの URL は `https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ISN0` となります。書類管理番号は、`train`/`test` ディレクトリ内の各ファイル名の先頭 8 文字です。
