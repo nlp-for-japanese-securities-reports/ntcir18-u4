@@ -5,7 +5,7 @@ from pathlib import Path
 
 from normalize import normalize_text
 
-GS_FILENAME = "gold_standard_tqa.json"
+GS_FILENAME = "../gold_standard_tqa_valid.json"
 
 class EvaluationException(Exception):
     pass

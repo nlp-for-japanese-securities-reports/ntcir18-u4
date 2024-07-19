@@ -3,7 +3,7 @@ import argparse
 import traceback
 from pathlib import Path
 
-GS_FILENAME = "gold_standard_tr.json"
+GS_FILENAME = "../gold_standard_tr_valid.json"
 
 class EvaluationException(Exception):
     pass
