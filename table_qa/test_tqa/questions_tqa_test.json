@@ -1,0 +1,1787 @@
+{
+    "question_test3": {
+        "question": "富士通株式会社の2016年における「税引前利益又は税引前損失（△）（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test5": {
+        "question": "富士通株式会社の2016年における「当期利益又は当期損失（△）（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test6": {
+        "question": "富士通株式会社の2018年における「当期利益又は当期損失（△）（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test10": {
+        "question": "富士通株式会社の2018年における「当期包括利益（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test12": {
+        "question": "富士通株式会社の2018年における「当期包括利益：親会社の所有者に帰属（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test14": {
+        "question": "富士通株式会社の2018年時点における「総資産額（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test17": {
+        "question": "富士通株式会社の2016年における「基本的１株当たり利益又は損失（△）（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test20": {
+        "question": "富士通株式会社の2018年における「希薄化後１株当たり利益又は損失（△）（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test23": {
+        "question": "富士通株式会社の2016年時点における「親会社所有者帰属持分比率（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test24": {
+        "question": "富士通株式会社の2018年時点における「親会社所有者帰属持分比率（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test25": {
+        "question": "富士通株式会社の2016年における「親会社所有者帰属持分利益率（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test26": {
+        "question": "富士通株式会社の2018年における「親会社所有者帰属持分利益率（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test29": {
+        "question": "富士通株式会社の2016年時点における「現金及び現金同等物（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test30": {
+        "question": "富士通株式会社の2018年時点における「現金及び現金同等物（IFRS）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test33": {
+        "question": "富士通株式会社の2018年時点における「平均臨時雇用人員」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab2"
+    },
+    "question_test34": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「売上高、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test37": {
+        "question": "富士通株式会社の2018年のNonConsolidatedMemberにおける「経常利益又は経常損失（△）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test39": {
+        "question": "富士通株式会社の2018年のNonConsolidatedMemberにおける「当期純利益又は当期純損失（△）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test40": {
+        "question": "富士通株式会社の2016年時点のNonConsolidatedMemberにおける「資本金、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test42": {
+        "question": "富士通株式会社の2016年時点のNonConsolidatedMemberにおける「発行済株式総数（普通株式）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test43": {
+        "question": "富士通株式会社の2018年時点のNonConsolidatedMemberにおける「発行済株式総数（普通株式）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test44": {
+        "question": "富士通株式会社の2016年時点のNonConsolidatedMemberにおける「純資産額、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test45": {
+        "question": "富士通株式会社の2018年時点のNonConsolidatedMemberにおける「純資産額、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test48": {
+        "question": "富士通株式会社の2016年時点のNonConsolidatedMemberにおける「１株当たり純資産額、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test52": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「１株当たり中間配当額、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test54": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「１株当たり当期純利益又は当期純損失（△）、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test57": {
+        "question": "富士通株式会社の2018年のNonConsolidatedMemberにおける「潜在株式調整後１株当たり当期純利益、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test58": {
+        "question": "富士通株式会社の2016年時点のNonConsolidatedMemberにおける「自己資本比率、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test59": {
+        "question": "富士通株式会社の2018年時点のNonConsolidatedMemberにおける「自己資本比率、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test60": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「自己資本利益率、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test61": {
+        "question": "富士通株式会社の2018年のNonConsolidatedMemberにおける「自己資本利益率、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test62": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「株価収益率、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test64": {
+        "question": "富士通株式会社の2016年のNonConsolidatedMemberにおける「配当性向、経営指標等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test68": {
+        "question": "富士通株式会社の2018年時点のNonConsolidatedMemberにおける「株主総利回り」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test70": {
+        "question": "富士通株式会社の2018年時点のNonConsolidatedMemberにおける「株価指数における総利回り」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab3"
+    },
+    "question_test71": {
+        "question": "富士通株式会社の2020年時点のNonConsolidatedMemberにおける「従業員数」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab12"
+    },
+    "question_test73": {
+        "question": "富士通株式会社の2020年時点のNonConsolidatedMemberにおける「平均勤続年数（年）、提出会社の状況、従業員の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab12"
+    },
+    "question_test74": {
+        "question": "富士通株式会社の2020年時点のNonConsolidatedMemberにおける「平均年間給与、提出会社の状況、従業員の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab12"
+    },
+    "question_test75": {
+        "question": "富士通株式会社の2020年時点のCorporateSharedMemberにおける「従業員数」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0101010-tab13"
+    },
+    "question_test81": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「内容、発行済株式、株式の総数等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab37"
+    },
+    "question_test82": {
+        "question": "富士通株式会社の2020年時点における「事業年度末現在発行数（株）、発行済株式、株式の総数等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab37"
+    },
+    "question_test83": {
+        "question": "富士通株式会社の2020年時点における「提出日現在発行数（株）、発行済株式、株式の総数等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab37"
+    },
+    "question_test84": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「１単元の株式数」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test85": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「株主数－政府及び地方公共団体」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test87": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「株主数－金融商品取引業者」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test88": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「株主数－その他の法人」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test89": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「株主数－外国法人等－個人以外」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test92": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「株主数－計」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test94": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数（単元）－金融機関」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test95": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数（単元）－金融商品取引業者」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test96": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数（単元）－その他の法人」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test99": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数（単元）－個人その他」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test100": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数（単元）－計」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test106": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数の割合（％）－外国法人等－個人以外」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test107": {
+        "question": "富士通株式会社の2020年時点のOrdinaryShareMemberにおける「所有株式数の割合（％）－外国法人等－個人」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab39"
+    },
+    "question_test111": {
+        "question": "富士通株式会社の2020年時点のNo3MajorShareholdersMemberにおける「所有株式数」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test112": {
+        "question": "富士通株式会社の2020年時点のNo3MajorShareholdersMemberにおける「発行済株式（自己株式を除く。）の総数に対する所有株式数の割合」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test115": {
+        "question": "富士通株式会社の2020年時点のNo5MajorShareholdersMemberにおける「所有株式数」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test116": {
+        "question": "富士通株式会社の2020年時点のNo5MajorShareholdersMemberにおける「発行済株式（自己株式を除く。）の総数に対する所有株式数の割合」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test117": {
+        "question": "富士通株式会社の2020年時点のNo9MajorShareholdersMemberにおける「氏名又は名称、大株主の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test118": {
+        "question": "富士通株式会社の2020年時点のNo9MajorShareholdersMemberにおける「住所、大株主の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test120": {
+        "question": "富士通株式会社の2020年時点のNo10MajorShareholdersMemberにおける「発行済株式（自己株式を除く。）の総数に対する所有株式数の割合」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab40"
+    },
+    "question_test121": {
+        "question": "富士通株式会社の2020年時点のSharesWithRestrictedVotingRightsTreasurySharesEtcMemberにおける「株式数（株）、発行済株式、議決権の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab43"
+    },
+    "question_test122": {
+        "question": "富士通株式会社の2020年時点のSharesWithRestrictedVotingRightsTreasurySharesEtcMemberにおける「内容、発行済株式、議決権の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab43"
+    },
+    "question_test124": {
+        "question": "富士通株式会社の2020年時点のSharesWithRestrictedVotingRightsOtherMemberにおける「内容、発行済株式、議決権の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab43"
+    },
+    "question_test125": {
+        "question": "富士通株式会社の2020年時点のOrdinarySharesSharesWithFullVotingRightsOtherMemberにおける「議決権の数（個）、発行済株式、議決権の状況」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab43"
+    },
+    "question_test129": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「所有者の氏名又は名称、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test130": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「所有者の住所、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test131": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「自己名義所有株式数（株）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test132": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「他人名義所有株式数（株）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test136": {
+        "question": "富士通株式会社の2020年時点のRow3Memberにおける「所有者の住所、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test137": {
+        "question": "富士通株式会社の2020年時点のRow3Memberにおける「自己名義所有株式数（株）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test139": {
+        "question": "富士通株式会社の2020年時点のRow3Memberにおける「所有株式数の合計（株）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test140": {
+        "question": "富士通株式会社の2020年時点のRow3Memberにおける「発行済株式総数に対する所有株式数の割合（％）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test142": {
+        "question": "富士通株式会社の2020年時点のRow6Memberにおける「所有者の住所、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test144": {
+        "question": "富士通株式会社の2020年時点における「他人名義所有株式数（株）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test146": {
+        "question": "富士通株式会社の2020年時点における「発行済株式総数に対する所有株式数の割合（％）、自己株式等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab44"
+    },
+    "question_test147": {
+        "question": "富士通株式会社の2020年時点のRow1Memberにおける「決議日付、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test148": {
+        "question": "富士通株式会社の2020年時点のRow1Memberにおける「配当金の総額、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test149": {
+        "question": "富士通株式会社の2020年時点のRow1Memberにおける「１株当たり配当額、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test150": {
+        "question": "富士通株式会社の2020年時点のRow1Memberにおける「決議、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test151": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「決議日付、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test152": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「配当金の総額、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test153": {
+        "question": "富士通株式会社の2020年時点のRow2Memberにおける「１株当たり配当額、剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab48"
+    },
+    "question_test155": {
+        "question": "富士通株式会社の2020年時点のJunYokotaMemberにおける「役職名、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab50"
+    },
+    "question_test159": {
+        "question": "富士通株式会社の2020年時点のJunYokotaMemberにおける「所有株式数（普通株式）、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab50"
+    },
+    "question_test161": {
+        "question": "富士通株式会社の2020年時点のAtsushiAbeMemberにおける「氏名、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab50"
+    },
+    "question_test164": {
+        "question": "富士通株式会社の2020年時点のAtsushiAbeMemberにおける「所有株式数（普通株式）、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab50"
+    },
+    "question_test165": {
+        "question": "富士通株式会社の2020年時点のScottCallonMemberにおける「所有株式数（普通株式）、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab51"
+    },
+    "question_test167": {
+        "question": "富士通株式会社の2020年時点のKojiHatsukawaMemberにおける「氏名、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab52"
+    },
+    "question_test168": {
+        "question": "富士通株式会社の2020年時点のKojiHatsukawaMemberにおける「生年月日、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab52"
+    },
+    "question_test169": {
+        "question": "富士通株式会社の2020年時点のKojiHatsukawaMemberにおける「任期、役員の状況（取締役（及び監査役））」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab52"
+    },
+    "question_test170": {
+        "question": "富士通株式会社の2019年における「監査証明業務に基づく報酬－提出会社、監査公認会計士等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab55"
+    },
+    "question_test175": {
+        "question": "富士通株式会社の2019年における「非監査業務に基づく報酬－連結子会社、監査公認会計士等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab55"
+    },
+    "question_test177": {
+        "question": "富士通株式会社の2020年における「非監査業務に基づく報酬－連結子会社、監査公認会計士等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab55"
+    },
+    "question_test178": {
+        "question": "富士通株式会社の2019年における「監査証明業務に基づく報酬－計、監査公認会計士等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab55"
+    },
+    "question_test181": {
+        "question": "富士通株式会社の2020年における「非監査業務に基づく報酬－計、監査公認会計士等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab55"
+    },
+    "question_test183": {
+        "question": "富士通株式会社の2020年のDirectorsExcludingOutsideDirectorsMemberにおける「基本報酬、役員区分ごとの報酬等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab58"
+    },
+    "question_test184": {
+        "question": "富士通株式会社の2020年のDirectorsExcludingOutsideDirectorsMemberにおける「賞与、役員区分ごとの報酬等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab58"
+    },
+    "question_test185": {
+        "question": "富士通株式会社の2020年のDirectorsExcludingOutsideDirectorsMemberにおける「報酬等の総額、役員区分ごとの報酬等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab58"
+    },
+    "question_test190": {
+        "question": "富士通株式会社の2020年のTakahitoTokitaMemberにおける「連結報酬等の総額、役員ごとの連結報酬等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab59"
+    },
+    "question_test192": {
+        "question": "富士通株式会社の2020年時点における「貸借対照表計上額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab61"
+    },
+    "question_test193": {
+        "question": "富士通株式会社の2020年時点における「銘柄数、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab61"
+    },
+    "question_test196": {
+        "question": "富士通株式会社の2020年における「株式数の増加に係る取得価額の合計額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab62"
+    },
+    "question_test198": {
+        "question": "富士通株式会社の2020年における「株式数が増加した銘柄数、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab62"
+    },
+    "question_test199": {
+        "question": "富士通株式会社の2020年における「株式数の増加に係る取得価額の合計額、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab62"
+    },
+    "question_test200": {
+        "question": "富士通株式会社の2020年における「株式数が増加した理由、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab62"
+    },
+    "question_test202": {
+        "question": "富士通株式会社の2020年における「株式数の減少に係る売却価額の合計額、非上場株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab63"
+    },
+    "question_test204": {
+        "question": "富士通株式会社の2020年における「株式数の減少に係る売却価額の合計額、非上場株式以外の株式、保有目的が純投資目的以外の目的である投資株式、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab63"
+    },
+    "question_test208": {
+        "question": "富士通株式会社の2020年時点のRow23Memberにおける「保有目的、定量的な保有効果及び株式数が増加した理由、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab65"
+    },
+    "question_test209": {
+        "question": "富士通株式会社の2020年時点のRow23Memberにおける「当該株式の発行者による提出会社の株式の保有の有無、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab65"
+    },
+    "question_test210": {
+        "question": "富士通株式会社の2020年時点のRow32Memberにおける「株式数、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab66"
+    },
+    "question_test213": {
+        "question": "富士通株式会社の2020年時点のRow53Memberにおける「保有目的、定量的な保有効果及び株式数が増加した理由、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab68"
+    },
+    "question_test217": {
+        "question": "富士通株式会社の2020年時点のRow58Memberにおける「保有目的、定量的な保有効果及び株式数が増加した理由、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab68"
+    },
+    "question_test218": {
+        "question": "富士通株式会社の2020年時点のRow58Memberにおける「当該株式の発行者による提出会社の株式の保有の有無、保有目的が純投資目的以外の目的である特定投資株式の明細、提出会社」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0104010-tab68"
+    },
+    "question_test220": {
+        "question": "富士通株式会社の2019年時点における「現金及び現金同等物（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test221": {
+        "question": "富士通株式会社の2020年時点における「現金及び現金同等物（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test222": {
+        "question": "富士通株式会社の2019年時点における「売上債権、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test227": {
+        "question": "富士通株式会社の2020年時点における「その他の流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test228": {
+        "question": "富士通株式会社の2019年時点における「売却目的で保有する資産を除く流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test229": {
+        "question": "富士通株式会社の2020年時点における「売却目的で保有する資産を除く流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test233": {
+        "question": "富士通株式会社の2020年時点における「流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test235": {
+        "question": "富士通株式会社の2020年時点における「有形固定資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test239": {
+        "question": "富士通株式会社の2020年時点における「無形資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test242": {
+        "question": "富士通株式会社の2019年時点における「その他の投資（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test245": {
+        "question": "富士通株式会社の2020年時点における「繰延税金資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test249": {
+        "question": "富士通株式会社の2020年時点における「非流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test254": {
+        "question": "富士通株式会社の2019年時点における「未払法人所得税、流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test255": {
+        "question": "富士通株式会社の2020年時点における「未払法人所得税、流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test257": {
+        "question": "富士通株式会社の2020年時点における「引当金、流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test258": {
+        "question": "富士通株式会社の2019年時点における「その他の流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test261": {
+        "question": "富士通株式会社の2020年時点における「売却目的で保有する資産に直接関連する負債を除く負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test263": {
+        "question": "富士通株式会社の2020年時点における「売却目的で保有する資産に直接関連する負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test265": {
+        "question": "富士通株式会社の2020年時点における「流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test266": {
+        "question": "富士通株式会社の2019年時点における「退職給付に係る負債、非流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test270": {
+        "question": "富士通株式会社の2019年時点における「繰延税金負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test271": {
+        "question": "富士通株式会社の2020年時点における「繰延税金負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test274": {
+        "question": "富士通株式会社の2019年時点における「非流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test275": {
+        "question": "富士通株式会社の2020年時点における「非流動負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test276": {
+        "question": "富士通株式会社の2019年時点における「負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test277": {
+        "question": "富士通株式会社の2020年時点における「負債（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test278": {
+        "question": "富士通株式会社の2019年時点における「資本金（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test281": {
+        "question": "富士通株式会社の2020年時点における「資本剰余金（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test282": {
+        "question": "富士通株式会社の2019年時点における「自己株式（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test283": {
+        "question": "富士通株式会社の2020年時点における「自己株式（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test285": {
+        "question": "富士通株式会社の2020年時点における「利益剰余金（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test287": {
+        "question": "富士通株式会社の2020年時点における「その他の資本の構成要素（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test288": {
+        "question": "富士通株式会社の2019年時点における「親会社の所有者に帰属する持分（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test289": {
+        "question": "富士通株式会社の2020年時点における「親会社の所有者に帰属する持分（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test290": {
+        "question": "富士通株式会社の2019年時点における「非支配持分（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test291": {
+        "question": "富士通株式会社の2020年時点における「非支配持分（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test292": {
+        "question": "富士通株式会社の2019年時点における「負債及び資本（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test293": {
+        "question": "富士通株式会社の2020年時点における「負債及び資本（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab70"
+    },
+    "question_test297": {
+        "question": "富士通株式会社の2020年における「売上原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test298": {
+        "question": "富士通株式会社の2019年における「売上総利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test301": {
+        "question": "富士通株式会社の2020年における「販売費及び一般管理費（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test305": {
+        "question": "富士通株式会社の2020年における「その他の費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test306": {
+        "question": "富士通株式会社の2019年における「営業利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test308": {
+        "question": "富士通株式会社の2019年における「金融収益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test309": {
+        "question": "富士通株式会社の2019年における「金融費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test312": {
+        "question": "富士通株式会社の2019年における「継続事業からの税引前利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test315": {
+        "question": "富士通株式会社の2019年における「当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test321": {
+        "question": "富士通株式会社の2019年における「基本的１株当たり当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test322": {
+        "question": "富士通株式会社の2020年における「基本的１株当たり当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test323": {
+        "question": "富士通株式会社の2019年における「希薄化後１株当たり当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test324": {
+        "question": "富士通株式会社の2020年における「希薄化後１株当たり当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab71"
+    },
+    "question_test325": {
+        "question": "富士通株式会社の2019年における「当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test327": {
+        "question": "富士通株式会社の2020年における「その他の包括利益を通じて公正価値で測定するものとして指定した資本性金融商品の公正価値の純変動額（税引後）、純損益に振り替えられることのないその他の包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test329": {
+        "question": "富士通株式会社の2020年における「確定給付制度の再測定（税引後）、純損益に振り替えられることのないその他の包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test330": {
+        "question": "富士通株式会社の2019年における「持分法によるその他の包括利益（税引後）、純損益に振り替えられることのないその他の包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test336": {
+        "question": "富士通株式会社の2019年における「持分法によるその他の包括利益（税引後）、純損益に振り替えられる可能性のあるその他の包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test337": {
+        "question": "富士通株式会社の2020年における「持分法によるその他の包括利益（税引後）、純損益に振り替えられる可能性のあるその他の包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test341": {
+        "question": "富士通株式会社の2020年における「親会社の所有者、当期包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test342": {
+        "question": "富士通株式会社の2019年における「非支配持分、当期包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab72"
+    },
+    "question_test344": {
+        "question": "富士通株式会社の2018年時点のShareCapitalIFRSMemberにおける「資本（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test346": {
+        "question": "富士通株式会社の2018年時点のEquityAttributableToOwnersOfParentIFRSMemberにおける「会計方針の変更による累積的影響額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test348": {
+        "question": "富士通株式会社の2018年時点のNonControllingInterestsIFRSMemberにおける「会計方針の変更を反映した当期首残高（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test349": {
+        "question": "富士通株式会社の2019年のRetainedEarningsIFRSMemberにおける「当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test350": {
+        "question": "富士通株式会社の2019年のNonControllingInterestsIFRSMemberにおける「当期利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test358": {
+        "question": "富士通株式会社の2019年のEquityAttributableToOwnersOfParentIFRSMemberにおける「株式報酬取引、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test360": {
+        "question": "富士通株式会社の2019年のEquityAttributableToOwnersOfParentIFRSMemberにおける「配当金、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test362": {
+        "question": "富士通株式会社の2019年のOtherComponentsOfEquityIFRSMemberにおける「利益剰余金への振替、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test369": {
+        "question": "富士通株式会社の2020年のNonControllingInterestsIFRSMemberにおける「当期包括利益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test371": {
+        "question": "富士通株式会社の2020年における「自己株式の処分、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test372": {
+        "question": "富士通株式会社の2020年における「株式報酬取引、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test373": {
+        "question": "富士通株式会社の2020年のNonControllingInterestsIFRSMemberにおける「配当金、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test374": {
+        "question": "富士通株式会社の2020年のEquityAttributableToOwnersOfParentIFRSMemberにおける「利益剰余金への振替、持分変動計算書（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test377": {
+        "question": "富士通株式会社の2020年時点のTreasurySharesIFRSMemberにおける「資本（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab73"
+    },
+    "question_test378": {
+        "question": "富士通株式会社の2019年における「継続事業からの税引前利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test379": {
+        "question": "富士通株式会社の2019年における「現金及び現金同等物の増減額（△は減少）（換算差額加算前）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test380": {
+        "question": "富士通株式会社の2020年における「現金及び現金同等物の増減額（△は減少）（換算差額加算前）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test382": {
+        "question": "富士通株式会社の2019年における「現金及び現金同等物の為替変動による影響（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test384": {
+        "question": "富士通株式会社の2019年時点における「現金及び現金同等物（BS残と異なる場合にCFで用いる）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test385": {
+        "question": "富士通株式会社の2020年時点における「現金及び現金同等物（BS残と異なる場合にCFで用いる）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab74"
+    },
+    "question_test388": {
+        "question": "富士通株式会社の2019年のOperatingSegmentsNotIncludedInReportableSegmentsAndOtherRevenueGeneratingBusinessActivitiesMemberにおける「売上収益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test389": {
+        "question": "富士通株式会社の2019年における「売上収益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test394": {
+        "question": "富士通株式会社の2019年における「持分法による投資損益（△は損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test395": {
+        "question": "富士通株式会社の2019年における「継続事業からの税引前利益（△損失）（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test396": {
+        "question": "富士通株式会社の2019年のOperatingSegmentsNotIncludedInReportableSegmentsAndOtherRevenueGeneratingBusinessActivitiesMemberにおける「減価償却費及び償却費、営業費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test397": {
+        "question": "富士通株式会社の2019年における「減価償却費及び償却費、営業費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test399": {
+        "question": "富士通株式会社の2019年における「減損損失、損益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab75"
+    },
+    "question_test406": {
+        "question": "富士通株式会社の2020年のUbiquitousSolutionsReportableSegmentMemberにおける「減価償却費及び償却費、営業費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab76"
+    },
+    "question_test411": {
+        "question": "富士通株式会社の2020年のUbiquitousSolutionsReportableSegmentMemberにおける「資本的支出（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab76"
+    },
+    "question_test412": {
+        "question": "富士通株式会社の2019年時点における「土地（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab80"
+    },
+    "question_test414": {
+        "question": "富士通株式会社の2019年時点における「建設仮勘定（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab80"
+    },
+    "question_test415": {
+        "question": "富士通株式会社の2019年時点における「有形固定資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab80"
+    },
+    "question_test421": {
+        "question": "富士通株式会社の2019年時点における「建物及び構築物、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab81"
+    },
+    "question_test422": {
+        "question": "富士通株式会社の2019年時点における「建設仮勘定、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab81"
+    },
+    "question_test424": {
+        "question": "富士通株式会社の2020年時点における「土地、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab81"
+    },
+    "question_test429": {
+        "question": "富士通株式会社の2019年時点における「建物及び構築物、減価償却累計額及び減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test430": {
+        "question": "富士通株式会社の2019年時点における「建設仮勘定、減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test431": {
+        "question": "富士通株式会社の2019年時点における「有形固定資産、減価償却累計額及び減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test432": {
+        "question": "富士通株式会社の2020年時点における「土地、減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test434": {
+        "question": "富士通株式会社の2020年時点における「建設仮勘定、減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test435": {
+        "question": "富士通株式会社の2020年時点における「有形固定資産、減価償却累計額及び減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab82"
+    },
+    "question_test439": {
+        "question": "富士通株式会社の2020年時点における「のれん（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab86"
+    },
+    "question_test440": {
+        "question": "富士通株式会社の2020年時点における「その他、無形資産の内訳（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab86"
+    },
+    "question_test441": {
+        "question": "富士通株式会社の2020年時点における「無形資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab86"
+    },
+    "question_test443": {
+        "question": "富士通株式会社の2019年時点における「その他、無形資産の内訳、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab87"
+    },
+    "question_test445": {
+        "question": "富士通株式会社の2020年時点における「のれん、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab87"
+    },
+    "question_test446": {
+        "question": "富士通株式会社の2020年時点における「その他、無形資産の内訳、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab87"
+    },
+    "question_test447": {
+        "question": "富士通株式会社の2020年時点における「無形資産の内訳、取得原価（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab87"
+    },
+    "question_test448": {
+        "question": "富士通株式会社の2019年時点における「のれん、減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab88"
+    },
+    "question_test449": {
+        "question": "富士通株式会社の2019年時点における「その他、無形資産の内訳、償却累計額及び減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab88"
+    },
+    "question_test451": {
+        "question": "富士通株式会社の2020年時点における「のれん、減損損失累計額（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab88"
+    },
+    "question_test454": {
+        "question": "富士通株式会社の2019年時点における「商品及び製品、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test456": {
+        "question": "富士通株式会社の2019年時点における「仕掛品、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test458": {
+        "question": "富士通株式会社の2019年時点における「原材料及び貯蔵品、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test459": {
+        "question": "富士通株式会社の2020年時点における「原材料及び貯蔵品、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test460": {
+        "question": "富士通株式会社の2019年時点における「棚卸資産、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test461": {
+        "question": "富士通株式会社の2020年時点における「棚卸資産、流動資産（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab113"
+    },
+    "question_test462": {
+        "question": "富士通株式会社の2019年における「その他の収益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab148"
+    },
+    "question_test464": {
+        "question": "富士通株式会社の2019年における「その他の費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab148"
+    },
+    "question_test465": {
+        "question": "富士通株式会社の2020年における「その他の費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab148"
+    },
+    "question_test466": {
+        "question": "富士通株式会社の2019年における「受取利息（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab152"
+    },
+    "question_test467": {
+        "question": "富士通株式会社の2020年における「受取利息（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab152"
+    },
+    "question_test470": {
+        "question": "富士通株式会社の2019年における「為替差益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab152"
+    },
+    "question_test471": {
+        "question": "富士通株式会社の2020年における「為替差益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab152"
+    },
+    "question_test473": {
+        "question": "富士通株式会社の2020年における「その他、金融収益（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab152"
+    },
+    "question_test481": {
+        "question": "富士通株式会社の2019年における「金融費用（IFRS）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105010-tab153"
+    },
+    "question_test487": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「売掛金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test489": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「有価証券」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test502": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「貸倒引当金、流動資産、一括控除」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test504": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「流動資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test506": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「建物（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test508": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「構築物（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test511": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「機械及び装置（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test513": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「車両運搬具（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test516": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「土地」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test517": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「土地」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test522": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「その他、無形固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test523": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「その他、無形固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test524": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「無形固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test525": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「無形固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test526": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「投資有価証券」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test527": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「投資有価証券」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test529": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「関係会社株式」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test531": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「関係会社長期貸付金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test533": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「破産更生債権等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test534": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「前払年金費用、投資その他の資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test538": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「その他、投資その他の資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test542": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「投資その他の資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test544": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test545": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「固定資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab184"
+    },
+    "question_test548": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「電子記録債務、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test550": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「買掛金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test551": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「買掛金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test552": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「短期借入金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test553": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「短期借入金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test555": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「１年内返済予定の長期借入金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test556": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「１年内償還予定の社債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test560": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「未払費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test561": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「未払費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test563": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「未払法人税等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test565": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「前受金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test566": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「預り金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test568": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「製品保証引当金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test571": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「関係会社事業損失引当金、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test572": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「役員賞与引当金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test574": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「事業構造改善引当金、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test575": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「事業構造改善引当金、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test576": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「環境対策引当金、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test579": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「その他、流動負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test582": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「社債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test584": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「長期借入金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test586": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「環境対策引当金、固定負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test587": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「環境対策引当金、固定負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test589": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「資産除去債務、固定負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test590": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「その他、固定負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test594": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test595": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「負債」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test599": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「その他資本剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test600": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「資本剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test601": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「資本剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test602": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「利益準備金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test603": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「利益準備金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test605": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「特別償却準備金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test606": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「繰越利益剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test607": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「繰越利益剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test609": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「利益剰余金」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test610": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「自己株式」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test611": {
+        "question": "富士通株式会社の2020年時点の個別決算のNonConsolidatedMemberにおける「自己株式」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test612": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「株主資本」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test618": {
+        "question": "富士通株式会社の2019年時点の個別決算のNonConsolidatedMemberにおける「負債純資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab185"
+    },
+    "question_test623": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「売上原価」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test624": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「売上総利益又は売上総損失（△）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test625": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「売上総利益又は売上総損失（△）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test626": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test627": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test629": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「営業利益又は営業損失（△）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test630": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「受取利息、営業外収益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test631": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「受取利息、営業外収益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test632": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「受取配当金、営業外収益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test634": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「営業外収益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test638": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「社債利息、営業外費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test639": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「社債利息、営業外費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test640": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「為替差損、営業外費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test642": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「貸倒引当金繰入額、営業外費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test644": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「営業外費用」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test646": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「経常利益又は経常損失（△）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test647": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「経常利益又は経常損失（△）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test651": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「投資有価証券売却益、特別利益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test653": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「特別利益」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test657": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「関係会社株式評価損、特別損失」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test660": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「減損損失、特別損失」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test662": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「特別損失」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test666": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「法人税、住民税及び事業税」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test667": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「法人税、住民税及び事業税」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test668": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「法人税等調整額」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test670": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「法人税等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test671": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「法人税等」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab186"
+    },
+    "question_test672": {
+        "question": "富士通株式会社の2019年の個別決算のCapitalStockMemberにおける「当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab187"
+    },
+    "question_test673": {
+        "question": "富士通株式会社の2019年時点の個別決算のOtherCapitalSurplusMemberにおける「純資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab187"
+    },
+    "question_test675": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「剰余金の配当」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test676": {
+        "question": "富士通株式会社の2019年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「自己株式の取得」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test677": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「自己株式の取得」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test678": {
+        "question": "富士通株式会社の2019年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「自己株式の処分」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test680": {
+        "question": "富士通株式会社の2019年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「特別償却準備金の取崩」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test681": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「特別償却準備金の取崩」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test682": {
+        "question": "富士通株式会社の2019年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「株主資本以外の項目の当期変動額（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test684": {
+        "question": "富士通株式会社の2019年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「当期変動額合計」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test685": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「当期変動額合計」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab188"
+    },
+    "question_test686": {
+        "question": "富士通株式会社の2019年時点の個別決算のOtherCapitalSurplusMemberにおける「純資産」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab189"
+    },
+    "question_test690": {
+        "question": "富士通株式会社の2020年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「自己株式の取得」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab190"
+    },
+    "question_test693": {
+        "question": "富士通株式会社の2020年の個別決算のValuationAndTranslationAdjustmentsMemberにおける「株主資本以外の項目の当期変動額（純額）」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab190"
+    },
+    "question_test696": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「従業員給料及び手当、販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab195"
+    },
+    "question_test697": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「減価償却費、販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab195"
+    },
+    "question_test698": {
+        "question": "富士通株式会社の2020年の個別決算のNonConsolidatedMemberにおける「減価償却費、販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab195"
+    },
+    "question_test699": {
+        "question": "富士通株式会社の2019年の個別決算のNonConsolidatedMemberにおける「研究開発費、販売費及び一般管理費」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0105020-tab195"
+    },
+    "question_test701": {
+        "question": "富士通株式会社の2020年時点における「提出書類、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test702": {
+        "question": "富士通株式会社の2020年時点における「根拠条文、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test703": {
+        "question": "富士通株式会社の2020年時点における「提出先、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test706": {
+        "question": "富士通株式会社の2020年時点における「会社名、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test708": {
+        "question": "富士通株式会社の2020年時点における「代表者の役職氏名、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test709": {
+        "question": "富士通株式会社の2020年時点における「本店の所在の場所、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test712": {
+        "question": "富士通株式会社の2020年時点における「最寄りの連絡場所、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    },
+    "question_test714": {
+        "question": "富士通株式会社の2020年時点における「事務連絡者氏名、最寄りの連絡場所、表紙」は？",
+        "doc_id": "S100IVC3",
+        "table_id": "S100IVC3-0000000-tab1"
+    }
+}
