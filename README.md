@@ -18,8 +18,8 @@ validディレクトリのデータセットを対象に、各タスクのベー
 ### TRタスク
 | 手法 | Accuracy | 正解数 / 質問数 |
 | --- | --- | --- |
-| text-embedding-3-small + Cell Text | 0.0128 | 40 / 3131 |
-| text-embedding-3-large + Cell Text | 0.0125 | 39 / 3131 |
+| text-embedding-3-small + Cell Text | 0.2111 | 661 / 3131 |
+| text-embedding-3-large + Cell Text | 0.1833 | 574 / 3131 |
 | text-embedding-3-small + HTML Text | 0.1843 | 577 / 3131 |
 | text-embedding-3-large + HTML Text | 0.1418 | 444 / 3131 |
 | text-embedding-3-small + Markdown Text | 0.1233 | 386 / 3131 |
