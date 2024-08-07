@@ -60,7 +60,16 @@
 `answersheet_tr_test.json`の解答部分を埋める形式で、出力ファイルを作成してください。
 
 ## Baseline Scores
-準備中
+validディレクトリのデータセットを対象に、ベースライン手法を作成し、評価を行いました。
+
+| 手法 | Accuracy | 正解数 / 質問数 |
+| --- | --- | --- |
+| text-embedding-3-small + Cell Text | 0.0128 | 40 / 3131 |
+| text-embedding-3-large + Cell Text | 0.0125 | 39 / 3131 |
+| text-embedding-3-small + HTML Text | 0.1843 | 577 / 3131 |
+| text-embedding-3-large + HTML Text | 0.1418 | 444 / 3131 |
+| text-embedding-3-small + Markdown Text | 0.1233 | 386 / 3131 |
+| text-embedding-3-large + Markdown Text | 0.1383 | 433 / 3131 |
 
 ## 特記事項
 - データセットについて、Question IDは各タスクで連番になっていませんが、これはタスク間でQuestionの重複を防ぐためです。

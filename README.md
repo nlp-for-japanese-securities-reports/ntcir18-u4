@@ -13,10 +13,17 @@ U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** �
 [TQAタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-qa?authuser=0, "Table QA")
 
 ## Baseline Scores
-validディレクトリのデータセットを対象に、各タスクのベースラインを作成し、評価を行いました。
+validディレクトリのデータセットを対象に、各タスクのベースライン手法を作成し、評価を行いました。
 
 ### TRタスク
-準備中
+| 手法 | Accuracy | 正解数 / 質問数 |
+| --- | --- | --- |
+| text-embedding-3-small + Cell Text | 0.0128 | 40 / 3131 |
+| text-embedding-3-large + Cell Text | 0.0125 | 39 / 3131 |
+| text-embedding-3-small + HTML Text | 0.1843 | 577 / 3131 |
+| text-embedding-3-large + HTML Text | 0.1418 | 444 / 3131 |
+| text-embedding-3-small + Markdown Text | 0.1233 | 386 / 3131 |
+| text-embedding-3-large + Markdown Text | 0.1383 | 433 / 3131 |
 
 ### TQAタスク
 | モデル | 詳細モデル名 | Accuracy | 正解数 / 総質問数 |
