@@ -31,7 +31,7 @@ def normalize_text(text):
     elif normalized_text.endswith('千'):
         normalized_text = normalized_text.replace('千', '000')
     # 末尾がパーセントであり、それ以外が数値である場合、末尾の単位を削除して位取りを変更する
-    if normalized_text[-1] in ["%", "％"]:
+    if normalized_text and normalized_text[-1] in ["%", "％"]:
         percentage_num_data = normalized_text.rstrip("%％")
         if is_num(percentage_num_data):
             normalized_text = str(float(percentage_num_data) / 100)
