@@ -6,11 +6,18 @@ U4タスクは、 **Table Retrievalサブタスク（以下、TRタスク）** �
 ## 更新情報
 - (2024/7/20) testデータの公開
 - (2024/7/11) validデータの公開
+- (2024/11/1) Formal Runのデータセットを公開
 
 ## タスク設定
 以下をご参照ください。\
 [TRタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-retrieval?authuser=0, "Table Retrieval")\
 [TQAタスク](https://sites.google.com/view/ntcir18-u4/subtasks/table-qa?authuser=0, "Table QA")
+
+## データ数
+|  | train | valid | test |
+| --- | ---: | ---: | ---: |
+| Table Retrieval | 10299 | 1441 | 2897 |
+| Table QA | 10300 | 1441 | 2898 |
 
 ## Baseline Scores
 validディレクトリのデータセットを対象に、各タスクのベースライン手法を作成し、評価を行いました。
@@ -36,7 +43,7 @@ validディレクトリのデータセットを対象に、各タスクのベー
 | Claude 3 Haiku | claude-3-haiku-20240307 | 0.3209 | 1005 / 3132 |
 
 ## 特記事項
-- データセットについて、Question IDは各タスクで連番になっていませんが、これはタスク間でQuestionの重複を防ぐためです。
+Table QAタスクのリーダーボード上のランキングは、Valueのスコアが優先されます。
 
 ## 出典
 - `table_retrieval`および`table_qa`ディレクトリ内のファイルは、EDINET 閲覧（提出）サイト（※）をもとに NTCIR-18 U4 タスクオーガナイザが作成したものです。

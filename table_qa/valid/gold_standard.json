@@ -1,0 +1,5766 @@
+{
+    "question_tqa_valid1": {
+        "cell_id": "S100ITAZ-0101010-tab4-r18c3",
+        "value": "0.6462"
+    },
+    "question_tqa_valid2": {
+        "cell_id": "S100IWZG-0105320-tab274-r10c5",
+        "value": "457935000000"
+    },
+    "question_tqa_valid3": {
+        "cell_id": "S100JBJB-0101010-tab3-r10c3",
+        "value": "3597951000000"
+    },
+    "question_tqa_valid4": {
+        "cell_id": "S100IY17-0105310-tab181-r30c4",
+        "value": "814000000"
+    },
+    "question_tqa_valid5": {
+        "cell_id": "S100IY1B-0105020-tab145-r24c6",
+        "value": "52533000000"
+    },
+    "question_tqa_valid6": {
+        "cell_id": "S100IY1B-0105030-tab282-r15c9",
+        "value": "200000000"
+    },
+    "question_tqa_valid7": {
+        "cell_id": "S100IY17-0101010-tab2-r4c5",
+        "value": "255019000000"
+    },
+    "question_tqa_valid8": {
+        "cell_id": "S100IYG9-0101010-tab2-r12c5",
+        "value": "66.45"
+    },
+    "question_tqa_valid9": {
+        "cell_id": "S100ILF5-0105310-tab125-r36c4",
+        "value": "-7391000000"
+    },
+    "question_tqa_valid10": {
+        "cell_id": "S100IWZG-0105040-tab88-r19c15",
+        "value": "3898000000"
+    },
+    "question_tqa_valid11": {
+        "cell_id": "S100IWZG-0104010-tab43-r7c8",
+        "value": "0.1740"
+    },
+    "question_tqa_valid12": {
+        "cell_id": "S100IY17-0105010-tab75-r16c6",
+        "value": "181302000000"
+    },
+    "question_tqa_valid13": {
+        "cell_id": "S100ITAZ-0101010-tab3-r8c7",
+        "value": "4627388000000"
+    },
+    "question_tqa_valid14": {
+        "cell_id": "S100ILF5-0105310-tab125-r40c4",
+        "value": "947000000"
+    },
+    "question_tqa_valid15": {
+        "cell_id": "S100J2S4-0105320-tab152-r17c3",
+        "value": "210455000000"
+    },
+    "question_tqa_valid16": {
+        "cell_id": "S100J4CT-0105330-tab180-r10c9",
+        "value": "34247000000"
+    },
+    "question_tqa_valid17": {
+        "cell_id": "S100J4CT-0105310-tab178-r11c5",
+        "value": "327987000000"
+    },
+    "question_tqa_valid18": {
+        "cell_id": "S100ITAZ-0105320-tab240-r4c4",
+        "value": "1376990000000"
+    },
+    "question_tqa_valid19": {
+        "cell_id": "S100JBJB-0101010-tab2-r11c5",
+        "value": "4458211000000"
+    },
+    "question_tqa_valid20": {
+        "cell_id": "S100J1GM-0101010-tab2-r6c4",
+        "value": "113381000000"
+    },
+    "question_tqa_valid21": {
+        "cell_id": "S100IYG9-0101010-tab3-r11c5",
+        "value": "28.00"
+    },
+    "question_tqa_valid22": {
+        "cell_id": "S100IYG9-0101010-tab2-r7c5",
+        "value": "111626000000"
+    },
+    "question_tqa_valid23": {
+        "cell_id": "S100IY1B-0000000-tab1-r11c2",
+        "value": "03(5250)8111"
+    },
+    "question_tqa_valid24": {
+        "cell_id": "S100J4CT-0101010-tab4-r19c4",
+        "value": "345676000000"
+    },
+    "question_tqa_valid25": {
+        "cell_id": "S100IWZG-0105040-tab89-r16c3",
+        "value": "－"
+    },
+    "question_tqa_valid26": {
+        "cell_id": "S100IWZG-0105320-tab274-r28c3",
+        "value": "23254000000"
+    },
+    "question_tqa_valid27": {
+        "cell_id": "S100ILF5-0104010-tab51-r5c3",
+        "value": "20000000"
+    },
+    "question_tqa_valid28": {
+        "cell_id": "S100IY1B-0105030-tab277-r25c3",
+        "value": "155000000"
+    },
+    "question_tqa_valid29": {
+        "cell_id": "S100IY17-0101010-tab2-r3c7",
+        "value": "2550305000000"
+    },
+    "question_tqa_valid30": {
+        "cell_id": "S100IY17-0105010-tab76-r22c4",
+        "value": "11097000000"
+    },
+    "question_tqa_valid31": {
+        "cell_id": "S100IWZG-0101010-tab2-r8c3",
+        "value": "391418000000"
+    },
+    "question_tqa_valid32": {
+        "cell_id": "S100ITAZ-0105310-tab237-r28c7",
+        "value": "204976000000"
+    },
+    "question_tqa_valid33": {
+        "cell_id": "S100IY1B-0105020-tab152-r6c2",
+        "value": "-16968000000"
+    },
+    "question_tqa_valid34": {
+        "cell_id": "S100IY17-0105310-tab181-r39c5",
+        "value": "90000000000"
+    },
+    "question_tqa_valid35": {
+        "cell_id": "S100J4CT-0104010-tab91-r2c3",
+        "value": "1489000000"
+    },
+    "question_tqa_valid36": {
+        "cell_id": "S100IWZG-0105310-tab272-r4c7",
+        "value": "707000000"
+    },
+    "question_tqa_valid37": {
+        "cell_id": "S100IY1B-0105010-tab107-r6c3",
+        "value": "183276000000"
+    },
+    "question_tqa_valid38": {
+        "cell_id": "S100IYG9-0105310-tab260-r5c5",
+        "value": "219379000000"
+    },
+    "question_tqa_valid39": {
+        "cell_id": "S100J4CT-0105310-tab177-r13c5",
+        "value": "297040000000"
+    },
+    "question_tqa_valid40": {
+        "cell_id": "S100J2S4-0105040-tab79-r5c7",
+        "value": "1109676000000"
+    },
+    "question_tqa_valid41": {
+        "cell_id": "S100IWZG-0105040-tab88-r21c5",
+        "value": "－"
+    },
+    "question_tqa_valid42": {
+        "cell_id": "S100IY1B-0101010-tab3-r6c4",
+        "value": "90270000000"
+    },
+    "question_tqa_valid43": {
+        "cell_id": "S100JBJB-0104010-tab99-r13c2",
+        "value": "車　谷　暢　昭"
+    },
+    "question_tqa_valid44": {
+        "cell_id": "S100IY17-0104010-tab33-r5c6",
+        "value": "1044014"
+    },
+    "question_tqa_valid45": {
+        "cell_id": "S100IY1B-0105010-tab106-r21c4",
+        "value": "17781000000"
+    },
+    "question_tqa_valid46": {
+        "cell_id": "S100IWZG-0105110-tab245-r12c4",
+        "value": "578981000000"
+    },
+    "question_tqa_valid47": {
+        "cell_id": "S100IY17-0104010-tab25-r2c1",
+        "value": "普通株式"
+    },
+    "question_tqa_valid48": {
+        "cell_id": "S100IWZG-0105310-tab273-r5c5",
+        "value": "40000000000"
+    },
+    "question_tqa_valid49": {
+        "cell_id": "S100J1GM-0105020-tab199-r39c3",
+        "value": "20280000000"
+    },
+    "question_tqa_valid50": {
+        "cell_id": "S100J2S4-0105010-tab73-r16c5",
+        "value": "1378336000000"
+    },
+    "question_tqa_valid51": {
+        "cell_id": "S100ILF5-0105040-tab61-r10c8",
+        "value": "58524000000"
+    },
+    "question_tqa_valid52": {
+        "cell_id": "S100J2S4-0105040-tab78-r11c5",
+        "value": "0"
+    },
+    "question_tqa_valid53": {
+        "cell_id": "S100IWZG-0105320-tab274-r22c3",
+        "value": "658000000"
+    },
+    "question_tqa_valid54": {
+        "cell_id": "S100JBJB-0105020-tab260-r12c2",
+        "value": "32000000"
+    },
+    "question_tqa_valid55": {
+        "cell_id": "S100IY17-0105310-tab181-r7c6",
+        "value": "128000000"
+    },
+    "question_tqa_valid56": {
+        "cell_id": "S100IYG9-0101010-tab3-r21c5",
+        "value": "1.185"
+    },
+    "question_tqa_valid57": {
+        "cell_id": "S100IY17-0104010-tab66-r4c2",
+        "value": "70000000"
+    },
+    "question_tqa_valid58": {
+        "cell_id": "S100J2S4-0105310-tab151-r7c5",
+        "value": "132742000000"
+    },
+    "question_tqa_valid59": {
+        "cell_id": "S100IYG9-0105110-tab234-r8c6",
+        "value": "77341000000"
+    },
+    "question_tqa_valid60": {
+        "cell_id": "S100JBJB-0105020-tab245-r34c2",
+        "value": "33747000000"
+    },
+    "question_tqa_valid61": {
+        "cell_id": "S100IYG9-0105320-tab261-r43c3",
+        "value": "1199000000"
+    },
+    "question_tqa_valid62": {
+        "cell_id": "S100ILF5-0104010-tab20-r5c5",
+        "value": "233"
+    },
+    "question_tqa_valid63": {
+        "cell_id": "S100ILF5-0105320-tab126-r23c2",
+        "value": "65032000000"
+    },
+    "question_tqa_valid64": {
+        "cell_id": "S100IYG9-0105025-tab127-r12c3",
+        "value": "48216000000"
+    },
+    "question_tqa_valid65": {
+        "cell_id": "S100IWZG-0105310-tab273-r36c5",
+        "value": "71371000000"
+    },
+    "question_tqa_valid66": {
+        "cell_id": "S100JBJB-0105020-tab247-r32c3",
+        "value": "550000000"
+    },
+    "question_tqa_valid67": {
+        "cell_id": "S100J2S4-0105310-tab151-r15c5",
+        "value": "798060000000"
+    },
+    "question_tqa_valid68": {
+        "cell_id": "S100IY17-0105310-tab181-r4c6",
+        "value": "148882000000"
+    },
+    "question_tqa_valid69": {
+        "cell_id": "S100ILF5-0105310-tab125-r9c4",
+        "value": "283000000"
+    },
+    "question_tqa_valid70": {
+        "cell_id": "S100IY1B-0105020-tab218-r5c3",
+        "value": "3394000000"
+    },
+    "question_tqa_valid71": {
+        "cell_id": "S100J4CT-0101010-tab5-r12c3",
+        "value": "－"
+    },
+    "question_tqa_valid72": {
+        "cell_id": "S100JBJB-0104010-tab56-r7c5",
+        "value": "80236"
+    },
+    "question_tqa_valid73": {
+        "cell_id": "S100J2S4-0101010-tab3-r14c6",
+        "value": "－"
+    },
+    "question_tqa_valid74": {
+        "cell_id": "S100J1GM-0105020-tab201-r13c2",
+        "value": "9573000000"
+    },
+    "question_tqa_valid75": {
+        "cell_id": "S100IYG9-0101010-tab2-r13c5",
+        "value": "0.060"
+    },
+    "question_tqa_valid76": {
+        "cell_id": "S100IY1B-0105020-tab123-r5c6",
+        "value": "125380000000"
+    },
+    "question_tqa_valid77": {
+        "cell_id": "S100IY1B-0000000-tab1-r3c2",
+        "value": "金融商品取引法第24条第1項"
+    },
+    "question_tqa_valid78": {
+        "cell_id": "S100J2S4-0105025-tab77-r13c3",
+        "value": "－"
+    },
+    "question_tqa_valid79": {
+        "cell_id": "S100J1GM-0104010-tab46-r6c4",
+        "value": "78"
+    },
+    "question_tqa_valid80": {
+        "cell_id": "S100ITAZ-0105320-tab241-r33c4",
+        "value": "－"
+    },
+    "question_tqa_valid81": {
+        "cell_id": "S100ITAZ-0105320-tab240-r41c4",
+        "value": "405000000"
+    },
+    "question_tqa_valid82": {
+        "cell_id": "S100IYG9-0104010-tab115-r3c4",
+        "value": "当社は、証券関連ビジネスの拡大を目的とし、新たなビジネスパートナーとの協働、関係強化を図るため、１銘柄を新規取得しております。また、有価証券関連業における取引先との関係の維持・強化を図るため、１銘柄を追加取得しております。"
+    },
+    "question_tqa_valid83": {
+        "cell_id": "S100J4CT-0101010-tab3-r12c3",
+        "value": "－"
+    },
+    "question_tqa_valid84": {
+        "cell_id": "S100J4CT-0101010-tab5-r17c6",
+        "value": "154.2"
+    },
+    "question_tqa_valid85": {
+        "cell_id": "S100J1GM-0101010-tab3-r6c5",
+        "value": "135119000000"
+    },
+    "question_tqa_valid86": {
+        "cell_id": "S100IYG9-0104010-tab28-r2c1",
+        "value": "普通株式"
+    },
+    "question_tqa_valid87": {
+        "cell_id": "S100IY17-0105100-tab93-r2c4",
+        "value": "51578000000"
+    },
+    "question_tqa_valid88": {
+        "cell_id": "S100J2S4-0104010-tab33-r5c7",
+        "value": "308"
+    },
+    "question_tqa_valid89": {
+        "cell_id": "S100IY1B-0105030-tab291-r11c2",
+        "value": "232000000"
+    },
+    "question_tqa_valid90": {
+        "cell_id": "S100J2S4-0104010-tab60-r4c2",
+        "value": "70000000"
+    },
+    "question_tqa_valid91": {
+        "cell_id": "S100IY1B-0105030-tab279-r42c3",
+        "value": "-1773000000"
+    },
+    "question_tqa_valid92": {
+        "cell_id": "S100J2S4-0105320-tab152-r34c4",
+        "value": "2130000000"
+    },
+    "question_tqa_valid93": {
+        "cell_id": "S100IYG9-0104010-tab107-r5c4",
+        "value": "434000000"
+    },
+    "question_tqa_valid94": {
+        "cell_id": "S100J1GM-0105020-tab200-r45c2",
+        "value": "875534000000"
+    },
+    "question_tqa_valid95": {
+        "cell_id": "S100IWZG-0101010-tab3-r13c1",
+        "value": "－"
+    },
+    "question_tqa_valid96": {
+        "cell_id": "S100J1GM-0105020-tab199-r44c3",
+        "value": "766798000000"
+    },
+    "question_tqa_valid97": {
+        "cell_id": "S100IY1B-0105010-tab110-r14c5",
+        "value": "47221000000"
+    },
+    "question_tqa_valid98": {
+        "cell_id": "S100J4CT-0105310-tab177-r26c6",
+        "value": "39533000000"
+    },
+    "question_tqa_valid99": {
+        "cell_id": "S100IYG9-0105020-tab126-r7c3",
+        "value": "－"
+    },
+    "question_tqa_valid100": {
+        "cell_id": "S100JBJB-0104010-tab59-r6c3",
+        "value": "－"
+    },
+    "question_tqa_valid101": {
+        "cell_id": "S100IY1B-0101010-tab4-r12c4",
+        "value": "30.00"
+    },
+    "question_tqa_valid102": {
+        "cell_id": "S100ITAZ-0104010-tab69-r5c6",
+        "value": "878"
+    },
+    "question_tqa_valid103": {
+        "cell_id": "S100ILF5-0105310-tab124-r38c6",
+        "value": "13239000000"
+    },
+    "question_tqa_valid104": {
+        "cell_id": "S100IY1B-0105010-tab111-r7c7",
+        "value": "369000000"
+    },
+    "question_tqa_valid105": {
+        "cell_id": "S100IY1B-0105010-tab108-r38c3",
+        "value": "53.62"
+    },
+    "question_tqa_valid106": {
+        "cell_id": "S100J4CT-0104010-tab85-r7c3",
+        "value": "28000000"
+    },
+    "question_tqa_valid107": {
+        "cell_id": "S100IYG9-0101010-tab2-r15c5",
+        "value": "10.1"
+    },
+    "question_tqa_valid108": {
+        "cell_id": "S100J1GM-0105020-tab203-r17c2",
+        "value": "573000000"
+    },
+    "question_tqa_valid109": {
+        "cell_id": "S100IWZG-0104010-tab74-r5c2",
+        "value": "355000000"
+    },
+    "question_tqa_valid110": {
+        "cell_id": "S100IY17-0105310-tab181-r33c5",
+        "value": "5441000000"
+    },
+    "question_tqa_valid111": {
+        "cell_id": "S100JBJB-0105020-tab260-r8c3",
+        "value": "2683000000"
+    },
+    "question_tqa_valid112": {
+        "cell_id": "S100IY1B-0105020-tab217-r14c3",
+        "value": "338000000"
+    },
+    "question_tqa_valid113": {
+        "cell_id": "S100IY1B-0104010-tab44-r14c4",
+        "value": "0.3740"
+    },
+    "question_tqa_valid114": {
+        "cell_id": "S100ITAZ-0105320-tab241-r28c3",
+        "value": "－"
+    },
+    "question_tqa_valid115": {
+        "cell_id": "S100IY1B-0105020-tab211-r6c3",
+        "value": "22121000000"
+    },
+    "question_tqa_valid116": {
+        "cell_id": "S100JBJB-0105020-tab247-r18c3",
+        "value": "7122000000"
+    },
+    "question_tqa_valid117": {
+        "cell_id": "S100IY1B-0101010-tab2-r16c3",
+        "value": "0.113"
+    },
+    "question_tqa_valid118": {
+        "cell_id": "S100J1GM-0104010-tab76-r4c3",
+        "value": "4000000"
+    },
+    "question_tqa_valid119": {
+        "cell_id": "S100IWZG-0105310-tab273-r28c4",
+        "value": "7826000000"
+    },
+    "question_tqa_valid120": {
+        "cell_id": "S100J2S4-0104010-tab62-r4c2",
+        "value": "30000000"
+    },
+    "question_tqa_valid121": {
+        "cell_id": "S100ILF5-0105010-tab56-r17c6",
+        "value": "115868000000"
+    },
+    "question_tqa_valid122": {
+        "cell_id": "S100IYG9-0105320-tab261-r33c4",
+        "value": "－"
+    },
+    "question_tqa_valid123": {
+        "cell_id": "S100IY1B-0105030-tab277-r44c3",
+        "value": "70779000000"
+    },
+    "question_tqa_valid124": {
+        "cell_id": "S100J1GM-0105020-tab201-r10c3",
+        "value": "4581000000"
+    },
+    "question_tqa_valid125": {
+        "cell_id": "S100ITAZ-0105310-tab239-r20c6",
+        "value": "296958000000"
+    },
+    "question_tqa_valid126": {
+        "cell_id": "S100IYG9-0101010-tab2-r8c5",
+        "value": "1370520000000"
+    },
+    "question_tqa_valid127": {
+        "cell_id": "S100IWZG-0105010-tab84-r16c7",
+        "value": "1709511000000"
+    },
+    "question_tqa_valid128": {
+        "cell_id": "S100IY1B-0104010-tab66-r26c2",
+        "value": "岩田喜美枝"
+    },
+    "question_tqa_valid129": {
+        "cell_id": "S100ITAZ-0105320-tab240-r39c3",
+        "value": "3250000000"
+    },
+    "question_tqa_valid130": {
+        "cell_id": "S100IWZG-0105010-tab84-r14c5",
+        "value": "－"
+    },
+    "question_tqa_valid131": {
+        "cell_id": "S100IY1B-0105010-tab108-r34c4",
+        "value": "0.35"
+    },
+    "question_tqa_valid132": {
+        "cell_id": "S100JBJB-0101010-tab2-r17c5",
+        "value": "1.89"
+    },
+    "question_tqa_valid133": {
+        "cell_id": "S100IY1B-0101010-tab4-r17c7",
+        "value": "0.027"
+    },
+    "question_tqa_valid134": {
+        "cell_id": "S100IY1B-0105030-tab279-r27c2",
+        "value": "2791000000"
+    },
+    "question_tqa_valid135": {
+        "cell_id": "S100IWZG-0105025-tab87-r12c5",
+        "value": "-536000000"
+    },
+    "question_tqa_valid136": {
+        "cell_id": "S100IWZG-0101010-tab3-r22c5",
+        "value": "－"
+    },
+    "question_tqa_valid137": {
+        "cell_id": "S100IY1B-0105030-tab291-r4c2",
+        "value": "18416000000"
+    },
+    "question_tqa_valid138": {
+        "cell_id": "S100IWZG-0101010-tab3-r17c3",
+        "value": "0.258"
+    },
+    "question_tqa_valid139": {
+        "cell_id": "S100ILF5-0105310-tab124-r40c6",
+        "value": "101492000000"
+    },
+    "question_tqa_valid140": {
+        "cell_id": "S100ITAZ-0104010-tab105-r1c2",
+        "value": "渡邊　明久"
+    },
+    "question_tqa_valid141": {
+        "cell_id": "S100IWZG-0101010-tab2-r9c5",
+        "value": "866573000000"
+    },
+    "question_tqa_valid142": {
+        "cell_id": "S100ITAZ-0104010-tab71-r10c4",
+        "value": "6637083"
+    },
+    "question_tqa_valid143": {
+        "cell_id": "S100IWZG-0105310-tab273-r8c4",
+        "value": "11044000000"
+    },
+    "question_tqa_valid144": {
+        "cell_id": "S100IY1B-0105010-tab111-r13c5",
+        "value": "－"
+    },
+    "question_tqa_valid145": {
+        "cell_id": "S100IY17-0105010-tab76-r5c4",
+        "value": "204535000000"
+    },
+    "question_tqa_valid146": {
+        "cell_id": "S100JBJB-0104010-tab111-r3c2",
+        "value": "Ayako Hirota Weissman"
+    },
+    "question_tqa_valid147": {
+        "cell_id": "S100ITAZ-0101010-tab4-r7c5",
+        "value": "666238000"
+    },
+    "question_tqa_valid148": {
+        "cell_id": "S100J1GM-0104010-tab60-r16c21",
+        "value": "（注）４"
+    },
+    "question_tqa_valid149": {
+        "cell_id": "S100J1GM-0101010-tab2-r6c3",
+        "value": "137426000000"
+    },
+    "question_tqa_valid150": {
+        "cell_id": "S100ITAZ-0105320-tab240-r27c3",
+        "value": "11337000000"
+    },
+    "question_tqa_valid151": {
+        "cell_id": "S100IY17-0105320-tab183-r11c4",
+        "value": "398932000000"
+    },
+    "question_tqa_valid152": {
+        "cell_id": "S100ITAZ-0105320-tab241-r14c3",
+        "value": "6249000000"
+    },
+    "question_tqa_valid153": {
+        "cell_id": "S100IWZG-0105310-tab271-r12c7",
+        "value": "345617000000"
+    },
+    "question_tqa_valid154": {
+        "cell_id": "S100JBJB-0105020-tab260-r11c2",
+        "value": "1680000000"
+    },
+    "question_tqa_valid155": {
+        "cell_id": "S100J1GM-0105020-tab201-r38c3",
+        "value": "62781000000"
+    },
+    "question_tqa_valid156": {
+        "cell_id": "S100IWZG-0105110-tab121-r11c6",
+        "value": "424217000000"
+    },
+    "question_tqa_valid157": {
+        "cell_id": "S100IY1B-0105010-tab108-r19c4",
+        "value": "20384000000"
+    },
+    "question_tqa_valid158": {
+        "cell_id": "S100ITAZ-0105310-tab238-r8c6",
+        "value": "19087000000"
+    },
+    "question_tqa_valid159": {
+        "cell_id": "S100ILF5-0105310-tab124-r37c6",
+        "value": "9298000000"
+    },
+    "question_tqa_valid160": {
+        "cell_id": "S100J1GM-0105020-tab201-r33c3",
+        "value": "772000000"
+    },
+    "question_tqa_valid161": {
+        "cell_id": "S100IYG9-0104010-tab53-r5c10",
+        "value": "621172"
+    },
+    "question_tqa_valid162": {
+        "cell_id": "S100JBJB-0105020-tab245-r27c3",
+        "value": "3490000000"
+    },
+    "question_tqa_valid163": {
+        "cell_id": "S100J1GM-0105020-tab201-r12c2",
+        "value": "3457000000"
+    },
+    "question_tqa_valid164": {
+        "cell_id": "S100J2S4-0105320-tab152-r8c3",
+        "value": "879154000000"
+    },
+    "question_tqa_valid165": {
+        "cell_id": "S100IYG9-0105010-tab122-r6c5",
+        "value": "415953000000"
+    },
+    "question_tqa_valid166": {
+        "cell_id": "S100JBJB-0101010-tab3-r13c5",
+        "value": "0"
+    },
+    "question_tqa_valid167": {
+        "cell_id": "S100J4CT-0105010-tab95-r6c3",
+        "value": "340254000000"
+    },
+    "question_tqa_valid168": {
+        "cell_id": "S100J2S4-0105310-tab149-r34c6",
+        "value": "367521000000"
+    },
+    "question_tqa_valid169": {
+        "cell_id": "S100J4CT-0000000-tab1-r10c2",
+        "value": "東京都中央区銀座八丁目４番17号（上記は登記上の本店所在地であり、実際の本社業務は下記の場所で行っています）"
+    },
+    "question_tqa_valid170": {
+        "cell_id": "S100J1GM-0105020-tab199-r27c3",
+        "value": "5837000000"
+    },
+    "question_tqa_valid171": {
+        "cell_id": "S100J1GM-0104010-tab46-r6c6",
+        "value": "879"
+    },
+    "question_tqa_valid172": {
+        "cell_id": "S100JBJB-0101010-tab2-r17c4",
+        "value": "－"
+    },
+    "question_tqa_valid173": {
+        "cell_id": "S100IWZG-0105320-tab274-r27c4",
+        "value": "41718000000"
+    },
+    "question_tqa_valid174": {
+        "cell_id": "S100J4CT-0105040-tab101-r10c5",
+        "value": "-5507000000"
+    },
+    "question_tqa_valid175": {
+        "cell_id": "S100IY1B-0105010-tab107-r10c4",
+        "value": "15191000000"
+    },
+    "question_tqa_valid176": {
+        "cell_id": "S100J2S4-0105310-tab150-r29c5",
+        "value": "－"
+    },
+    "question_tqa_valid177": {
+        "cell_id": "S100ITAZ-0105310-tab238-r20c5",
+        "value": "662000000"
+    },
+    "question_tqa_valid178": {
+        "cell_id": "S100J2S4-0105310-tab149-r10c4",
+        "value": "37000000"
+    },
+    "question_tqa_valid179": {
+        "cell_id": "S100ILF5-0105400-tab137-r6c2",
+        "value": "350000000"
+    },
+    "question_tqa_valid180": {
+        "cell_id": "S100J4CT-0104010-tab61-r2c28",
+        "value": "19000"
+    },
+    "question_tqa_valid181": {
+        "cell_id": "S100IYG9-0105320-tab261-r7c3",
+        "value": "105221000000"
+    },
+    "question_tqa_valid182": {
+        "cell_id": "S100ITAZ-0105310-tab237-r35c6",
+        "value": "183000000"
+    },
+    "question_tqa_valid183": {
+        "cell_id": "S100IY1B-0105030-tab283-r10c5",
+        "value": "-6000000"
+    },
+    "question_tqa_valid184": {
+        "cell_id": "S100ITAZ-0105320-tab241-r36c3",
+        "value": "73780000000"
+    },
+    "question_tqa_valid185": {
+        "cell_id": "S100ITAZ-0104010-tab69-r7c2",
+        "value": "0.0000"
+    },
+    "question_tqa_valid186": {
+        "cell_id": "S100J1GM-0101010-tab3-r14c5",
+        "value": "143.18"
+    },
+    "question_tqa_valid187": {
+        "cell_id": "S100IYG9-0101010-tab3-r20c5",
+        "value": "0.805"
+    },
+    "question_tqa_valid188": {
+        "cell_id": "S100J1GM-0104010-tab46-r7c10",
+        "value": "771230"
+    },
+    "question_tqa_valid189": {
+        "cell_id": "S100J4CT-0105110-tab121-r19c6",
+        "value": "599552000000"
+    },
+    "question_tqa_valid190": {
+        "cell_id": "S100JBJB-0105020-tab247-r31c3",
+        "value": "9083000000"
+    },
+    "question_tqa_valid191": {
+        "cell_id": "S100J2S4-0105310-tab151-r19c5",
+        "value": "77307000000"
+    },
+    "question_tqa_valid192": {
+        "cell_id": "S100JBJB-0105020-tab247-r12c2",
+        "value": "12846000000"
+    },
+    "question_tqa_valid193": {
+        "cell_id": "S100IY1B-0105030-tab278-r18c3",
+        "value": "378000000"
+    },
+    "question_tqa_valid194": {
+        "cell_id": "S100IY1B-0105030-tab279-r19c3",
+        "value": "2867000000"
+    },
+    "question_tqa_valid195": {
+        "cell_id": "S100JBJB-0101010-tab2-r7c3",
+        "value": "-460013000000"
+    },
+    "question_tqa_valid196": {
+        "cell_id": "S100IY1B-0105010-tab108-r10c3",
+        "value": "27823000000"
+    },
+    "question_tqa_valid197": {
+        "cell_id": "S100J2S4-0105310-tab149-r45c6",
+        "value": "824554000000"
+    },
+    "question_tqa_valid198": {
+        "cell_id": "S100IY1B-0105010-tab107-r7c3",
+        "value": "10989000000"
+    },
+    "question_tqa_valid199": {
+        "cell_id": "S100IYG9-0105010-tab122-r44c5",
+        "value": "6915000000"
+    },
+    "question_tqa_valid200": {
+        "cell_id": "S100ILF5-0105010-tab56-r15c6",
+        "value": "215908000000"
+    },
+    "question_tqa_valid201": {
+        "cell_id": "S100IY17-0104010-tab66-r5c5",
+        "value": "－"
+    },
+    "question_tqa_valid202": {
+        "cell_id": "S100JBJB-0104010-tab126-r6c2",
+        "value": "1941000000"
+    },
+    "question_tqa_valid203": {
+        "cell_id": "S100ITAZ-0105110-tab218-r8c3",
+        "value": "98587000000"
+    },
+    "question_tqa_valid204": {
+        "cell_id": "S100J2S4-0105320-tab152-r38c4",
+        "value": "11290000000"
+    },
+    "question_tqa_valid205": {
+        "cell_id": "S100J2S4-0105310-tab149-r35c6",
+        "value": "169284000000"
+    },
+    "question_tqa_valid206": {
+        "cell_id": "S100IYG9-0105310-tab260-r17c4",
+        "value": "1729000000"
+    },
+    "question_tqa_valid207": {
+        "cell_id": "S100JBJB-0105020-tab245-r41c3",
+        "value": "-2650000000"
+    },
+    "question_tqa_valid208": {
+        "cell_id": "S100J4CT-0000000-tab1-r3c2",
+        "value": "金融商品取引法第24条第１項"
+    },
+    "question_tqa_valid209": {
+        "cell_id": "S100ITAZ-0105010-tab134-r25c5",
+        "value": "284323000000"
+    },
+    "question_tqa_valid210": {
+        "cell_id": "S100ITAZ-0105320-tab240-r38c3",
+        "value": "5909000000"
+    },
+    "question_tqa_valid211": {
+        "cell_id": "S100J2S4-0101010-tab3-r4c6",
+        "value": "173087000000"
+    },
+    "question_tqa_valid212": {
+        "cell_id": "S100J1GM-0000000-tab1-r2c2",
+        "value": "有価証券報告書"
+    },
+    "question_tqa_valid213": {
+        "cell_id": "S100JBJB-0105020-tab246-r32c3",
+        "value": "200175000000"
+    },
+    "question_tqa_valid214": {
+        "cell_id": "S100J1GM-0105020-tab199-r27c2",
+        "value": "5939000000"
+    },
+    "question_tqa_valid215": {
+        "cell_id": "S100IY1B-0105020-tab151-r6c2",
+        "value": "108342000000"
+    },
+    "question_tqa_valid216": {
+        "cell_id": "S100JBJB-0104010-tab56-r7c6",
+        "value": "2838710"
+    },
+    "question_tqa_valid217": {
+        "cell_id": "S100J1GM-0104010-tab87-r3c2",
+        "value": "1"
+    },
+    "question_tqa_valid218": {
+        "cell_id": "S100IWZG-0104010-tab73-r6c7",
+        "value": "4"
+    },
+    "question_tqa_valid219": {
+        "cell_id": "S100IWZG-0105110-tab247-r6c4",
+        "value": "738000000"
+    },
+    "question_tqa_valid220": {
+        "cell_id": "S100JBJB-0105020-tab249-r13c5",
+        "value": "6000000"
+    },
+    "question_tqa_valid221": {
+        "cell_id": "S100IY1B-0105030-tab278-r7c3",
+        "value": "188142000000"
+    },
+    "question_tqa_valid222": {
+        "cell_id": "S100IY1B-0105030-tab291-r12c2",
+        "value": "6557000000"
+    },
+    "question_tqa_valid223": {
+        "cell_id": "S100J4CT-0104010-tab41-r6c2",
+        "value": "－"
+    },
+    "question_tqa_valid224": {
+        "cell_id": "S100IY1B-0101010-tab3-r8c4",
+        "value": "61968000000"
+    },
+    "question_tqa_valid225": {
+        "cell_id": "S100J2S4-0101010-tab3-r13c6",
+        "value": "254.16"
+    },
+    "question_tqa_valid226": {
+        "cell_id": "S100ILF5-0000000-tab1-r4c2",
+        "value": "関東財務局長"
+    },
+    "question_tqa_valid227": {
+        "cell_id": "S100ITAZ-0105310-tab238-r27c4",
+        "value": "1908245000000"
+    },
+    "question_tqa_valid228": {
+        "cell_id": "S100J1GM-0105020-tab199-r42c3",
+        "value": "-2285000000"
+    },
+    "question_tqa_valid229": {
+        "cell_id": "S100J1GM-0104010-tab46-r8c2",
+        "value": "0.0000"
+    },
+    "question_tqa_valid230": {
+        "cell_id": "S100ITAZ-0101010-tab3-r18c4",
+        "value": "213309000000"
+    },
+    "question_tqa_valid231": {
+        "cell_id": "S100J1GM-0105020-tab201-r41c2",
+        "value": "40952000000"
+    },
+    "question_tqa_valid232": {
+        "cell_id": "S100J4CT-0101010-tab5-r22c4",
+        "value": "1.023"
+    },
+    "question_tqa_valid233": {
+        "cell_id": "S100ILF5-0105040-tab62-r7c6",
+        "value": "71395000000"
+    },
+    "question_tqa_valid234": {
+        "cell_id": "S100J1GM-0105020-tab199-r9c2",
+        "value": "39174000000"
+    },
+    "question_tqa_valid235": {
+        "cell_id": "S100IY17-0105310-tab181-r35c5",
+        "value": "10613000000"
+    },
+    "question_tqa_valid236": {
+        "cell_id": "S100J2S4-0105320-tab152-r37c3",
+        "value": "28000000"
+    },
+    "question_tqa_valid237": {
+        "cell_id": "S100ITAZ-0105320-tab241-r6c4",
+        "value": "3999000000"
+    },
+    "question_tqa_valid238": {
+        "cell_id": "S100IYG9-0105310-tab260-r31c6",
+        "value": "510283000000"
+    },
+    "question_tqa_valid239": {
+        "cell_id": "S100JBJB-0105020-tab251-r15c4",
+        "value": "-1978000000"
+    },
+    "question_tqa_valid240": {
+        "cell_id": "S100IWZG-0105310-tab273-r30c5",
+        "value": "1868101000000"
+    },
+    "question_tqa_valid241": {
+        "cell_id": "S100IWZG-0105020-tab86-r8c3",
+        "value": "11439000000"
+    },
+    "question_tqa_valid242": {
+        "cell_id": "S100J4CT-0105330-tab181-r5c5",
+        "value": "-42634000000"
+    },
+    "question_tqa_valid243": {
+        "cell_id": "S100IYG9-0105320-tab261-r37c4",
+        "value": "7752000000"
+    },
+    "question_tqa_valid244": {
+        "cell_id": "S100IWZG-0105040-tab89-r6c3",
+        "value": "204309000000"
+    },
+    "question_tqa_valid245": {
+        "cell_id": "S100J2S4-0105010-tab74-r5c5",
+        "value": "36392000000"
+    },
+    "question_tqa_valid246": {
+        "cell_id": "S100ILF5-0104010-tab42-r39c2",
+        "value": "3501000"
+    },
+    "question_tqa_valid247": {
+        "cell_id": "S100IY17-0105010-tab75-r23c6",
+        "value": "281969000000"
+    },
+    "question_tqa_valid248": {
+        "cell_id": "S100ILF5-0105320-tab126-r30c4",
+        "value": "22000000"
+    },
+    "question_tqa_valid249": {
+        "cell_id": "S100IYG9-0105100-tab134-r3c2",
+        "value": "－"
+    },
+    "question_tqa_valid250": {
+        "cell_id": "S100J4CT-0105010-tab96-r28c5",
+        "value": "40000000000"
+    },
+    "question_tqa_valid251": {
+        "cell_id": "S100IWZG-0105050-tab91-r17c5",
+        "value": "205420000000"
+    },
+    "question_tqa_valid252": {
+        "cell_id": "S100IWZG-0105010-tab85-r6c5",
+        "value": "1214190000000"
+    },
+    "question_tqa_valid253": {
+        "cell_id": "S100IY1B-0104010-tab94-r3c2",
+        "value": "2"
+    },
+    "question_tqa_valid254": {
+        "cell_id": "S100IY1B-0105020-tab218-r5c2",
+        "value": "2932000000"
+    },
+    "question_tqa_valid255": {
+        "cell_id": "S100IWZG-0105310-tab271-r10c7",
+        "value": "674815000000"
+    },
+    "question_tqa_valid256": {
+        "cell_id": "S100IY1B-0105020-tab216-r6c2",
+        "value": "3178000000"
+    },
+    "question_tqa_valid257": {
+        "cell_id": "S100ITAZ-0105320-tab241-r29c3",
+        "value": "496000000"
+    },
+    "question_tqa_valid258": {
+        "cell_id": "S100IWZG-0104010-tab56-r34c34",
+        "value": "－"
+    },
+    "question_tqa_valid259": {
+        "cell_id": "S100ITAZ-0105320-tab241-r26c3",
+        "value": "0"
+    },
+    "question_tqa_valid260": {
+        "cell_id": "S100ITAZ-0104010-tab113-r3c3",
+        "value": "0"
+    },
+    "question_tqa_valid261": {
+        "cell_id": "S100IY1B-0101010-tab4-r6c3",
+        "value": "33139000000"
+    },
+    "question_tqa_valid262": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c3",
+        "value": "3411273"
+    },
+    "question_tqa_valid263": {
+        "cell_id": "S100IY1B-0104010-tab66-r3c3",
+        "value": "1948-01-05"
+    },
+    "question_tqa_valid264": {
+        "cell_id": "S100ILF5-0105320-tab126-r29c4",
+        "value": "378000000"
+    },
+    "question_tqa_valid265": {
+        "cell_id": "S100J2S4-0101010-tab2-r10c7",
+        "value": "297.50"
+    },
+    "question_tqa_valid266": {
+        "cell_id": "S100JBJB-0105020-tab247-r39c2",
+        "value": "-90000000"
+    },
+    "question_tqa_valid267": {
+        "cell_id": "S100JBJB-0104010-tab129-r5c5",
+        "value": "15"
+    },
+    "question_tqa_valid268": {
+        "cell_id": "S100J2S4-0105330-tab159-r7c2",
+        "value": "-26000000"
+    },
+    "question_tqa_valid269": {
+        "cell_id": "S100J1GM-0101010-tab3-r11c5",
+        "value": "859.01"
+    },
+    "question_tqa_valid270": {
+        "cell_id": "S100IWZG-0105310-tab273-r22c4",
+        "value": "6216000000"
+    },
+    "question_tqa_valid271": {
+        "cell_id": "S100ITAZ-0105320-tab241-r30c3",
+        "value": "10829000000"
+    },
+    "question_tqa_valid272": {
+        "cell_id": "S100J4CT-0105110-tab121-r11c3",
+        "value": "85128000000"
+    },
+    "question_tqa_valid273": {
+        "cell_id": "S100J4CT-0105010-tab96-r12c5",
+        "value": "213223000000"
+    },
+    "question_tqa_valid274": {
+        "cell_id": "S100ILF5-0104010-tab48-r3c2",
+        "value": "40000000"
+    },
+    "question_tqa_valid275": {
+        "cell_id": "S100IYG9-0104010-tab92-r20c30",
+        "value": "89000"
+    },
+    "question_tqa_valid276": {
+        "cell_id": "S100ILF5-0105010-tab56-r17c7",
+        "value": "111548000000"
+    },
+    "question_tqa_valid277": {
+        "cell_id": "S100J1GM-0105020-tab201-r10c2",
+        "value": "5004000000"
+    },
+    "question_tqa_valid278": {
+        "cell_id": "S100J1GM-0105020-tab201-r27c2",
+        "value": "5715000000"
+    },
+    "question_tqa_valid279": {
+        "cell_id": "S100IY1B-0101010-tab4-r7c3",
+        "value": "79863000000"
+    },
+    "question_tqa_valid280": {
+        "cell_id": "S100J2S4-0104010-tab33-r5c4",
+        "value": "44831"
+    },
+    "question_tqa_valid281": {
+        "cell_id": "S100J2S4-0104010-tab34-r12c4",
+        "value": "0.3024"
+    },
+    "question_tqa_valid282": {
+        "cell_id": "S100J2S4-0105040-tab79-r13c7",
+        "value": "92426000000"
+    },
+    "question_tqa_valid283": {
+        "cell_id": "S100J1GM-0104010-tab76-r6c3",
+        "value": "5000000"
+    },
+    "question_tqa_valid284": {
+        "cell_id": "S100ITAZ-0105310-tab238-r21c5",
+        "value": "2953000000"
+    },
+    "question_tqa_valid285": {
+        "cell_id": "S100ITAZ-0101010-tab3-r5c4",
+        "value": "201700000000"
+    },
+    "question_tqa_valid286": {
+        "cell_id": "S100J1GM-0105020-tab203-r13c7",
+        "value": "-21000000"
+    },
+    "question_tqa_valid287": {
+        "cell_id": "S100J1GM-0105020-tab200-r18c2",
+        "value": "9494000000"
+    },
+    "question_tqa_valid288": {
+        "cell_id": "S100IWZG-0105310-tab271-r12c8",
+        "value": "333432000000"
+    },
+    "question_tqa_valid289": {
+        "cell_id": "S100IY1B-0104010-tab90-r6c3",
+        "value": "45000000"
+    },
+    "question_tqa_valid290": {
+        "cell_id": "S100IWZG-0105110-tab248-r6c4",
+        "value": "-499000000"
+    },
+    "question_tqa_valid291": {
+        "cell_id": "S100J2S4-0101010-tab2-r14c5",
+        "value": "15.58"
+    },
+    "question_tqa_valid292": {
+        "cell_id": "S100ITAZ-0105320-tab241-r23c4",
+        "value": "19000000"
+    },
+    "question_tqa_valid293": {
+        "cell_id": "S100IWZG-0101010-tab13-r8c2",
+        "value": "5591"
+    },
+    "question_tqa_valid294": {
+        "cell_id": "S100J2S4-0105310-tab149-r18c5",
+        "value": "1002259000000"
+    },
+    "question_tqa_valid295": {
+        "cell_id": "S100IYG9-0105020-tab126-r15c4",
+        "value": "1283000000"
+    },
+    "question_tqa_valid296": {
+        "cell_id": "S100IY1B-0105030-tab277-r16c2",
+        "value": "4812000000"
+    },
+    "question_tqa_valid297": {
+        "cell_id": "S100JBJB-0105020-tab246-r20c2",
+        "value": "30000000000"
+    },
+    "question_tqa_valid298": {
+        "cell_id": "S100IYG9-0104010-tab53-r5c7",
+        "value": "10433"
+    },
+    "question_tqa_valid299": {
+        "cell_id": "S100IY1B-0104010-tab90-r7c3",
+        "value": "45000000"
+    },
+    "question_tqa_valid300": {
+        "cell_id": "S100IY17-0104010-tab25-r2c5",
+        "value": "単元株式数は100株であります。"
+    },
+    "question_tqa_valid301": {
+        "cell_id": "S100IWZG-0105310-tab272-r12c6",
+        "value": "42877000000"
+    },
+    "question_tqa_valid302": {
+        "cell_id": "S100ITAZ-0101010-tab3-r18c3",
+        "value": "188923000000"
+    },
+    "question_tqa_valid303": {
+        "cell_id": "S100IWZG-0104010-tab43-r7c6",
+        "value": "0.0661"
+    },
+    "question_tqa_valid304": {
+        "cell_id": "S100ILF5-0104010-tab17-r2c1",
+        "value": "普通株式"
+    },
+    "question_tqa_valid305": {
+        "cell_id": "S100ITAZ-0105310-tab239-r36c4",
+        "value": "101000000"
+    },
+    "question_tqa_valid306": {
+        "cell_id": "S100IY1B-0105010-tab107-r28c4",
+        "value": "761545000000"
+    },
+    "question_tqa_valid307": {
+        "cell_id": "S100J2S4-0104010-tab60-r5c2",
+        "value": "203000000"
+    },
+    "question_tqa_valid308": {
+        "cell_id": "S100J2S4-0105320-tab152-r26c3",
+        "value": "25390000000"
+    },
+    "question_tqa_valid309": {
+        "cell_id": "S100ITAZ-0105320-tab240-r22c3",
+        "value": "41000000"
+    },
+    "question_tqa_valid310": {
+        "cell_id": "S100IYG9-0105310-tab260-r12c5",
+        "value": "390938000000"
+    },
+    "question_tqa_valid311": {
+        "cell_id": "S100J4CT-0105310-tab178-r10c5",
+        "value": "2042000000"
+    },
+    "question_tqa_valid312": {
+        "cell_id": "S100IWZG-0101010-tab3-r12c4",
+        "value": "67527.00"
+    },
+    "question_tqa_valid313": {
+        "cell_id": "S100J2S4-0101010-tab3-r7c4",
+        "value": "476085978"
+    },
+    "question_tqa_valid314": {
+        "cell_id": "S100IY1B-0105030-tab278-r35c3",
+        "value": "278189000000"
+    },
+    "question_tqa_valid315": {
+        "cell_id": "S100IWZG-0105320-tab274-r4c3",
+        "value": "2430864000000"
+    },
+    "question_tqa_valid316": {
+        "cell_id": "S100J2S4-0104010-tab33-r6c8",
+        "value": "0.0329"
+    },
+    "question_tqa_valid317": {
+        "cell_id": "S100ITAZ-0105320-tab241-r27c4",
+        "value": "1616000000"
+    },
+    "question_tqa_valid318": {
+        "cell_id": "S100J4CT-0104010-tab92-r3c2",
+        "value": "1"
+    },
+    "question_tqa_valid319": {
+        "cell_id": "S100IY1B-0105030-tab278-r29c2",
+        "value": "680000000"
+    },
+    "question_tqa_valid320": {
+        "cell_id": "S100IYG9-0101010-tab9-r2c2",
+        "value": "42.3"
+    },
+    "question_tqa_valid321": {
+        "cell_id": "S100JBJB-0105020-tab246-r40c3",
+        "value": "408328000000"
+    },
+    "question_tqa_valid322": {
+        "cell_id": "S100IY1B-0104010-tab82-r6c5",
+        "value": "41000000"
+    },
+    "question_tqa_valid323": {
+        "cell_id": "S100J4CT-0105025-tab98-r9c5",
+        "value": "-46000000"
+    },
+    "question_tqa_valid324": {
+        "cell_id": "S100J4CT-0105010-tab96-r18c3",
+        "value": "1334000000"
+    },
+    "question_tqa_valid325": {
+        "cell_id": "S100J2S4-0104010-tab37-r4c4",
+        "value": "－"
+    },
+    "question_tqa_valid326": {
+        "cell_id": "S100IYG9-0105310-tab260-r41c2",
+        "value": "2434724000000"
+    },
+    "question_tqa_valid327": {
+        "cell_id": "S100IY1B-0105010-tab107-r21c3",
+        "value": "137157000000"
+    },
+    "question_tqa_valid328": {
+        "cell_id": "S100IY1B-0105020-tab148-r6c6",
+        "value": "53447000000"
+    },
+    "question_tqa_valid329": {
+        "cell_id": "S100J2S4-0105310-tab150-r30c4",
+        "value": "5839000000"
+    },
+    "question_tqa_valid330": {
+        "cell_id": "S100IYG9-0101010-tab2-r6c4",
+        "value": "104067000000"
+    },
+    "question_tqa_valid331": {
+        "cell_id": "S100ITAZ-0105050-tab143-r23c2",
+        "value": "-49832000000"
+    },
+    "question_tqa_valid332": {
+        "cell_id": "S100IYG9-0105310-tab260-r29c6",
+        "value": "1860000000"
+    },
+    "question_tqa_valid333": {
+        "cell_id": "S100IY1B-0105010-tab110-r8c4",
+        "value": "955000000"
+    },
+    "question_tqa_valid334": {
+        "cell_id": "S100J4CT-0105310-tab177-r20c5",
+        "value": "113000000"
+    },
+    "question_tqa_valid335": {
+        "cell_id": "S100JBJB-0101010-tab2-r22c5",
+        "value": "141256"
+    },
+    "question_tqa_valid336": {
+        "cell_id": "S100J2S4-0105310-tab149-r21c5",
+        "value": "66000000"
+    },
+    "question_tqa_valid337": {
+        "cell_id": "S100J4CT-0101010-tab5-r12c5",
+        "value": "11.0"
+    },
+    "question_tqa_valid338": {
+        "cell_id": "S100IYG9-0101010-tab2-r6c5",
+        "value": "110579000000"
+    },
+    "question_tqa_valid339": {
+        "cell_id": "S100ITAZ-0105010-tab132-r37c7",
+        "value": "-986000000"
+    },
+    "question_tqa_valid340": {
+        "cell_id": "S100IY17-0105320-tab183-r41c3",
+        "value": "－"
+    },
+    "question_tqa_valid341": {
+        "cell_id": "S100J2S4-0105010-tab73-r9c4",
+        "value": "5826000000"
+    },
+    "question_tqa_valid342": {
+        "cell_id": "S100IY1B-0105020-tab152-r7c7",
+        "value": "-62491000000"
+    },
+    "question_tqa_valid343": {
+        "cell_id": "S100IY1B-0101010-tab4-r17c3",
+        "value": "0.090"
+    },
+    "question_tqa_valid344": {
+        "cell_id": "S100IY1B-0105030-tab278-r9c2",
+        "value": "－"
+    },
+    "question_tqa_valid345": {
+        "cell_id": "S100JBJB-0105020-tab245-r28c3",
+        "value": "60045000000"
+    },
+    "question_tqa_valid346": {
+        "cell_id": "S100J1GM-0105020-tab204-r19c3",
+        "value": "140993000000"
+    },
+    "question_tqa_valid347": {
+        "cell_id": "S100IYG9-0105320-tab261-r12c5",
+        "value": "1840000000"
+    },
+    "question_tqa_valid348": {
+        "cell_id": "S100ILF5-0105010-tab56-r16c7",
+        "value": "-104359000000"
+    },
+    "question_tqa_valid349": {
+        "cell_id": "S100JBJB-0105020-tab246-r47c3",
+        "value": "2707000000"
+    },
+    "question_tqa_valid350": {
+        "cell_id": "S100ITAZ-0105310-tab238-r18c6",
+        "value": "6423000000"
+    },
+    "question_tqa_valid351": {
+        "cell_id": "S100ITAZ-0105310-tab239-r30c5",
+        "value": "1313609000000"
+    },
+    "question_tqa_valid352": {
+        "cell_id": "S100ITAZ-0105320-tab240-r5c3",
+        "value": "527555000000"
+    },
+    "question_tqa_valid353": {
+        "cell_id": "S100JBJB-0101010-tab2-r5c3",
+        "value": "-581376000000"
+    },
+    "question_tqa_valid354": {
+        "cell_id": "S100ILF5-0105310-tab125-r37c4",
+        "value": "415537000000"
+    },
+    "question_tqa_valid355": {
+        "cell_id": "S100IWZG-0105020-tab86-r16c5",
+        "value": "304527000000"
+    },
+    "question_tqa_valid356": {
+        "cell_id": "S100J2S4-0105310-tab149-r11c5",
+        "value": "10177000000"
+    },
+    "question_tqa_valid357": {
+        "cell_id": "S100JBJB-0104010-tab107-r3c2",
+        "value": "藤　森　義　明"
+    },
+    "question_tqa_valid358": {
+        "cell_id": "S100IYG9-0105310-tab259-r10c4",
+        "value": "410938000000"
+    },
+    "question_tqa_valid359": {
+        "cell_id": "S100J2S4-0105320-tab152-r20c3",
+        "value": "888000000"
+    },
+    "question_tqa_valid360": {
+        "cell_id": "S100IY1B-0105030-tab280-r15c4",
+        "value": "－"
+    },
+    "question_tqa_valid361": {
+        "cell_id": "S100IY17-0105100-tab95-r2c2",
+        "value": "2366000000"
+    },
+    "question_tqa_valid362": {
+        "cell_id": "S100J4CT-0101010-tab5-r7c4",
+        "value": "565320010"
+    },
+    "question_tqa_valid363": {
+        "cell_id": "S100IY1B-0105030-tab291-r19c2",
+        "value": "5697000000"
+    },
+    "question_tqa_valid364": {
+        "cell_id": "S100IYG9-0105110-tab234-r12c8",
+        "value": "97000000"
+    },
+    "question_tqa_valid365": {
+        "cell_id": "S100IWZG-0105010-tab84-r22c5",
+        "value": "72636000000"
+    },
+    "question_tqa_valid366": {
+        "cell_id": "S100IWZG-0105330-tab279-r7c3",
+        "value": "－"
+    },
+    "question_tqa_valid367": {
+        "cell_id": "S100ITAZ-0104010-tab113-r3c4",
+        "value": "166000000"
+    },
+    "question_tqa_valid368": {
+        "cell_id": "S100ITAZ-0105310-tab238-r7c5",
+        "value": "1670000000"
+    },
+    "question_tqa_valid369": {
+        "cell_id": "S100J1GM-0105020-tab201-r9c3",
+        "value": "48579000000"
+    },
+    "question_tqa_valid370": {
+        "cell_id": "S100ITAZ-0104010-tab119-r6c14",
+        "value": "82000000"
+    },
+    "question_tqa_valid371": {
+        "cell_id": "S100ITAZ-0104010-tab69-r6c5",
+        "value": "567248"
+    },
+    "question_tqa_valid372": {
+        "cell_id": "S100IWZG-0105110-tab130-r5c14",
+        "value": "1212390000000"
+    },
+    "question_tqa_valid373": {
+        "cell_id": "S100IYG9-0105320-tab261-r5c4",
+        "value": "11619000000"
+    },
+    "question_tqa_valid374": {
+        "cell_id": "S100IWZG-0101010-tab3-r7c4",
+        "value": "177251000000"
+    },
+    "question_tqa_valid375": {
+        "cell_id": "S100J4CT-0105320-tab179-r19c3",
+        "value": "586000000"
+    },
+    "question_tqa_valid376": {
+        "cell_id": "S100IY1B-0105020-tab218-r11c3",
+        "value": "2292000000"
+    },
+    "question_tqa_valid377": {
+        "cell_id": "S100IY1B-0105010-tab112-r8c9",
+        "value": "406000000"
+    },
+    "question_tqa_valid378": {
+        "cell_id": "S100J4CT-0105320-tab179-r15c4",
+        "value": "1116000000"
+    },
+    "question_tqa_valid379": {
+        "cell_id": "S100JBJB-0105020-tab245-r13c2",
+        "value": "54838000000"
+    },
+    "question_tqa_valid380": {
+        "cell_id": "S100IWZG-0101010-tab3-r14c5",
+        "value": "92.75"
+    },
+    "question_tqa_valid381": {
+        "cell_id": "S100IYG9-0105310-tab259-r28c5",
+        "value": "2185247000000"
+    },
+    "question_tqa_valid382": {
+        "cell_id": "S100IY17-0105320-tab183-r41c4",
+        "value": "5000000"
+    },
+    "question_tqa_valid383": {
+        "cell_id": "S100ITAZ-0105310-tab237-r29c5",
+        "value": "33283000000"
+    },
+    "question_tqa_valid384": {
+        "cell_id": "S100J2S4-0105320-tab152-r34c3",
+        "value": "0"
+    },
+    "question_tqa_valid385": {
+        "cell_id": "S100ILF5-0000000-tab1-r14c2",
+        "value": "(03)6741－1204"
+    },
+    "question_tqa_valid386": {
+        "cell_id": "S100J2S4-0000000-tab1-r4c2",
+        "value": "関東財務局長"
+    },
+    "question_tqa_valid387": {
+        "cell_id": "S100JBJB-0104010-tab126-r4c3",
+        "value": "90000000"
+    },
+    "question_tqa_valid388": {
+        "cell_id": "S100ITAZ-0105320-tab241-r33c3",
+        "value": "759000000"
+    },
+    "question_tqa_valid389": {
+        "cell_id": "S100ILF5-0105020-tab58-r19c3",
+        "value": "－"
+    },
+    "question_tqa_valid390": {
+        "cell_id": "S100J1GM-0101010-tab3-r6c4",
+        "value": "67320000000"
+    },
+    "question_tqa_valid391": {
+        "cell_id": "S100IY17-0104010-tab70-r3c3",
+        "value": "11775000000"
+    },
+    "question_tqa_valid392": {
+        "cell_id": "S100J1GM-0105020-tab199-r17c2",
+        "value": "600919000000"
+    },
+    "question_tqa_valid393": {
+        "cell_id": "S100IY1B-0104010-tab66-r26c36",
+        "value": "500"
+    },
+    "question_tqa_valid394": {
+        "cell_id": "S100ITAZ-0105010-tab134-r27c5",
+        "value": "267062000000"
+    },
+    "question_tqa_valid395": {
+        "cell_id": "S100IY1B-0104010-tab90-r6c2",
+        "value": "4"
+    },
+    "question_tqa_valid396": {
+        "cell_id": "S100IY17-0105040-tab81-r10c6",
+        "value": "613000000"
+    },
+    "question_tqa_valid397": {
+        "cell_id": "S100IWZG-0101010-tab3-r17c4",
+        "value": "0.287"
+    },
+    "question_tqa_valid398": {
+        "cell_id": "S100ITAZ-0105310-tab239-r10c4",
+        "value": "185635000000"
+    },
+    "question_tqa_valid399": {
+        "cell_id": "S100J1GM-0105020-tab200-r39c3",
+        "value": "99000000"
+    },
+    "question_tqa_valid400": {
+        "cell_id": "S100IWZG-0105310-tab273-r30c4",
+        "value": "1621595000000"
+    },
+    "question_tqa_valid401": {
+        "cell_id": "S100J4CT-0101010-tab5-r19c5",
+        "value": "609"
+    },
+    "question_tqa_valid402": {
+        "cell_id": "S100J4CT-0105110-tab154-r9c2",
+        "value": "69976000000"
+    },
+    "question_tqa_valid403": {
+        "cell_id": "S100ITAZ-0105320-tab240-r30c4",
+        "value": "2152000000"
+    },
+    "question_tqa_valid404": {
+        "cell_id": "S100JBJB-0105020-tab245-r21c3",
+        "value": "3322000000"
+    },
+    "question_tqa_valid405": {
+        "cell_id": "S100J1GM-0105020-tab205-r9c3",
+        "value": "－"
+    },
+    "question_tqa_valid406": {
+        "cell_id": "S100JBJB-0105020-tab248-r14c11",
+        "value": "-399934000000"
+    },
+    "question_tqa_valid407": {
+        "cell_id": "S100ITAZ-0105330-tab247-r10c4",
+        "value": "－"
+    },
+    "question_tqa_valid408": {
+        "cell_id": "S100IY1B-0105010-tab108-r6c4",
+        "value": "696166000000"
+    },
+    "question_tqa_valid409": {
+        "cell_id": "S100J2S4-0105050-tab83-r21c3",
+        "value": "－"
+    },
+    "question_tqa_valid410": {
+        "cell_id": "S100IWZG-0105310-tab272-r28c4",
+        "value": "3251871000000"
+    },
+    "question_tqa_valid411": {
+        "cell_id": "S100J2S4-0105320-tab152-r29c3",
+        "value": "75000000"
+    },
+    "question_tqa_valid412": {
+        "cell_id": "S100IY1B-0105030-tab279-r28c3",
+        "value": "206000000"
+    },
+    "question_tqa_valid413": {
+        "cell_id": "S100IY17-0105100-tab86-r2c2",
+        "value": "-756547000000"
+    },
+    "question_tqa_valid414": {
+        "cell_id": "S100IWZG-0105310-tab271-r29c8",
+        "value": "-84379000000"
+    },
+    "question_tqa_valid415": {
+        "cell_id": "S100J4CT-0105010-tab95-r8c5",
+        "value": "40991000000"
+    },
+    "question_tqa_valid416": {
+        "cell_id": "S100IWZG-0105110-tab123-r3c4",
+        "value": "49820000000"
+    },
+    "question_tqa_valid417": {
+        "cell_id": "S100JBJB-0105020-tab245-r43c2",
+        "value": "831854000000"
+    },
+    "question_tqa_valid418": {
+        "cell_id": "S100ILF5-0105310-tab124-r34c6",
+        "value": "502000000"
+    },
+    "question_tqa_valid419": {
+        "cell_id": "S100J2S4-0104010-tab65-r2c3",
+        "value": "16000000"
+    },
+    "question_tqa_valid420": {
+        "cell_id": "S100J4CT-0105110-tab119-r3c4",
+        "value": "19111000000"
+    },
+    "question_tqa_valid421": {
+        "cell_id": "S100JBJB-0105020-tab248-r13c3",
+        "value": "-299999000000"
+    },
+    "question_tqa_valid422": {
+        "cell_id": "S100IWZG-0105050-tab91-r16c5",
+        "value": "-357000000"
+    },
+    "question_tqa_valid423": {
+        "cell_id": "S100IYG9-0104010-tab57-r3c4",
+        "value": "－"
+    },
+    "question_tqa_valid424": {
+        "cell_id": "S100IY1B-0105030-tab278-r49c3",
+        "value": "-2160000000"
+    },
+    "question_tqa_valid425": {
+        "cell_id": "S100IYG9-0105320-tab261-r14c4",
+        "value": "2084000000"
+    },
+    "question_tqa_valid426": {
+        "cell_id": "S100IWZG-0105020-tab86-r27c5",
+        "value": "99.27"
+    },
+    "question_tqa_valid427": {
+        "cell_id": "S100J4CT-0105310-tab178-r29c5",
+        "value": "750000000"
+    },
+    "question_tqa_valid428": {
+        "cell_id": "S100IYG9-0105310-tab259-r20c4",
+        "value": "1939856000000"
+    },
+    "question_tqa_valid429": {
+        "cell_id": "S100J4CT-0105020-tab97-r5c3",
+        "value": "1169162000000"
+    },
+    "question_tqa_valid430": {
+        "cell_id": "S100J2S4-0105320-tab152-r23c3",
+        "value": "14948000000"
+    },
+    "question_tqa_valid431": {
+        "cell_id": "S100IY1B-0105010-tab106-r10c4",
+        "value": "8653000000"
+    },
+    "question_tqa_valid432": {
+        "cell_id": "S100J4CT-0101010-tab5-r10c6",
+        "value": "557.35"
+    },
+    "question_tqa_valid433": {
+        "cell_id": "S100IY17-0105310-tab180-r22c6",
+        "value": "12528000000"
+    },
+    "question_tqa_valid434": {
+        "cell_id": "S100IYG9-0105010-tab123-r36c5",
+        "value": "3918000000"
+    },
+    "question_tqa_valid435": {
+        "cell_id": "S100ILF5-0105330-tab128-r10c10",
+        "value": "-4000000"
+    },
+    "question_tqa_valid436": {
+        "cell_id": "S100ILF5-0105025-tab59-r9c3",
+        "value": "-1437000000"
+    },
+    "question_tqa_valid437": {
+        "cell_id": "S100J4CT-0101010-tab3-r8c4",
+        "value": "132135000000"
+    },
+    "question_tqa_valid438": {
+        "cell_id": "S100J1GM-0104010-tab64-r23c26",
+        "value": "22000"
+    },
+    "question_tqa_valid439": {
+        "cell_id": "S100IY1B-0105030-tab277-r34c2",
+        "value": "2614000000"
+    },
+    "question_tqa_valid440": {
+        "cell_id": "S100IY1B-0105020-tab126-r5c2",
+        "value": "33590000000"
+    },
+    "question_tqa_valid441": {
+        "cell_id": "S100J4CT-0101010-tab3-r15c5",
+        "value": "0.193"
+    },
+    "question_tqa_valid442": {
+        "cell_id": "S100IWZG-0104010-tab77-r3c2",
+        "value": "3"
+    },
+    "question_tqa_valid443": {
+        "cell_id": "S100IWZG-0105310-tab272-r42c5",
+        "value": "-19133000000"
+    },
+    "question_tqa_valid444": {
+        "cell_id": "S100J1GM-0101010-tab3-r4c3",
+        "value": "692482000000"
+    },
+    "question_tqa_valid445": {
+        "cell_id": "S100IWZG-0104010-tab43-r5c4",
+        "value": "38"
+    },
+    "question_tqa_valid446": {
+        "cell_id": "S100IYG9-0104010-tab92-r20c2",
+        "value": "中川　雅久"
+    },
+    "question_tqa_valid447": {
+        "cell_id": "S100J1GM-0101010-tab2-r9c4",
+        "value": "1648515000000"
+    },
+    "question_tqa_valid448": {
+        "cell_id": "S100JBJB-0105020-tab246-r28c2",
+        "value": "190776000000"
+    },
+    "question_tqa_valid449": {
+        "cell_id": "S100J4CT-0105310-tab177-r16c6",
+        "value": "39000000"
+    },
+    "question_tqa_valid450": {
+        "cell_id": "S100JBJB-0105020-tab247-r8c3",
+        "value": "-39933000000"
+    },
+    "question_tqa_valid451": {
+        "cell_id": "S100IY17-0104010-tab52-r2c23",
+        "value": "(注)３"
+    },
+    "question_tqa_valid452": {
+        "cell_id": "S100IWZG-0101010-tab3-r4c4",
+        "value": "3194948000000"
+    },
+    "question_tqa_valid453": {
+        "cell_id": "S100ITAZ-0104010-tab64-r2c5",
+        "value": "単元株式数100株"
+    },
+    "question_tqa_valid454": {
+        "cell_id": "S100J1GM-0105020-tab199-r45c2",
+        "value": "1339074000000"
+    },
+    "question_tqa_valid455": {
+        "cell_id": "S100IWZG-0105310-tab271-r9c8",
+        "value": "753007000000"
+    },
+    "question_tqa_valid456": {
+        "cell_id": "S100IY1B-0101010-tab4-r23c5",
+        "value": "1.185"
+    },
+    "question_tqa_valid457": {
+        "cell_id": "S100JBJB-0105020-tab245-r7c3",
+        "value": "683000000"
+    },
+    "question_tqa_valid458": {
+        "cell_id": "S100IYG9-0105010-tab123-r11c6",
+        "value": "3994000000"
+    },
+    "question_tqa_valid459": {
+        "cell_id": "S100IY1B-0105030-tab278-r25c2",
+        "value": "4661000000"
+    },
+    "question_tqa_valid460": {
+        "cell_id": "S100IY1B-0105030-tab278-r36c3",
+        "value": "675633000000"
+    },
+    "question_tqa_valid461": {
+        "cell_id": "S100IYG9-0104010-tab54-r12c3",
+        "value": "420877000"
+    },
+    "question_tqa_valid462": {
+        "cell_id": "S100IYG9-0105310-tab260-r16c5",
+        "value": "5413000000"
+    },
+    "question_tqa_valid463": {
+        "cell_id": "S100IWZG-0104010-tab45-r4c4",
+        "value": "－"
+    },
+    "question_tqa_valid464": {
+        "cell_id": "S100IY1B-0105010-tab111-r13c9",
+        "value": "0"
+    },
+    "question_tqa_valid465": {
+        "cell_id": "S100ITAZ-0104010-tab124-r2c4",
+        "value": "－"
+    },
+    "question_tqa_valid466": {
+        "cell_id": "S100J4CT-0105310-tab177-r28c5",
+        "value": "281667000000"
+    },
+    "question_tqa_valid467": {
+        "cell_id": "S100J4CT-0105320-tab179-r31c3",
+        "value": "0"
+    },
+    "question_tqa_valid468": {
+        "cell_id": "S100JBJB-0105020-tab245-r20c2",
+        "value": "17499000000"
+    },
+    "question_tqa_valid469": {
+        "cell_id": "S100IWZG-0105310-tab272-r5c6",
+        "value": "250000000"
+    },
+    "question_tqa_valid470": {
+        "cell_id": "S100J4CT-0104010-tab78-r5c5",
+        "value": "56000000"
+    },
+    "question_tqa_valid471": {
+        "cell_id": "S100IY1B-0105020-tab215-r11c2",
+        "value": "6009000000"
+    },
+    "question_tqa_valid472": {
+        "cell_id": "S100IY1B-0105020-tab216-r13c3",
+        "value": "58035000000"
+    },
+    "question_tqa_valid473": {
+        "cell_id": "S100J1GM-0105020-tab201-r14c3",
+        "value": "51662000000"
+    },
+    "question_tqa_valid474": {
+        "cell_id": "S100J1GM-0101010-tab13-r4c4",
+        "value": "15.1"
+    },
+    "question_tqa_valid475": {
+        "cell_id": "S100IWZG-0101010-tab3-r5c5",
+        "value": "539958000000"
+    },
+    "question_tqa_valid476": {
+        "cell_id": "S100J2S4-0105310-tab150-r9c5",
+        "value": "－"
+    },
+    "question_tqa_valid477": {
+        "cell_id": "S100J4CT-0000000-tab1-r15c2",
+        "value": "執行役員     荒井  淳一"
+    },
+    "question_tqa_valid478": {
+        "cell_id": "S100JBJB-0105020-tab247-r37c3",
+        "value": "-6610000000"
+    },
+    "question_tqa_valid479": {
+        "cell_id": "S100ILF5-0105310-tab124-r41c5",
+        "value": "263179000000"
+    },
+    "question_tqa_valid480": {
+        "cell_id": "S100IWZG-0105110-tab118-r9c2",
+        "value": "-67113000000"
+    },
+    "question_tqa_valid481": {
+        "cell_id": "S100JBJB-0101010-tab2-r12c3",
+        "value": "776.74"
+    },
+    "question_tqa_valid482": {
+        "cell_id": "S100J4CT-0105330-tab182-r10c11",
+        "value": "-81119000000"
+    },
+    "question_tqa_valid483": {
+        "cell_id": "S100ILF5-0105320-tab126-r6c3",
+        "value": "87071000000"
+    },
+    "question_tqa_valid484": {
+        "cell_id": "S100ITAZ-0105320-tab241-r18c4",
+        "value": "320000000"
+    },
+    "question_tqa_valid485": {
+        "cell_id": "S100JBJB-0105020-tab245-r40c2",
+        "value": "20853000000"
+    },
+    "question_tqa_valid486": {
+        "cell_id": "S100IY17-0101010-tab3-r14c6",
+        "value": "423.24"
+    },
+    "question_tqa_valid487": {
+        "cell_id": "S100J4CT-0101010-tab3-r7c4",
+        "value": "136654000000"
+    },
+    "question_tqa_valid488": {
+        "cell_id": "S100IY1B-0105020-tab211-r8c3",
+        "value": "39201000000"
+    },
+    "question_tqa_valid489": {
+        "cell_id": "S100J2S4-0105310-tab150-r12c5",
+        "value": "18457000000"
+    },
+    "question_tqa_valid490": {
+        "cell_id": "S100JBJB-0104010-tab82-r3c1",
+        "value": "社外取締役"
+    },
+    "question_tqa_valid491": {
+        "cell_id": "S100J2S4-0105310-tab150-r27c5",
+        "value": "45898000000"
+    },
+    "question_tqa_valid492": {
+        "cell_id": "S100JBJB-0104010-tab129-r5c2",
+        "value": "1023000000"
+    },
+    "question_tqa_valid493": {
+        "cell_id": "S100J2S4-0105310-tab150-r22c5",
+        "value": "270000000000"
+    },
+    "question_tqa_valid494": {
+        "cell_id": "S100IWZG-0105110-tab123-r3c12",
+        "value": "24707000000"
+    },
+    "question_tqa_valid495": {
+        "cell_id": "S100ILF5-0105310-tab124-r5c5",
+        "value": "73458000000"
+    },
+    "question_tqa_valid496": {
+        "cell_id": "S100J1GM-0105020-tab201-r5c3",
+        "value": "563160000000"
+    },
+    "question_tqa_valid497": {
+        "cell_id": "S100IYG9-0105320-tab261-r25c4",
+        "value": "6854000000"
+    },
+    "question_tqa_valid498": {
+        "cell_id": "S100IY1B-0105030-tab277-r43c3",
+        "value": "38000000"
+    },
+    "question_tqa_valid499": {
+        "cell_id": "S100ITAZ-0101010-tab3-r5c5",
+        "value": "236357000000"
+    },
+    "question_tqa_valid500": {
+        "cell_id": "S100IY17-0105310-tab180-r30c5",
+        "value": "0"
+    },
+    "question_tqa_valid501": {
+        "cell_id": "S100IY17-0105310-tab181-r43c5",
+        "value": "－"
+    },
+    "question_tqa_valid502": {
+        "cell_id": "S100IYG9-0104010-tab107-r5c3",
+        "value": "69000000"
+    },
+    "question_tqa_valid503": {
+        "cell_id": "S100J2S4-0101010-tab7-r2c3",
+        "value": "7.60"
+    },
+    "question_tqa_valid504": {
+        "cell_id": "S100IWZG-0105330-tab280-r9c5",
+        "value": "406871000000"
+    },
+    "question_tqa_valid505": {
+        "cell_id": "S100ITAZ-0104010-tab69-r6c9",
+        "value": "6657960"
+    },
+    "question_tqa_valid506": {
+        "cell_id": "S100IWZG-0101010-tab3-r15c5",
+        "value": "－"
+    },
+    "question_tqa_valid507": {
+        "cell_id": "S100J1GM-0000000-tab1-r6c2",
+        "value": "第151期（自 2019年４月１日　至 2020年３月31日）"
+    },
+    "question_tqa_valid508": {
+        "cell_id": "S100IWZG-0104010-tab51-r13c37",
+        "value": "(注３)"
+    },
+    "question_tqa_valid509": {
+        "cell_id": "S100ILF5-0000000-tab1-r7c2",
+        "value": "株式会社ニトリホールディングス"
+    },
+    "question_tqa_valid510": {
+        "cell_id": "S100ITAZ-0105010-tab134-r25c4",
+        "value": "276590000000"
+    },
+    "question_tqa_valid511": {
+        "cell_id": "S100IY1B-0105030-tab291-r6c2",
+        "value": "451000000"
+    },
+    "question_tqa_valid512": {
+        "cell_id": "S100ITAZ-0104010-tab71-r9c3",
+        "value": "666238205"
+    },
+    "question_tqa_valid513": {
+        "cell_id": "S100IYG9-0101010-tab2-r21c3",
+        "value": "946"
+    },
+    "question_tqa_valid514": {
+        "cell_id": "S100ILF5-0105400-tab137-r8c2",
+        "value": "274000000"
+    },
+    "question_tqa_valid515": {
+        "cell_id": "S100IY1B-0105030-tab277-r17c3",
+        "value": "2908000000"
+    },
+    "question_tqa_valid516": {
+        "cell_id": "S100ITAZ-0104010-tab80-r17c2",
+        "value": "石橋　民生"
+    },
+    "question_tqa_valid517": {
+        "cell_id": "S100J1GM-0104010-tab64-r3c30",
+        "value": "－"
+    },
+    "question_tqa_valid518": {
+        "cell_id": "S100ITAZ-0105320-tab240-r22c4",
+        "value": "5000000"
+    },
+    "question_tqa_valid519": {
+        "cell_id": "S100ILF5-0101010-tab3-r7c4",
+        "value": "114443496"
+    },
+    "question_tqa_valid520": {
+        "cell_id": "S100IYG9-0105330-tab265-r7c2",
+        "value": "-25102000000"
+    },
+    "question_tqa_valid521": {
+        "cell_id": "S100IWZG-0105310-tab271-r28c7",
+        "value": "157389000000"
+    },
+    "question_tqa_valid522": {
+        "cell_id": "S100ITAZ-0105310-tab237-r17c5",
+        "value": "5164000000"
+    },
+    "question_tqa_valid523": {
+        "cell_id": "S100J2S4-0104010-tab31-r3c2",
+        "value": "476085978"
+    },
+    "question_tqa_valid524": {
+        "cell_id": "S100ILF5-0105320-tab126-r26c3",
+        "value": "11000000"
+    },
+    "question_tqa_valid525": {
+        "cell_id": "S100JBJB-0101010-tab3-r22c3",
+        "value": "0.892"
+    },
+    "question_tqa_valid526": {
+        "cell_id": "S100J2S4-0104010-tab48-r38c1",
+        "value": "取締役"
+    },
+    "question_tqa_valid527": {
+        "cell_id": "S100IY17-0105310-tab181-r4c5",
+        "value": "196655000000"
+    },
+    "question_tqa_valid528": {
+        "cell_id": "S100IY17-0105310-tab181-r20c5",
+        "value": "3604000000"
+    },
+    "question_tqa_valid529": {
+        "cell_id": "S100IYG9-0105010-tab122-r20c5",
+        "value": "5119636000000"
+    },
+    "question_tqa_valid530": {
+        "cell_id": "S100IYG9-0105010-tab123-r31c5",
+        "value": "1570000000"
+    },
+    "question_tqa_valid531": {
+        "cell_id": "S100IWZG-0105310-tab273-r25c4",
+        "value": "52000000"
+    },
+    "question_tqa_valid532": {
+        "cell_id": "S100J4CT-0101010-tab4-r5c4",
+        "value": "131718000000"
+    },
+    "question_tqa_valid533": {
+        "cell_id": "S100ITAZ-0105320-tab240-r40c3",
+        "value": "16982000000"
+    },
+    "question_tqa_valid534": {
+        "cell_id": "S100IY1B-0105030-tab277-r45c2",
+        "value": "1367000000"
+    },
+    "question_tqa_valid535": {
+        "cell_id": "S100IY17-0101010-tab2-r7c5",
+        "value": "1324321000000"
+    },
+    "question_tqa_valid536": {
+        "cell_id": "S100IY17-0104010-tab40-r6c4",
+        "value": "－"
+    },
+    "question_tqa_valid537": {
+        "cell_id": "S100J1GM-0104010-tab88-r4c3",
+        "value": "－"
+    },
+    "question_tqa_valid538": {
+        "cell_id": "S100J2S4-0105320-tab152-r16c3",
+        "value": "72716000000"
+    },
+    "question_tqa_valid539": {
+        "cell_id": "S100IY17-0105310-tab180-r9c4",
+        "value": "30273000000"
+    },
+    "question_tqa_valid540": {
+        "cell_id": "S100JBJB-0105020-tab245-r36c3",
+        "value": "1000000"
+    },
+    "question_tqa_valid541": {
+        "cell_id": "S100ITAZ-0105310-tab239-r26c6",
+        "value": "227400000000"
+    },
+    "question_tqa_valid542": {
+        "cell_id": "S100JBJB-0104010-tab133-r3c3",
+        "value": "0"
+    },
+    "question_tqa_valid543": {
+        "cell_id": "S100J4CT-0105330-tab182-r16c4",
+        "value": "1571000000"
+    },
+    "question_tqa_valid544": {
+        "cell_id": "S100IYG9-0104010-tab96-r2c3",
+        "value": "1965-09-19"
+    },
+    "question_tqa_valid545": {
+        "cell_id": "S100IY17-0101010-tab3-r11c3",
+        "value": "120"
+    },
+    "question_tqa_valid546": {
+        "cell_id": "S100IWZG-0105310-tab271-r7c6",
+        "value": "2536463000000"
+    },
+    "question_tqa_valid547": {
+        "cell_id": "S100IY1B-0105010-tab109-r13c4",
+        "value": "-40171000000"
+    },
+    "question_tqa_valid548": {
+        "cell_id": "S100IY17-0105320-tab183-r35c4",
+        "value": "24000000"
+    },
+    "question_tqa_valid549": {
+        "cell_id": "S100IWZG-0105040-tab88-r14c5",
+        "value": "－"
+    },
+    "question_tqa_valid550": {
+        "cell_id": "S100IY17-0105320-tab183-r23c4",
+        "value": "7692000000"
+    },
+    "question_tqa_valid551": {
+        "cell_id": "S100J4CT-0105110-tab155-r7c2",
+        "value": "8143000000"
+    },
+    "question_tqa_valid552": {
+        "cell_id": "S100ILF5-0105320-tab126-r29c3",
+        "value": "－"
+    },
+    "question_tqa_valid553": {
+        "cell_id": "S100ITAZ-0105025-tab137-r13c4",
+        "value": "213106000000"
+    },
+    "question_tqa_valid554": {
+        "cell_id": "S100IWZG-0101010-tab3-r14c3",
+        "value": "72311.92"
+    },
+    "question_tqa_valid555": {
+        "cell_id": "S100J4CT-0101010-tab5-r19c6",
+        "value": "181"
+    },
+    "question_tqa_valid556": {
+        "cell_id": "S100J4CT-0105040-tab102-r17c3",
+        "value": "－"
+    },
+    "question_tqa_valid557": {
+        "cell_id": "S100ILF5-0105310-tab125-r5c5",
+        "value": "2000000000"
+    },
+    "question_tqa_valid558": {
+        "cell_id": "S100ILF5-0105310-tab125-r12c4",
+        "value": "772000000"
+    },
+    "question_tqa_valid559": {
+        "cell_id": "S100IY1B-0104010-tab82-r4c4",
+        "value": "279000000"
+    },
+    "question_tqa_valid560": {
+        "cell_id": "S100JBJB-0101010-tab3-r5c3",
+        "value": "-167674000000"
+    },
+    "question_tqa_valid561": {
+        "cell_id": "S100ITAZ-0105330-tab245-r13c11",
+        "value": "4296000000"
+    },
+    "question_tqa_valid562": {
+        "cell_id": "S100IYG9-0101010-tab3-r21c4",
+        "value": "1.023"
+    },
+    "question_tqa_valid563": {
+        "cell_id": "S100IY1B-0105020-tab121-r5c3",
+        "value": "20104000000"
+    },
+    "question_tqa_valid564": {
+        "cell_id": "S100ITAZ-0105310-tab237-r14c4",
+        "value": "432807000000"
+    },
+    "question_tqa_valid565": {
+        "cell_id": "S100IY1B-0105030-tab278-r54c2",
+        "value": "14876000000"
+    },
+    "question_tqa_valid566": {
+        "cell_id": "S100IY1B-0105010-tab111-r18c7",
+        "value": "－"
+    },
+    "question_tqa_valid567": {
+        "cell_id": "S100J4CT-0105330-tab182-r15c2",
+        "value": "30000000000"
+    },
+    "question_tqa_valid568": {
+        "cell_id": "S100IWZG-0105010-tab85-r35c7",
+        "value": "9792258000000"
+    },
+    "question_tqa_valid569": {
+        "cell_id": "S100J1GM-0105020-tab200-r26c3",
+        "value": "9367000000"
+    },
+    "question_tqa_valid570": {
+        "cell_id": "S100ILF5-0105320-tab126-r27c4",
+        "value": "7000000"
+    },
+    "question_tqa_valid571": {
+        "cell_id": "S100IYG9-0105320-tab261-r5c3",
+        "value": "13016000000"
+    },
+    "question_tqa_valid572": {
+        "cell_id": "S100J1GM-0101010-tab2-r13c4",
+        "value": "120.10"
+    },
+    "question_tqa_valid573": {
+        "cell_id": "S100IY1B-0105030-tab279-r23c3",
+        "value": "6434000000"
+    },
+    "question_tqa_valid574": {
+        "cell_id": "S100IY1B-0105010-tab107-r18c3",
+        "value": "291756000000"
+    },
+    "question_tqa_valid575": {
+        "cell_id": "S100IYG9-0000000-tab1-r11c2",
+        "value": "03(5555)1111"
+    },
+    "question_tqa_valid576": {
+        "cell_id": "S100JBJB-0105020-tab246-r6c3",
+        "value": "10077000000"
+    },
+    "question_tqa_valid577": {
+        "cell_id": "S100IWZG-0105310-tab272-r39c4",
+        "value": "25996000000"
+    },
+    "question_tqa_valid578": {
+        "cell_id": "S100IY1B-0101010-tab4-r7c5",
+        "value": "79863000000"
+    },
+    "question_tqa_valid579": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c2",
+        "value": "－"
+    },
+    "question_tqa_valid580": {
+        "cell_id": "S100JBJB-0105020-tab246-r15c3",
+        "value": "－"
+    },
+    "question_tqa_valid581": {
+        "cell_id": "S100IWZG-0104010-tab46-r3c4",
+        "value": "－"
+    },
+    "question_tqa_valid582": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c10",
+        "value": "132170"
+    },
+    "question_tqa_valid583": {
+        "cell_id": "S100IY1B-0105030-tab291-r10c3",
+        "value": "176000000"
+    },
+    "question_tqa_valid584": {
+        "cell_id": "S100IY17-0105010-tab76-r36c4",
+        "value": "63808000000"
+    },
+    "question_tqa_valid585": {
+        "cell_id": "S100J4CT-0101010-tab5-r20c2",
+        "value": "14"
+    },
+    "question_tqa_valid586": {
+        "cell_id": "S100IY17-0101010-tab3-r6c4",
+        "value": "85032000000"
+    },
+    "question_tqa_valid587": {
+        "cell_id": "S100ITAZ-0105100-tab153-r3c2",
+        "value": "305000000"
+    },
+    "question_tqa_valid588": {
+        "cell_id": "S100ILF5-0105320-tab126-r18c3",
+        "value": "7739000000"
+    },
+    "question_tqa_valid589": {
+        "cell_id": "S100JBJB-0105020-tab245-r23c3",
+        "value": "122000000"
+    },
+    "question_tqa_valid590": {
+        "cell_id": "S100J2S4-0101010-tab3-r15c6",
+        "value": "0.249"
+    },
+    "question_tqa_valid591": {
+        "cell_id": "S100JBJB-0105020-tab247-r10c3",
+        "value": "1012000000"
+    },
+    "question_tqa_valid592": {
+        "cell_id": "S100IY17-0105100-tab86-r2c4",
+        "value": "-796402000000"
+    },
+    "question_tqa_valid593": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c9",
+        "value": "47870130"
+    },
+    "question_tqa_valid594": {
+        "cell_id": "S100J1GM-0105020-tab200-r16c3",
+        "value": "10349000000"
+    },
+    "question_tqa_valid595": {
+        "cell_id": "S100J4CT-0101010-tab5-r5c3",
+        "value": "54956000000"
+    },
+    "question_tqa_valid596": {
+        "cell_id": "S100J1GM-0105020-tab200-r22c2",
+        "value": "50000000000"
+    },
+    "question_tqa_valid597": {
+        "cell_id": "S100J1GM-0105020-tab202-r9c10",
+        "value": "-1000000"
+    },
+    "question_tqa_valid598": {
+        "cell_id": "S100IYG9-0105310-tab260-r8c4",
+        "value": "47749000000"
+    },
+    "question_tqa_valid599": {
+        "cell_id": "S100J4CT-0105320-tab179-r32c4",
+        "value": "0"
+    },
+    "question_tqa_valid600": {
+        "cell_id": "S100IYG9-0105310-tab259-r21c5",
+        "value": "150393000000"
+    },
+    "question_tqa_valid601": {
+        "cell_id": "S100IWZG-0105320-tab274-r31c3",
+        "value": "615504000000"
+    },
+    "question_tqa_valid602": {
+        "cell_id": "S100IY17-0105110-tab156-r5c6",
+        "value": "2481109000000"
+    },
+    "question_tqa_valid603": {
+        "cell_id": "S100IY17-0105310-tab180-r14c5",
+        "value": "-1000000"
+    },
+    "question_tqa_valid604": {
+        "cell_id": "S100J4CT-0105310-tab177-r12c5",
+        "value": "-130000000"
+    },
+    "question_tqa_valid605": {
+        "cell_id": "S100IYG9-0105010-tab122-r26c5",
+        "value": "-415000000"
+    },
+    "question_tqa_valid606": {
+        "cell_id": "S100IY1B-0105010-tab107-r23c3",
+        "value": "64406000000"
+    },
+    "question_tqa_valid607": {
+        "cell_id": "S100IY1B-0104010-tab62-r14c21",
+        "value": "(注)3"
+    },
+    "question_tqa_valid608": {
+        "cell_id": "S100IWZG-0105310-tab272-r9c7",
+        "value": "67000000"
+    },
+    "question_tqa_valid609": {
+        "cell_id": "S100ITAZ-0105310-tab238-r38c5",
+        "value": "49000000000"
+    },
+    "question_tqa_valid610": {
+        "cell_id": "S100IY17-0105310-tab180-r21c5",
+        "value": "73000000"
+    },
+    "question_tqa_valid611": {
+        "cell_id": "S100IWZG-0000000-tab1-r14c2",
+        "value": "03-6889-2000(代表)"
+    },
+    "question_tqa_valid612": {
+        "cell_id": "S100J1GM-0105020-tab199-r16c3",
+        "value": "-655000000"
+    },
+    "question_tqa_valid613": {
+        "cell_id": "S100JBJB-0105020-tab245-r9c3",
+        "value": "5275000000"
+    },
+    "question_tqa_valid614": {
+        "cell_id": "S100J4CT-0105310-tab177-r10c5",
+        "value": "12933000000"
+    },
+    "question_tqa_valid615": {
+        "cell_id": "S100J4CT-0105110-tab123-r4c5",
+        "value": "-54971000000"
+    },
+    "question_tqa_valid616": {
+        "cell_id": "S100ILF5-0104010-tab48-r4c4",
+        "value": "21000000"
+    },
+    "question_tqa_valid617": {
+        "cell_id": "S100ILF5-0105310-tab125-r8c4",
+        "value": "722000000"
+    },
+    "question_tqa_valid618": {
+        "cell_id": "S100ITAZ-0101010-tab4-r21c5",
+        "value": "1.847"
+    },
+    "question_tqa_valid619": {
+        "cell_id": "S100IY17-0104010-tab25-r2c4",
+        "value": "東京証券取引所（市場第一部）"
+    },
+    "question_tqa_valid620": {
+        "cell_id": "S100IY17-0105310-tab182-r25c2",
+        "value": "1430855000000"
+    },
+    "question_tqa_valid621": {
+        "cell_id": "S100IYG9-0105320-tab261-r44c2",
+        "value": "86505000000"
+    },
+    "question_tqa_valid622": {
+        "cell_id": "S100IWZG-0105110-tab245-r12c2",
+        "value": "508994000000"
+    },
+    "question_tqa_valid623": {
+        "cell_id": "S100J2S4-0104010-tab64-r2c2",
+        "value": "17"
+    },
+    "question_tqa_valid624": {
+        "cell_id": "S100IYG9-0105010-tab122-r21c6",
+        "value": "1872394000000"
+    },
+    "question_tqa_valid625": {
+        "cell_id": "S100IY1B-0105030-tab277-r46c2",
+        "value": "－"
+    },
+    "question_tqa_valid626": {
+        "cell_id": "S100IY17-0105310-tab180-r7c5",
+        "value": "82963000000"
+    },
+    "question_tqa_valid627": {
+        "cell_id": "S100IWZG-0105010-tab85-r21c7",
+        "value": "11893000000"
+    },
+    "question_tqa_valid628": {
+        "cell_id": "S100J2S4-0105330-tab161-r9c7",
+        "value": "-32533000000"
+    },
+    "question_tqa_valid629": {
+        "cell_id": "S100IY1B-0105020-tab149-r6c6",
+        "value": "-914000000"
+    },
+    "question_tqa_valid630": {
+        "cell_id": "S100IWZG-0105010-tab85-r19c5",
+        "value": "72675000000"
+    },
+    "question_tqa_valid631": {
+        "cell_id": "S100IY1B-0105030-tab279-r13c3",
+        "value": "4046000000"
+    },
+    "question_tqa_valid632": {
+        "cell_id": "S100ITAZ-0105025-tab137-r7c3",
+        "value": "－"
+    },
+    "question_tqa_valid633": {
+        "cell_id": "S100J1GM-0000000-tab1-r8c2",
+        "value": "KOMATSU LTD."
+    },
+    "question_tqa_valid634": {
+        "cell_id": "S100JBJB-0104010-tab126-r4c5",
+        "value": "－"
+    },
+    "question_tqa_valid635": {
+        "cell_id": "S100ITAZ-0101010-tab4-r7c4",
+        "value": "666238000"
+    },
+    "question_tqa_valid636": {
+        "cell_id": "S100J4CT-0000000-tab1-r5c2",
+        "value": "2020-06-30"
+    },
+    "question_tqa_valid637": {
+        "cell_id": "S100IWZG-0105310-tab273-r12c5",
+        "value": "2136113000000"
+    },
+    "question_tqa_valid638": {
+        "cell_id": "S100J1GM-0104010-tab46-r7c4",
+        "value": "305709"
+    },
+    "question_tqa_valid639": {
+        "cell_id": "S100IYG9-0101010-tab3-r18c4",
+        "value": "1.768"
+    },
+    "question_tqa_valid640": {
+        "cell_id": "S100JBJB-0104010-tab56-r7c10",
+        "value": "1709600"
+    },
+    "question_tqa_valid641": {
+        "cell_id": "S100ITAZ-0105010-tab132-r14c4",
+        "value": "17046000000"
+    },
+    "question_tqa_valid642": {
+        "cell_id": "S100J2S4-0104010-tab34-r12c3",
+        "value": "143323000"
+    },
+    "question_tqa_valid643": {
+        "cell_id": "S100JBJB-0104010-tab131-r4c3",
+        "value": "17985000000"
+    },
+    "question_tqa_valid644": {
+        "cell_id": "S100ITAZ-0104010-tab122-r4c10",
+        "value": "217000000"
+    },
+    "question_tqa_valid645": {
+        "cell_id": "S100ILF5-0104010-tab48-r4c5",
+        "value": "－"
+    },
+    "question_tqa_valid646": {
+        "cell_id": "S100J4CT-0105320-tab179-r11c4",
+        "value": "10004000000"
+    },
+    "question_tqa_valid647": {
+        "cell_id": "S100IY1B-0104010-tab82-r6c4",
+        "value": "411000000"
+    },
+    "question_tqa_valid648": {
+        "cell_id": "S100ILF5-0105320-tab126-r36c2",
+        "value": "-302000000"
+    },
+    "question_tqa_valid649": {
+        "cell_id": "S100IY17-0104010-tab64-r4c2",
+        "value": "－"
+    },
+    "question_tqa_valid650": {
+        "cell_id": "S100JBJB-0105020-tab247-r7c3",
+        "value": "83942000000"
+    },
+    "question_tqa_valid651": {
+        "cell_id": "S100IWZG-0101010-tab2-r13c4",
+        "value": "－"
+    },
+    "question_tqa_valid652": {
+        "cell_id": "S100J2S4-0105310-tab150-r18c5",
+        "value": "83000000"
+    },
+    "question_tqa_valid653": {
+        "cell_id": "S100IY1B-0105010-tab107-r31c3",
+        "value": "3266000000"
+    },
+    "question_tqa_valid654": {
+        "cell_id": "S100ITAZ-0105320-tab240-r32c4",
+        "value": "5752000000"
+    },
+    "question_tqa_valid655": {
+        "cell_id": "S100J4CT-0104010-tab41-r6c3",
+        "value": "0.2666"
+    },
+    "question_tqa_valid656": {
+        "cell_id": "S100J2S4-0101010-tab3-r21c4",
+        "value": "1.023"
+    },
+    "question_tqa_valid657": {
+        "cell_id": "S100J1GM-0105020-tab203-r17c3",
+        "value": "65813000000"
+    },
+    "question_tqa_valid658": {
+        "cell_id": "S100ITAZ-0105310-tab237-r31c7",
+        "value": "10706000000"
+    },
+    "question_tqa_valid659": {
+        "cell_id": "S100IY1B-0105020-tab211-r5c3",
+        "value": "35923000000"
+    },
+    "question_tqa_valid660": {
+        "cell_id": "S100JBJB-0104010-tab70-r14c1",
+        "value": "社外取締役監査委員会委員長、指名委員会委員"
+    },
+    "question_tqa_valid661": {
+        "cell_id": "S100J1GM-0105020-tab200-r7c2",
+        "value": "79555000000"
+    },
+    "question_tqa_valid662": {
+        "cell_id": "S100IY17-0105310-tab181-r45c4",
+        "value": "345756000000"
+    },
+    "question_tqa_valid663": {
+        "cell_id": "S100ILF5-0105320-tab126-r35c3",
+        "value": "2156000000"
+    },
+    "question_tqa_valid664": {
+        "cell_id": "S100IY17-0105320-tab183-r19c4",
+        "value": "－"
+    },
+    "question_tqa_valid665": {
+        "cell_id": "S100J4CT-0105310-tab177-r20c6",
+        "value": "140000000"
+    },
+    "question_tqa_valid666": {
+        "cell_id": "S100J2S4-0000000-tab1-r13c2",
+        "value": "東京都新宿区西新宿二丁目４番１号"
+    },
+    "question_tqa_valid667": {
+        "cell_id": "S100IY17-0105310-tab182-r13c7",
+        "value": "3867000000"
+    },
+    "question_tqa_valid668": {
+        "cell_id": "S100J4CT-0000000-tab1-r4c2",
+        "value": "関東財務局長"
+    },
+    "question_tqa_valid669": {
+        "cell_id": "S100IY17-0105310-tab182-r15c7",
+        "value": "488602000000"
+    },
+    "question_tqa_valid670": {
+        "cell_id": "S100ILF5-0101010-tab3-r12c2",
+        "value": "30.00"
+    },
+    "question_tqa_valid671": {
+        "cell_id": "S100J4CT-0105310-tab177-r7c4",
+        "value": "13000000000"
+    },
+    "question_tqa_valid672": {
+        "cell_id": "S100ILF5-0105310-tab124-r22c6",
+        "value": "167000000"
+    },
+    "question_tqa_valid673": {
+        "cell_id": "S100ILF5-0105330-tab128-r11c4",
+        "value": "600000000"
+    },
+    "question_tqa_valid674": {
+        "cell_id": "S100IYG9-0101010-tab3-r20c4",
+        "value": "0.775"
+    },
+    "question_tqa_valid675": {
+        "cell_id": "S100ITAZ-0105320-tab240-r17c3",
+        "value": "467510000000"
+    },
+    "question_tqa_valid676": {
+        "cell_id": "S100IY17-0104010-tab33-r4c4",
+        "value": "63"
+    },
+    "question_tqa_valid677": {
+        "cell_id": "S100JBJB-0105020-tab247-r6c3",
+        "value": "44008000000"
+    },
+    "question_tqa_valid678": {
+        "cell_id": "S100ITAZ-0105320-tab240-r36c4",
+        "value": "1380000000"
+    },
+    "question_tqa_valid679": {
+        "cell_id": "S100J1GM-0104010-tab86-r3c2",
+        "value": "46"
+    },
+    "question_tqa_valid680": {
+        "cell_id": "S100IWZG-0105310-tab271-r41c8",
+        "value": "-75744000000"
+    },
+    "question_tqa_valid681": {
+        "cell_id": "S100IWZG-0105310-tab272-r32c4",
+        "value": "825120000000"
+    },
+    "question_tqa_valid682": {
+        "cell_id": "S100J2S4-0104010-tab33-r6c7",
+        "value": "0.0001"
+    },
+    "question_tqa_valid683": {
+        "cell_id": "S100IY17-0105310-tab180-r5c5",
+        "value": "23504000000"
+    },
+    "question_tqa_valid684": {
+        "cell_id": "S100ILF5-0104010-tab17-r3c2",
+        "value": "114443496"
+    },
+    "question_tqa_valid685": {
+        "cell_id": "S100ITAZ-0105110-tab217-r3c5",
+        "value": "4143505000000"
+    },
+    "question_tqa_valid686": {
+        "cell_id": "S100ITAZ-0105310-tab238-r23c6",
+        "value": "1229000000"
+    },
+    "question_tqa_valid687": {
+        "cell_id": "S100J4CT-0105320-tab179-r27c3",
+        "value": "396000000"
+    },
+    "question_tqa_valid688": {
+        "cell_id": "S100J2S4-0105400-tab170-r4c2",
+        "value": "535000000"
+    },
+    "question_tqa_valid689": {
+        "cell_id": "S100JBJB-0104010-tab111-r3c25",
+        "value": "※１"
+    },
+    "question_tqa_valid690": {
+        "cell_id": "S100IYG9-0105010-tab122-r19c5",
+        "value": "6685756000000"
+    },
+    "question_tqa_valid691": {
+        "cell_id": "S100ILF5-0000000-tab1-r11c2",
+        "value": "該当事項はありません。"
+    },
+    "question_tqa_valid692": {
+        "cell_id": "S100IYG9-0104010-tab86-r4c1",
+        "value": "代表執行役副社長最高執行責任者(COO)"
+    },
+    "question_tqa_valid693": {
+        "cell_id": "S100J1GM-0105020-tab201-r6c3",
+        "value": "156132000000"
+    },
+    "question_tqa_valid694": {
+        "cell_id": "S100IY1B-0105030-tab280-r12c9",
+        "value": "47221000000"
+    },
+    "question_tqa_valid695": {
+        "cell_id": "S100ILF5-0104010-tab20-r7c3",
+        "value": "0.2773"
+    },
+    "question_tqa_valid696": {
+        "cell_id": "S100J2S4-0105310-tab149-r13c5",
+        "value": "13167000000"
+    },
+    "question_tqa_valid697": {
+        "cell_id": "S100IY17-0000000-tab1-r14c2",
+        "value": "東京(03)6716-0112"
+    },
+    "question_tqa_valid698": {
+        "cell_id": "S100ITAZ-0105320-tab240-r34c3",
+        "value": "1016000000"
+    },
+    "question_tqa_valid699": {
+        "cell_id": "S100IYG9-0105310-tab260-r25c6",
+        "value": "226751000000"
+    },
+    "question_tqa_valid700": {
+        "cell_id": "S100IWZG-0105110-tab117-r9c6",
+        "value": "413667000000"
+    },
+    "question_tqa_valid701": {
+        "cell_id": "S100JBJB-0101010-tab3-r12c3",
+        "value": "0"
+    },
+    "question_tqa_valid702": {
+        "cell_id": "S100ITAZ-0101010-tab3-r9c5",
+        "value": "2218.17"
+    },
+    "question_tqa_valid703": {
+        "cell_id": "S100IY1B-0104010-tab43-r3c2",
+        "value": "100"
+    },
+    "question_tqa_valid704": {
+        "cell_id": "S100JBJB-0105020-tab246-r18c2",
+        "value": "963342000000"
+    },
+    "question_tqa_valid705": {
+        "cell_id": "S100ILF5-0105310-tab124-r5c4",
+        "value": "48955000000"
+    },
+    "question_tqa_valid706": {
+        "cell_id": "S100J2S4-0105310-tab151-r23c2",
+        "value": "4644342000000"
+    },
+    "question_tqa_valid707": {
+        "cell_id": "S100J2S4-0101010-tab2-r20c2",
+        "value": "3175"
+    },
+    "question_tqa_valid708": {
+        "cell_id": "S100J1GM-0104010-tab47-r14c3",
+        "value": "296550000"
+    },
+    "question_tqa_valid709": {
+        "cell_id": "S100ITAZ-0105310-tab238-r21c6",
+        "value": "3673000000"
+    },
+    "question_tqa_valid710": {
+        "cell_id": "S100JBJB-0105020-tab250-r9c11",
+        "value": "260000000"
+    },
+    "question_tqa_valid711": {
+        "cell_id": "S100ITAZ-0104010-tab122-r6c10",
+        "value": "125000000"
+    },
+    "question_tqa_valid712": {
+        "cell_id": "S100ILF5-0105320-tab126-r16c3",
+        "value": "6703000000"
+    },
+    "question_tqa_valid713": {
+        "cell_id": "S100JBJB-0105020-tab247-r26c2",
+        "value": "23953000000"
+    },
+    "question_tqa_valid714": {
+        "cell_id": "S100J2S4-0105320-tab152-r30c4",
+        "value": "1417000000"
+    },
+    "question_tqa_valid715": {
+        "cell_id": "S100JBJB-0101010-tab2-r15c4",
+        "value": "-0.130"
+    },
+    "question_tqa_valid716": {
+        "cell_id": "S100JBJB-0105020-tab247-r11c2",
+        "value": "58855000000"
+    },
+    "question_tqa_valid717": {
+        "cell_id": "S100IYG9-0105310-tab260-r11c5",
+        "value": "4279000000"
+    },
+    "question_tqa_valid718": {
+        "cell_id": "S100IYG9-0104010-tab53-r5c6",
+        "value": "3941634"
+    },
+    "question_tqa_valid719": {
+        "cell_id": "S100ITAZ-0105310-tab238-r35c5",
+        "value": "10760000000"
+    },
+    "question_tqa_valid720": {
+        "cell_id": "S100ILF5-0105310-tab124-r11c5",
+        "value": "4000000"
+    },
+    "question_tqa_valid721": {
+        "cell_id": "S100J4CT-0105010-tab96-r36c3",
+        "value": "1748982000000"
+    },
+    "question_tqa_valid722": {
+        "cell_id": "S100J2S4-0105310-tab151-r11c6",
+        "value": "5507000000"
+    },
+    "question_tqa_valid723": {
+        "cell_id": "S100J4CT-0104010-tab78-r4c3",
+        "value": "7000000"
+    },
+    "question_tqa_valid724": {
+        "cell_id": "S100ITAZ-0105310-tab238-r20c6",
+        "value": "591000000"
+    },
+    "question_tqa_valid725": {
+        "cell_id": "S100IWZG-0105320-tab274-r9c5",
+        "value": "3940000000"
+    },
+    "question_tqa_valid726": {
+        "cell_id": "S100IY17-0104010-tab33-r4c9",
+        "value": "27028"
+    },
+    "question_tqa_valid727": {
+        "cell_id": "S100J1GM-0105020-tab201-r40c2",
+        "value": "1341000000"
+    },
+    "question_tqa_valid728": {
+        "cell_id": "S100IWZG-0105310-tab272-r25c6",
+        "value": "46497000000"
+    },
+    "question_tqa_valid729": {
+        "cell_id": "S100JBJB-0105020-tab247-r27c2",
+        "value": "6329000000"
+    },
+    "question_tqa_valid730": {
+        "cell_id": "S100JBJB-0105020-tab247-r30c3",
+        "value": "20049000000"
+    },
+    "question_tqa_valid731": {
+        "cell_id": "S100IWZG-0105330-tab276-r8c4",
+        "value": "－"
+    },
+    "question_tqa_valid732": {
+        "cell_id": "S100JBJB-0105020-tab247-r21c3",
+        "value": "16760000000"
+    },
+    "question_tqa_valid733": {
+        "cell_id": "S100JBJB-0101010-tab2-r4c5",
+        "value": "3947596000000"
+    },
+    "question_tqa_valid734": {
+        "cell_id": "S100J1GM-0105020-tab200-r13c2",
+        "value": "17876000000"
+    },
+    "question_tqa_valid735": {
+        "cell_id": "S100IY17-0101010-tab2-r18c5",
+        "value": "357027000000"
+    },
+    "question_tqa_valid736": {
+        "cell_id": "S100IWZG-0105310-tab272-r32c5",
+        "value": "804123000000"
+    },
+    "question_tqa_valid737": {
+        "cell_id": "S100J1GM-0101010-tab3-r21c3",
+        "value": "0.818"
+    },
+    "question_tqa_valid738": {
+        "cell_id": "S100IY1B-0105030-tab277-r42c3",
+        "value": "468540000000"
+    },
+    "question_tqa_valid739": {
+        "cell_id": "S100J4CT-0105110-tab118-r8c3",
+        "value": "23087000000"
+    },
+    "question_tqa_valid740": {
+        "cell_id": "S100IY1B-0105030-tab279-r38c2",
+        "value": "364000000"
+    },
+    "question_tqa_valid741": {
+        "cell_id": "S100IWZG-0105310-tab271-r44c7",
+        "value": "118094000000"
+    },
+    "question_tqa_valid742": {
+        "cell_id": "S100IYG9-0105100-tab134-r4c2",
+        "value": "-40840000000"
+    },
+    "question_tqa_valid743": {
+        "cell_id": "S100IY17-0104010-tab25-r2c2",
+        "value": "293113973"
+    },
+    "question_tqa_valid744": {
+        "cell_id": "S100JBJB-0101010-tab3-r11c3",
+        "value": "877.53"
+    },
+    "question_tqa_valid745": {
+        "cell_id": "S100IYG9-0101010-tab2-r14c7",
+        "value": "0.049"
+    },
+    "question_tqa_valid746": {
+        "cell_id": "S100J4CT-0105310-tab178-r5c4",
+        "value": "251618000000"
+    },
+    "question_tqa_valid747": {
+        "cell_id": "S100ITAZ-0105320-tab241-r6c3",
+        "value": "3810000000"
+    },
+    "question_tqa_valid748": {
+        "cell_id": "S100ITAZ-0105330-tab245-r12c2",
+        "value": "－"
+    },
+    "question_tqa_valid749": {
+        "cell_id": "S100IY1B-0104010-tab93-r4c2",
+        "value": "3"
+    },
+    "question_tqa_valid750": {
+        "cell_id": "S100J2S4-0105040-tab80-r8c6",
+        "value": "-15165000000"
+    },
+    "question_tqa_valid751": {
+        "cell_id": "S100IWZG-0104010-tab43-r5c8",
+        "value": "692140"
+    },
+    "question_tqa_valid752": {
+        "cell_id": "S100J4CT-0104010-tab41-r5c2",
+        "value": "－"
+    },
+    "question_tqa_valid753": {
+        "cell_id": "S100IY1B-0105030-tab277-r12c2",
+        "value": "7136000000"
+    },
+    "question_tqa_valid754": {
+        "cell_id": "S100J2S4-0104010-tab33-r6c3",
+        "value": "0.3826"
+    },
+    "question_tqa_valid755": {
+        "cell_id": "S100IYG9-0105310-tab260-r28c6",
+        "value": "464947000000"
+    },
+    "question_tqa_valid756": {
+        "cell_id": "S100J4CT-0105310-tab177-r6c5",
+        "value": "38407000000"
+    },
+    "question_tqa_valid757": {
+        "cell_id": "S100IY1B-0105020-tab145-r24c5",
+        "value": "50898000000"
+    },
+    "question_tqa_valid758": {
+        "cell_id": "S100IWZG-0105320-tab274-r28c4",
+        "value": "21534000000"
+    },
+    "question_tqa_valid759": {
+        "cell_id": "S100J4CT-0105310-tab178-r14c4",
+        "value": "87351000000"
+    },
+    "question_tqa_valid760": {
+        "cell_id": "S100IWZG-0104010-tab43-r5c9",
+        "value": "700562"
+    },
+    "question_tqa_valid761": {
+        "cell_id": "S100IWZG-0105310-tab271-r15c7",
+        "value": "68690000000"
+    },
+    "question_tqa_valid762": {
+        "cell_id": "S100IWZG-0105310-tab272-r31c5",
+        "value": "239000000"
+    },
+    "question_tqa_valid763": {
+        "cell_id": "S100J4CT-0105310-tab178-r39c4",
+        "value": "1719000000"
+    },
+    "question_tqa_valid764": {
+        "cell_id": "S100J4CT-0104010-tab42-r13c4",
+        "value": "0.3980"
+    },
+    "question_tqa_valid765": {
+        "cell_id": "S100ITAZ-0105310-tab237-r7c5",
+        "value": "2296000000"
+    },
+    "question_tqa_valid766": {
+        "cell_id": "S100J1GM-0101010-tab3-r20c5",
+        "value": "1.586"
+    },
+    "question_tqa_valid767": {
+        "cell_id": "S100J1GM-0105020-tab201-r27c3",
+        "value": "8644000000"
+    },
+    "question_tqa_valid768": {
+        "cell_id": "S100J1GM-0101010-tab3-r4c4",
+        "value": "685938000000"
+    },
+    "question_tqa_valid769": {
+        "cell_id": "S100IYG9-0104010-tab86-r4c2",
+        "value": "松井　敏浩"
+    },
+    "question_tqa_valid770": {
+        "cell_id": "S100J1GM-0105020-tab199-r6c2",
+        "value": "244913000000"
+    },
+    "question_tqa_valid771": {
+        "cell_id": "S100ILF5-0104010-tab20-r5c9",
+        "value": "16040"
+    },
+    "question_tqa_valid772": {
+        "cell_id": "S100ILF5-0105320-tab126-r33c4",
+        "value": "4367000000"
+    },
+    "question_tqa_valid773": {
+        "cell_id": "S100J1GM-0105020-tab200-r49c3",
+        "value": "1036000000"
+    },
+    "question_tqa_valid774": {
+        "cell_id": "S100IY1B-0101010-tab4-r6c4",
+        "value": "37668000000"
+    },
+    "question_tqa_valid775": {
+        "cell_id": "S100IYG9-0104010-tab107-r4c4",
+        "value": "313000000"
+    },
+    "question_tqa_valid776": {
+        "cell_id": "S100J1GM-0101010-tab2-r11c3",
+        "value": "1609.69"
+    },
+    "question_tqa_valid777": {
+        "cell_id": "S100J4CT-0105010-tab95-r13c3",
+        "value": "－"
+    },
+    "question_tqa_valid778": {
+        "cell_id": "S100IY1B-0105020-tab119-r6c8",
+        "value": "－"
+    },
+    "question_tqa_valid779": {
+        "cell_id": "S100ILF5-0105310-tab125-r18c5",
+        "value": "6253000000"
+    },
+    "question_tqa_valid780": {
+        "cell_id": "S100J1GM-0104010-tab46-r8c7",
+        "value": "0.0001"
+    },
+    "question_tqa_valid781": {
+        "cell_id": "S100IY17-0105310-tab180-r29c5",
+        "value": "284000000"
+    },
+    "question_tqa_valid782": {
+        "cell_id": "S100IY1B-0105020-tab217-r9c2",
+        "value": "1383000000"
+    },
+    "question_tqa_valid783": {
+        "cell_id": "S100IYG9-0105310-tab260-r33c5",
+        "value": "13000000"
+    },
+    "question_tqa_valid784": {
+        "cell_id": "S100J4CT-0101010-tab3-r9c4",
+        "value": "737575000000"
+    },
+    "question_tqa_valid785": {
+        "cell_id": "S100IYG9-0105020-tab126-r28c3",
+        "value": "918000000"
+    },
+    "question_tqa_valid786": {
+        "cell_id": "S100ILF5-0101010-tab2-r9c7",
+        "value": "4984.29"
+    },
+    "question_tqa_valid787": {
+        "cell_id": "S100ITAZ-0000000-tab1-r11c2",
+        "value": "大阪　06（6225）7804"
+    },
+    "question_tqa_valid788": {
+        "cell_id": "S100J1GM-0105020-tab201-r17c2",
+        "value": "125220000000"
+    },
+    "question_tqa_valid789": {
+        "cell_id": "S100J4CT-0101010-tab5-r11c5",
+        "value": "23"
+    },
+    "question_tqa_valid790": {
+        "cell_id": "S100IY17-0105320-tab183-r42c3",
+        "value": "1269000000"
+    },
+    "question_tqa_valid791": {
+        "cell_id": "S100IY1B-0105010-tab113-r16c8",
+        "value": "-4465000000"
+    },
+    "question_tqa_valid792": {
+        "cell_id": "S100ITAZ-0104010-tab69-r2c2",
+        "value": "100"
+    },
+    "question_tqa_valid793": {
+        "cell_id": "S100IWZG-0105110-tab122-r11c6",
+        "value": "-275894000000"
+    },
+    "question_tqa_valid794": {
+        "cell_id": "S100ITAZ-0105310-tab238-r5c5",
+        "value": "57000000"
+    },
+    "question_tqa_valid795": {
+        "cell_id": "S100IYG9-0105310-tab260-r7c5",
+        "value": "4379000000"
+    },
+    "question_tqa_valid796": {
+        "cell_id": "S100IWZG-0105310-tab272-r33c4",
+        "value": "71646000000"
+    },
+    "question_tqa_valid797": {
+        "cell_id": "S100IYG9-0104010-tab112-r5c2",
+        "value": "125000000"
+    },
+    "question_tqa_valid798": {
+        "cell_id": "S100J4CT-0104010-tab92-r2c2",
+        "value": "－"
+    },
+    "question_tqa_valid799": {
+        "cell_id": "S100JBJB-0105020-tab246-r41c3",
+        "value": "411058000000"
+    },
+    "question_tqa_valid800": {
+        "cell_id": "S100ILF5-0104010-tab20-r7c5",
+        "value": "0.2347"
+    },
+    "question_tqa_valid801": {
+        "cell_id": "S100IY1B-0101010-tab4-r22c4",
+        "value": "0.856"
+    },
+    "question_tqa_valid802": {
+        "cell_id": "S100IY1B-0105030-tab278-r56c2",
+        "value": "978882000000"
+    },
+    "question_tqa_valid803": {
+        "cell_id": "S100J4CT-0105310-tab178-r11c4",
+        "value": "263828000000"
+    },
+    "question_tqa_valid804": {
+        "cell_id": "S100IY17-0105310-tab180-r13c5",
+        "value": "35379000000"
+    },
+    "question_tqa_valid805": {
+        "cell_id": "S100J2S4-0105310-tab150-r6c5",
+        "value": "26500000000"
+    },
+    "question_tqa_valid806": {
+        "cell_id": "S100ITAZ-0101010-tab4-r3c6",
+        "value": "1925518000000"
+    },
+    "question_tqa_valid807": {
+        "cell_id": "S100J2S4-0105320-tab152-r37c4",
+        "value": "34000000"
+    },
+    "question_tqa_valid808": {
+        "cell_id": "S100IYG9-0105320-tab261-r34c4",
+        "value": "12417000000"
+    },
+    "question_tqa_valid809": {
+        "cell_id": "S100J4CT-0105010-tab95-r18c5",
+        "value": "27931000000"
+    },
+    "question_tqa_valid810": {
+        "cell_id": "S100IWZG-0105310-tab271-r27c7",
+        "value": "1483000000"
+    },
+    "question_tqa_valid811": {
+        "cell_id": "S100ILF5-0105310-tab125-r40c5",
+        "value": "750000000"
+    },
+    "question_tqa_valid812": {
+        "cell_id": "S100IWZG-0101010-tab11-r2c2",
+        "value": "7592"
+    },
+    "question_tqa_valid813": {
+        "cell_id": "S100J4CT-0105310-tab178-r16c4",
+        "value": "1282000000"
+    },
+    "question_tqa_valid814": {
+        "cell_id": "S100ILF5-0105310-tab124-r23c6",
+        "value": "149688000000"
+    },
+    "question_tqa_valid815": {
+        "cell_id": "S100IY17-0105310-tab181-r31c4",
+        "value": "65040000000"
+    },
+    "question_tqa_valid816": {
+        "cell_id": "S100J1GM-0105020-tab200-r25c3",
+        "value": "42143000000"
+    },
+    "question_tqa_valid817": {
+        "cell_id": "S100J1GM-0105020-tab201-r32c3",
+        "value": "－"
+    },
+    "question_tqa_valid818": {
+        "cell_id": "S100JBJB-0104010-tab74-r3c26",
+        "value": "－"
+    },
+    "question_tqa_valid819": {
+        "cell_id": "S100IYG9-0105020-tab126-r8c3",
+        "value": "6000000"
+    },
+    "question_tqa_valid820": {
+        "cell_id": "S100IY1B-0105020-tab125-r5c8",
+        "value": "9179000000"
+    },
+    "question_tqa_valid821": {
+        "cell_id": "S100ILF5-0104010-tab48-r5c3",
+        "value": "－"
+    },
+    "question_tqa_valid822": {
+        "cell_id": "S100J2S4-0101010-tab2-r8c5",
+        "value": "5167198000000"
+    },
+    "question_tqa_valid823": {
+        "cell_id": "S100J2S4-0105320-tab152-r36c4",
+        "value": "7838000000"
+    },
+    "question_tqa_valid824": {
+        "cell_id": "S100IY17-0101010-tab3-r15c6",
+        "value": "0.542"
+    },
+    "question_tqa_valid825": {
+        "cell_id": "S100J2S4-0105020-tab75-r17c3",
+        "value": "594000000"
+    },
+    "question_tqa_valid826": {
+        "cell_id": "S100IWZG-0105310-tab272-r41c5",
+        "value": "12791000000"
+    },
+    "question_tqa_valid827": {
+        "cell_id": "S100IY17-0101010-tab2-r5c5",
+        "value": "189051000000"
+    },
+    "question_tqa_valid828": {
+        "cell_id": "S100IY1B-0101010-tab4-r22c3",
+        "value": "0.975"
+    },
+    "question_tqa_valid829": {
+        "cell_id": "S100ITAZ-0000000-tab1-r6c2",
+        "value": "第81期（自　2019年４月１日　至　2020年３月31日）"
+    },
+    "question_tqa_valid830": {
+        "cell_id": "S100IYG9-0105110-tab234-r13c8",
+        "value": "271000000"
+    },
+    "question_tqa_valid831": {
+        "cell_id": "S100IY17-0105025-tab78-r8c4",
+        "value": "-2456000000"
+    },
+    "question_tqa_valid832": {
+        "cell_id": "S100J2S4-0105320-tab152-r15c2",
+        "value": "257329000000"
+    },
+    "question_tqa_valid833": {
+        "cell_id": "S100ITAZ-0105320-tab240-r21c4",
+        "value": "6674000000"
+    },
+    "question_tqa_valid834": {
+        "cell_id": "S100J4CT-0101010-tab5-r4c6",
+        "value": "55413000000"
+    },
+    "question_tqa_valid835": {
+        "cell_id": "S100J4CT-0104010-tab65-r31c3",
+        "value": "1956-02-19"
+    },
+    "question_tqa_valid836": {
+        "cell_id": "S100IY1B-0105030-tab278-r17c3",
+        "value": "767000000"
+    },
+    "question_tqa_valid837": {
+        "cell_id": "S100J1GM-0101010-tab3-r10c5",
+        "value": "1305526000000"
+    },
+    "question_tqa_valid838": {
+        "cell_id": "S100IY1B-0101010-tab4-r15c7",
+        "value": "15.48"
+    },
+    "question_tqa_valid839": {
+        "cell_id": "S100ILF5-0105310-tab125-r15c4",
+        "value": "6000000000"
+    },
+    "question_tqa_valid840": {
+        "cell_id": "S100IY1B-0105020-tab150-r13c6",
+        "value": "7035000000"
+    },
+    "question_tqa_valid841": {
+        "cell_id": "S100IYG9-0105310-tab260-r9c4",
+        "value": "405000000"
+    },
+    "question_tqa_valid842": {
+        "cell_id": "S100IWZG-0105310-tab273-r38c5",
+        "value": "71400000000"
+    },
+    "question_tqa_valid843": {
+        "cell_id": "S100ITAZ-0105310-tab238-r49c4",
+        "value": "1279000000"
+    },
+    "question_tqa_valid844": {
+        "cell_id": "S100IYG9-0104010-tab57-r10c5",
+        "value": "一単元（100株）未満の株式"
+    },
+    "question_tqa_valid845": {
+        "cell_id": "S100IY1B-0105010-tab106-r14c4",
+        "value": "538901000000"
+    },
+    "question_tqa_valid846": {
+        "cell_id": "S100J4CT-0105320-tab179-r16c3",
+        "value": "923000000"
+    },
+    "question_tqa_valid847": {
+        "cell_id": "S100IY17-0105320-tab183-r40c3",
+        "value": "669000000"
+    },
+    "question_tqa_valid848": {
+        "cell_id": "S100JBJB-0105020-tab249-r12c5",
+        "value": "-399934000000"
+    },
+    "question_tqa_valid849": {
+        "cell_id": "S100ILF5-0104010-tab17-r3c3",
+        "value": "114443496"
+    },
+    "question_tqa_valid850": {
+        "cell_id": "S100IY1B-0101010-tab4-r8c3",
+        "value": "583762654"
+    },
+    "question_tqa_valid851": {
+        "cell_id": "S100ILF5-0105310-tab125-r20c5",
+        "value": "428000000"
+    },
+    "question_tqa_valid852": {
+        "cell_id": "S100IY17-0105050-tab84-r15c3",
+        "value": "-45983000000"
+    },
+    "question_tqa_valid853": {
+        "cell_id": "S100IY17-0105330-tab188-r8c6",
+        "value": "－"
+    },
+    "question_tqa_valid854": {
+        "cell_id": "S100JBJB-0101010-tab3-r13c4",
+        "value": "0"
+    },
+    "question_tqa_valid855": {
+        "cell_id": "S100IYG9-0104010-tab53-r4c3",
+        "value": "179"
+    },
+    "question_tqa_valid856": {
+        "cell_id": "S100J4CT-0104010-tab47-r3c4",
+        "value": "－"
+    },
+    "question_tqa_valid857": {
+        "cell_id": "S100ILF5-0105310-tab124-r29c5",
+        "value": "7800000000"
+    },
+    "question_tqa_valid858": {
+        "cell_id": "S100IWZG-0000000-tab1-r12c2",
+        "value": "執行役員 財務経理本部 本部長 内藤 隆志"
+    },
+    "question_tqa_valid859": {
+        "cell_id": "S100IY1B-0105010-tab107-r17c4",
+        "value": "－"
+    },
+    "question_tqa_valid860": {
+        "cell_id": "S100J4CT-0105025-tab98-r9c3",
+        "value": "655000000"
+    },
+    "question_tqa_valid861": {
+        "cell_id": "S100IY17-0105310-tab180-r8c4",
+        "value": "38543000000"
+    },
+    "question_tqa_valid862": {
+        "cell_id": "S100IY17-0105310-tab181-r21c5",
+        "value": "39742000000"
+    },
+    "question_tqa_valid863": {
+        "cell_id": "S100IY17-0105320-tab183-r34c3",
+        "value": "－"
+    },
+    "question_tqa_valid864": {
+        "cell_id": "S100ITAZ-0101010-tab3-r10c7",
+        "value": "351.84"
+    },
+    "question_tqa_valid865": {
+        "cell_id": "S100IY1B-0101010-tab3-r11c4",
+        "value": "1094.83"
+    },
+    "question_tqa_valid866": {
+        "cell_id": "S100IY17-0105025-tab78-r14c3",
+        "value": "6378000000"
+    },
+    "question_tqa_valid867": {
+        "cell_id": "S100IYG9-0105310-tab260-r6c4",
+        "value": "61648000000"
+    },
+    "question_tqa_valid868": {
+        "cell_id": "S100ITAZ-0105310-tab238-r25c6",
+        "value": "-2318000000"
+    },
+    "question_tqa_valid869": {
+        "cell_id": "S100ITAZ-0105320-tab240-r21c3",
+        "value": "6617000000"
+    },
+    "question_tqa_valid870": {
+        "cell_id": "S100IWZG-0105310-tab272-r19c5",
+        "value": "31401000000"
+    },
+    "question_tqa_valid871": {
+        "cell_id": "S100ILF5-0105320-tab126-r25c4",
+        "value": "4000000"
+    },
+    "question_tqa_valid872": {
+        "cell_id": "S100IY1B-0101010-tab3-r5c4",
+        "value": "1091414000000"
+    },
+    "question_tqa_valid873": {
+        "cell_id": "S100IWZG-0105310-tab272-r4c6",
+        "value": "868000000"
+    },
+    "question_tqa_valid874": {
+        "cell_id": "S100ILF5-0105310-tab125-r21c4",
+        "value": "17205000000"
+    },
+    "question_tqa_valid875": {
+        "cell_id": "S100J1GM-0104010-tab46-r6c3",
+        "value": "209"
+    },
+    "question_tqa_valid876": {
+        "cell_id": "S100ITAZ-0101010-tab4-r9c6",
+        "value": "2856636000000"
+    },
+    "question_tqa_valid877": {
+        "cell_id": "S100IYG9-0105310-tab260-r30c6",
+        "value": "442620000000"
+    },
+    "question_tqa_valid878": {
+        "cell_id": "S100J4CT-0105040-tab100-r10c5",
+        "value": "-2063000000"
+    },
+    "question_tqa_valid879": {
+        "cell_id": "S100JBJB-0105020-tab246-r47c2",
+        "value": "4686000000"
+    },
+    "question_tqa_valid880": {
+        "cell_id": "S100J4CT-0104010-tab89-r2c2",
+        "value": "5"
+    },
+    "question_tqa_valid881": {
+        "cell_id": "S100J4CT-0000000-tab1-r7c2",
+        "value": "株式会社リクルートホールディングス"
+    },
+    "question_tqa_valid882": {
+        "cell_id": "S100IY17-0105330-tab186-r11c6",
+        "value": "-16566000000"
+    },
+    "question_tqa_valid883": {
+        "cell_id": "S100IWZG-0101010-tab3-r11c4",
+        "value": "334.10"
+    },
+    "question_tqa_valid884": {
+        "cell_id": "S100IY1B-0101010-tab3-r9c4",
+        "value": "697773000000"
+    },
+    "question_tqa_valid885": {
+        "cell_id": "S100IYG9-0105010-tab123-r14c6",
+        "value": "4839095000000"
+    },
+    "question_tqa_valid886": {
+        "cell_id": "S100IY1B-0105010-tab106-r23c3",
+        "value": "802701000000"
+    },
+    "question_tqa_valid887": {
+        "cell_id": "S100IY1B-0105010-tab108-r21c3",
+        "value": "2002000000"
+    },
+    "question_tqa_valid888": {
+        "cell_id": "S100IY1B-0105030-tab277-r19c3",
+        "value": "273665000000"
+    },
+    "question_tqa_valid889": {
+        "cell_id": "S100ILF5-0104010-tab20-r6c3",
+        "value": "316741"
+    },
+    "question_tqa_valid890": {
+        "cell_id": "S100IWZG-0105320-tab274-r40c3",
+        "value": "186809000000"
+    },
+    "question_tqa_valid891": {
+        "cell_id": "S100JBJB-0101010-tab2-r15c3",
+        "value": "0.061"
+    },
+    "question_tqa_valid892": {
+        "cell_id": "S100IWZG-0105310-tab272-r15c5",
+        "value": "2504284000000"
+    },
+    "question_tqa_valid893": {
+        "cell_id": "S100JBJB-0105020-tab246-r43c2",
+        "value": "909821000000"
+    },
+    "question_tqa_valid894": {
+        "cell_id": "S100IWZG-0105110-tab248-r6c2",
+        "value": "-336000000"
+    },
+    "question_tqa_valid895": {
+        "cell_id": "S100ITAZ-0101010-tab4-r12c2",
+        "value": "35.00"
+    },
+    "question_tqa_valid896": {
+        "cell_id": "S100JBJB-0105020-tab246-r14c2",
+        "value": "532638000000"
+    },
+    "question_tqa_valid897": {
+        "cell_id": "S100IY1B-0105020-tab152-r6c6",
+        "value": "-4526000000"
+    },
+    "question_tqa_valid898": {
+        "cell_id": "S100IWZG-0105020-tab86-r27c3",
+        "value": "96.60"
+    },
+    "question_tqa_valid899": {
+        "cell_id": "S100J4CT-0105320-tab179-r27c4",
+        "value": "25000000"
+    },
+    "question_tqa_valid900": {
+        "cell_id": "S100IWZG-0105310-tab272-r17c6",
+        "value": "23558000000"
+    },
+    "question_tqa_valid901": {
+        "cell_id": "S100IY1B-0105030-tab279-r29c2",
+        "value": "5765000000"
+    },
+    "question_tqa_valid902": {
+        "cell_id": "S100IY1B-0105030-tab291-r15c3",
+        "value": "1540000000"
+    },
+    "question_tqa_valid903": {
+        "cell_id": "S100IY1B-0105030-tab277-r9c2",
+        "value": "34334000000"
+    },
+    "question_tqa_valid904": {
+        "cell_id": "S100J2S4-0105310-tab151-r8c5",
+        "value": "9000000"
+    },
+    "question_tqa_valid905": {
+        "cell_id": "S100ITAZ-0105050-tab143-r22c2",
+        "value": "-4463000000"
+    },
+    "question_tqa_valid906": {
+        "cell_id": "S100J4CT-0105310-tab177-r11c5",
+        "value": "394000000"
+    },
+    "question_tqa_valid907": {
+        "cell_id": "S100J2S4-0105310-tab150-r5c5",
+        "value": "32869000000"
+    },
+    "question_tqa_valid908": {
+        "cell_id": "S100J1GM-0104010-tab79-r6c8",
+        "value": "171000000"
+    },
+    "question_tqa_valid909": {
+        "cell_id": "S100JBJB-0104010-tab99-r13c30",
+        "value": "15000"
+    },
+    "question_tqa_valid910": {
+        "cell_id": "S100IWZG-0105310-tab273-r43c4",
+        "value": "－"
+    },
+    "question_tqa_valid911": {
+        "cell_id": "S100ITAZ-0104010-tab95-r26c28",
+        "value": "－"
+    },
+    "question_tqa_valid912": {
+        "cell_id": "S100IY17-0105310-tab182-r22c4",
+        "value": "56424000000"
+    },
+    "question_tqa_valid913": {
+        "cell_id": "S100IY1B-0105020-tab216-r13c2",
+        "value": "45604000000"
+    },
+    "question_tqa_valid914": {
+        "cell_id": "S100IY1B-0105010-tab109-r19c4",
+        "value": "6042000000"
+    },
+    "question_tqa_valid915": {
+        "cell_id": "S100IWZG-0101010-tab3-r8c4",
+        "value": "5861389"
+    },
+    "question_tqa_valid916": {
+        "cell_id": "S100ITAZ-0105320-tab241-r35c3",
+        "value": "266928000000"
+    },
+    "question_tqa_valid917": {
+        "cell_id": "S100ILF5-0101010-tab3-r5c4",
+        "value": "46116000000"
+    },
+    "question_tqa_valid918": {
+        "cell_id": "S100JBJB-0101010-tab3-r17c3",
+        "value": "-0.606"
+    },
+    "question_tqa_valid919": {
+        "cell_id": "S100IYG9-0105320-tab261-r37c3",
+        "value": "497000000"
+    },
+    "question_tqa_valid920": {
+        "cell_id": "S100IY17-0000000-tab1-r15c2",
+        "value": "コーポレートコミュニケーション室  経営IRグループ担当課長    山  田  香  織"
+    },
+    "question_tqa_valid921": {
+        "cell_id": "S100JBJB-0101010-tab3-r5c5",
+        "value": "-100294000000"
+    },
+    "question_tqa_valid922": {
+        "cell_id": "S100ITAZ-0105320-tab240-r19c4",
+        "value": "20081000000"
+    },
+    "question_tqa_valid923": {
+        "cell_id": "S100J1GM-0105020-tab199-r32c2",
+        "value": "18185000000"
+    },
+    "question_tqa_valid924": {
+        "cell_id": "S100J2S4-0104010-tab64-r3c3",
+        "value": "364464000000"
+    },
+    "question_tqa_valid925": {
+        "cell_id": "S100JBJB-0104010-tab132-r4c3",
+        "value": "－"
+    },
+    "question_tqa_valid926": {
+        "cell_id": "S100ILF5-0105020-tab58-r24c4",
+        "value": "－"
+    },
+    "question_tqa_valid927": {
+        "cell_id": "S100IWZG-0105010-tab85-r21c5",
+        "value": "12377000000"
+    },
+    "question_tqa_valid928": {
+        "cell_id": "S100ILF5-0105310-tab124-r17c5",
+        "value": "398000000"
+    },
+    "question_tqa_valid929": {
+        "cell_id": "S100ITAZ-0105010-tab132-r36c5",
+        "value": "－"
+    },
+    "question_tqa_valid930": {
+        "cell_id": "S100IY17-0101010-tab3-r21c4",
+        "value": "1.421"
+    },
+    "question_tqa_valid931": {
+        "cell_id": "S100ITAZ-0105310-tab237-r19c5",
+        "value": "14090000000"
+    },
+    "question_tqa_valid932": {
+        "cell_id": "S100ITAZ-0104010-tab64-r2c3",
+        "value": "666238205"
+    },
+    "question_tqa_valid933": {
+        "cell_id": "S100IY1B-0105020-tab119-r9c8",
+        "value": "－"
+    },
+    "question_tqa_valid934": {
+        "cell_id": "S100ITAZ-0105320-tab240-r11c3",
+        "value": "29933000000"
+    },
+    "question_tqa_valid935": {
+        "cell_id": "S100JBJB-0101010-tab3-r19c5",
+        "value": "－"
+    },
+    "question_tqa_valid936": {
+        "cell_id": "S100IY1B-0105030-tab277-r22c2",
+        "value": "104508000000"
+    },
+    "question_tqa_valid937": {
+        "cell_id": "S100IY1B-0105030-tab283-r13c4",
+        "value": "-8327000000"
+    },
+    "question_tqa_valid938": {
+        "cell_id": "S100IY17-0105110-tab156-r14c6",
+        "value": "87161000000"
+    },
+    "question_tqa_valid939": {
+        "cell_id": "S100IYG9-0105310-tab259-r21c6",
+        "value": "153909000000"
+    },
+    "question_tqa_valid940": {
+        "cell_id": "S100J1GM-0105020-tab199-r21c3",
+        "value": "16175000000"
+    },
+    "question_tqa_valid941": {
+        "cell_id": "S100JBJB-0000000-tab1-r10c2",
+        "value": "東京都港区芝浦一丁目１番１号"
+    },
+    "question_tqa_valid942": {
+        "cell_id": "S100J2S4-0105310-tab149-r26c6",
+        "value": "-431779000000"
+    },
+    "question_tqa_valid943": {
+        "cell_id": "S100J1GM-0105020-tab199-r28c2",
+        "value": "259146000000"
+    },
+    "question_tqa_valid944": {
+        "cell_id": "S100ITAZ-0105310-tab237-r20c4",
+        "value": "34981000000"
+    },
+    "question_tqa_valid945": {
+        "cell_id": "S100IY17-0105025-tab78-r14c4",
+        "value": "5243000000"
+    },
+    "question_tqa_valid946": {
+        "cell_id": "S100JBJB-0104010-tab60-r5c6",
+        "value": "0.0031"
+    },
+    "question_tqa_valid947": {
+        "cell_id": "S100J2S4-0105100-tab89-r2c4",
+        "value": "651000000"
+    },
+    "question_tqa_valid948": {
+        "cell_id": "S100IY1B-0000000-tab1-r5c2",
+        "value": "2020-06-24"
+    },
+    "question_tqa_valid949": {
+        "cell_id": "S100J4CT-0105310-tab178-r41c3",
+        "value": "1409458000000"
+    },
+    "question_tqa_valid950": {
+        "cell_id": "S100ITAZ-0105320-tab241-r17c3",
+        "value": "139000000"
+    },
+    "question_tqa_valid951": {
+        "cell_id": "S100ITAZ-0104010-tab123-r3c3",
+        "value": "57204000000"
+    },
+    "question_tqa_valid952": {
+        "cell_id": "S100J4CT-0101010-tab5-r18c3",
+        "value": "0.514"
+    },
+    "question_tqa_valid953": {
+        "cell_id": "S100ITAZ-0105320-tab240-r14c4",
+        "value": "326075000000"
+    },
+    "question_tqa_valid954": {
+        "cell_id": "S100J4CT-0105110-tab109-r5c7",
+        "value": "2399465000000"
+    },
+    "question_tqa_valid955": {
+        "cell_id": "S100IY17-0104010-tab52-r2c1",
+        "value": "           代表取締役国内空調事業、中国地域代表担当、大金(中国)投資有限公司 董事長 総経理、大金フッ素化学(中国)有限公司 董事長、空調グローバルコミッティメンバー"
+    },
+    "question_tqa_valid956": {
+        "cell_id": "S100J2S4-0104010-tab62-r4c7",
+        "value": "3"
+    },
+    "question_tqa_valid957": {
+        "cell_id": "S100J2S4-0105310-tab149-r39c5",
+        "value": "39088000000"
+    },
+    "question_tqa_valid958": {
+        "cell_id": "S100IYG9-0105310-tab259-r22c6",
+        "value": "887688000000"
+    },
+    "question_tqa_valid959": {
+        "cell_id": "S100ILF5-0000000-tab1-r9c2",
+        "value": "代表取締役社長兼最高執行責任者(ＣＯＯ)　白井　俊之"
+    },
+    "question_tqa_valid960": {
+        "cell_id": "S100IY17-0104010-tab70-r2c2",
+        "value": "－"
+    },
+    "question_tqa_valid961": {
+        "cell_id": "S100ITAZ-0105320-tab240-r40c4",
+        "value": "17088000000"
+    },
+    "question_tqa_valid962": {
+        "cell_id": "S100IWZG-0105310-tab272-r25c5",
+        "value": "45480000000"
+    },
+    "question_tqa_valid963": {
+        "cell_id": "S100IY1B-0105030-tab278-r6c2",
+        "value": "93239000000"
+    },
+    "question_tqa_valid964": {
+        "cell_id": "S100IY17-0105110-tab162-r3c2",
+        "value": "23554000000"
+    },
+    "question_tqa_valid965": {
+        "cell_id": "S100IY17-0000000-tab1-r11c2",
+        "value": "大阪(06)6373-4356"
+    },
+    "question_tqa_valid966": {
+        "cell_id": "S100ILF5-0105310-tab125-r18c4",
+        "value": "6458000000"
+    },
+    "question_tqa_valid967": {
+        "cell_id": "S100IY1B-0104010-tab43-r8c6",
+        "value": "0.2714"
+    },
+    "question_tqa_valid968": {
+        "cell_id": "S100J4CT-0105110-tab122-r3c5",
+        "value": "97209000000"
+    },
+    "question_tqa_valid969": {
+        "cell_id": "S100JBJB-0101010-tab2-r6c4",
+        "value": "44945000000"
+    },
+    "question_tqa_valid970": {
+        "cell_id": "S100J4CT-0105320-tab179-r14c3",
+        "value": "836000000"
+    },
+    "question_tqa_valid971": {
+        "cell_id": "S100J1GM-0101010-tab3-r18c5",
+        "value": "24.8"
+    },
+    "question_tqa_valid972": {
+        "cell_id": "S100IY1B-0105020-tab152-r7c6",
+        "value": "-4657000000"
+    },
+    "question_tqa_valid973": {
+        "cell_id": "S100J1GM-0105020-tab203-r9c7",
+        "value": "－"
+    },
+    "question_tqa_valid974": {
+        "cell_id": "S100IY1B-0105020-tab151-r6c6",
+        "value": "11561000000"
+    },
+    "question_tqa_valid975": {
+        "cell_id": "S100IY1B-0105010-tab107-r22c4",
+        "value": "72738000000"
+    },
+    "question_tqa_valid976": {
+        "cell_id": "S100J4CT-0101010-tab4-r6c5",
+        "value": "99513000000"
+    },
+    "question_tqa_valid977": {
+        "cell_id": "S100J4CT-0101010-tab3-r6c5",
+        "value": "152329000000"
+    },
+    "question_tqa_valid978": {
+        "cell_id": "S100IYG9-0105320-tab261-r29c4",
+        "value": "1258000000"
+    },
+    "question_tqa_valid979": {
+        "cell_id": "S100IY1B-0105010-tab107-r36c3",
+        "value": "610543000000"
+    },
+    "question_tqa_valid980": {
+        "cell_id": "S100J1GM-0105020-tab200-r6c2",
+        "value": "55000000"
+    },
+    "question_tqa_valid981": {
+        "cell_id": "S100IY1B-0105020-tab123-r6c8",
+        "value": "－"
+    },
+    "question_tqa_valid982": {
+        "cell_id": "S100IY1B-0101010-tab2-r13c5",
+        "value": "105.76"
+    },
+    "question_tqa_valid983": {
+        "cell_id": "S100JBJB-0105020-tab245-r38c2",
+        "value": "197000000"
+    },
+    "question_tqa_valid984": {
+        "cell_id": "S100IY17-0105320-tab183-r20c4",
+        "value": "852000000"
+    },
+    "question_tqa_valid985": {
+        "cell_id": "S100J4CT-0105010-tab95-r9c3",
+        "value": "809007000000"
+    },
+    "question_tqa_valid986": {
+        "cell_id": "S100IY1B-0105020-tab215-r10c3",
+        "value": "2376000000"
+    },
+    "question_tqa_valid987": {
+        "cell_id": "S100IY17-0104010-tab34-r12c3",
+        "value": "101095000"
+    },
+    "question_tqa_valid988": {
+        "cell_id": "S100IWZG-0105310-tab272-r35c4",
+        "value": "79548000000"
+    },
+    "question_tqa_valid989": {
+        "cell_id": "S100IY17-0105310-tab181-r40c5",
+        "value": "179108000000"
+    },
+    "question_tqa_valid990": {
+        "cell_id": "S100J1GM-0105020-tab200-r14c3",
+        "value": "60000000"
+    },
+    "question_tqa_valid991": {
+        "cell_id": "S100IYG9-0105320-tab261-r27c4",
+        "value": "1090000000"
+    },
+    "question_tqa_valid992": {
+        "cell_id": "S100IY1B-0105010-tab108-r20c4",
+        "value": "28410000000"
+    },
+    "question_tqa_valid993": {
+        "cell_id": "S100JBJB-0105020-tab247-r33c3",
+        "value": "－"
+    },
+    "question_tqa_valid994": {
+        "cell_id": "S100J1GM-0101010-tab3-r8c3",
+        "value": "971967000"
+    },
+    "question_tqa_valid995": {
+        "cell_id": "S100J1GM-0105020-tab201-r14c2",
+        "value": "50054000000"
+    },
+    "question_tqa_valid996": {
+        "cell_id": "S100IY17-0105010-tab75-r20c6",
+        "value": "44058000000"
+    },
+    "question_tqa_valid997": {
+        "cell_id": "S100IWZG-0105110-tab129-r14c2",
+        "value": "－"
+    },
+    "question_tqa_valid998": {
+        "cell_id": "S100IY17-0105310-tab181-r44c5",
+        "value": "568000000"
+    },
+    "question_tqa_valid999": {
+        "cell_id": "S100IYG9-0104010-tab57-r4c2",
+        "value": "－"
+    },
+    "question_tqa_valid1000": {
+        "cell_id": "S100J4CT-0105010-tab96-r16c5",
+        "value": "112148000000"
+    },
+    "question_tqa_valid1001": {
+        "cell_id": "S100IY17-0105310-tab182-r20c5",
+        "value": "29154000000"
+    },
+    "question_tqa_valid1002": {
+        "cell_id": "S100IY17-0101010-tab2-r11c5",
+        "value": "646.08"
+    },
+    "question_tqa_valid1003": {
+        "cell_id": "S100ILF5-0105330-tab128-r13c8",
+        "value": "46242000000"
+    },
+    "question_tqa_valid1004": {
+        "cell_id": "S100IY17-0105050-tab84-r14c3",
+        "value": "-22029000000"
+    },
+    "question_tqa_valid1005": {
+        "cell_id": "S100IY1B-0105010-tab107-r17c3",
+        "value": "13571000000"
+    },
+    "question_tqa_valid1006": {
+        "cell_id": "S100J2S4-0105310-tab149-r29c5",
+        "value": "54336000000"
+    },
+    "question_tqa_valid1007": {
+        "cell_id": "S100ITAZ-0104010-tab69-r6c10",
+        "value": "442205"
+    },
+    "question_tqa_valid1008": {
+        "cell_id": "S100IY1B-0105010-tab111-r11c3",
+        "value": "2031000000"
+    },
+    "question_tqa_valid1009": {
+        "cell_id": "S100IY17-0104010-tab33-r6c7",
+        "value": "0.0000"
+    },
+    "question_tqa_valid1010": {
+        "cell_id": "S100J2S4-0105050-tab83-r18c3",
+        "value": "-244000000"
+    },
+    "question_tqa_valid1011": {
+        "cell_id": "S100IY1B-0105020-tab151-r6c5",
+        "value": "9918000000"
+    },
+    "question_tqa_valid1012": {
+        "cell_id": "S100IWZG-0105110-tab108-r9c4",
+        "value": "103737000000"
+    },
+    "question_tqa_valid1013": {
+        "cell_id": "S100IY1B-0105030-tab278-r39c3",
+        "value": "79863000000"
+    },
+    "question_tqa_valid1014": {
+        "cell_id": "S100IYG9-0105320-tab261-r23c3",
+        "value": "1394000000"
+    },
+    "question_tqa_valid1015": {
+        "cell_id": "S100IYG9-0105310-tab259-r20c5",
+        "value": "2094802000000"
+    },
+    "question_tqa_valid1016": {
+        "cell_id": "S100IY1B-0105030-tab278-r25c3",
+        "value": "－"
+    },
+    "question_tqa_valid1017": {
+        "cell_id": "S100IY1B-0105030-tab279-r13c2",
+        "value": "2693000000"
+    },
+    "question_tqa_valid1018": {
+        "cell_id": "S100IWZG-0105110-tab247-r3c2",
+        "value": "910000000"
+    },
+    "question_tqa_valid1019": {
+        "cell_id": "S100IY17-0105010-tab75-r6c4",
+        "value": "447831000000"
+    },
+    "question_tqa_valid1020": {
+        "cell_id": "S100IYG9-0105320-tab261-r36c4",
+        "value": "17000000"
+    },
+    "question_tqa_valid1021": {
+        "cell_id": "S100IY17-0105310-tab182-r13c6",
+        "value": "3909000000"
+    },
+    "question_tqa_valid1022": {
+        "cell_id": "S100J4CT-0104010-tab65-r31c2",
+        "value": "小川　陽一郎"
+    },
+    "question_tqa_valid1023": {
+        "cell_id": "S100IWZG-0105310-tab271-r17c7",
+        "value": "-13878000000"
+    },
+    "question_tqa_valid1024": {
+        "cell_id": "S100IWZG-0104010-tab43-r5c6",
+        "value": "736"
+    },
+    "question_tqa_valid1025": {
+        "cell_id": "S100ITAZ-0101010-tab4-r6c3",
+        "value": "161699000000"
+    },
+    "question_tqa_valid1026": {
+        "cell_id": "S100ITAZ-0101010-tab4-r22c3",
+        "value": "0.892"
+    },
+    "question_tqa_valid1027": {
+        "cell_id": "S100JBJB-0105020-tab247-r19c2",
+        "value": "8927000000"
+    },
+    "question_tqa_valid1028": {
+        "cell_id": "S100IWZG-0104010-tab43-r5c7",
+        "value": "642"
+    },
+    "question_tqa_valid1029": {
+        "cell_id": "S100IYG9-0104010-tab92-r20c3",
+        "value": "1962-06-10"
+    },
+    "question_tqa_valid1030": {
+        "cell_id": "S100J1GM-0101010-tab2-r20c4",
+        "value": "119901000000"
+    },
+    "question_tqa_valid1031": {
+        "cell_id": "S100J2S4-0104010-tab60-r5c3",
+        "value": "－"
+    },
+    "question_tqa_valid1032": {
+        "cell_id": "S100IWZG-0105310-tab272-r38c4",
+        "value": "57960000000"
+    },
+    "question_tqa_valid1033": {
+        "cell_id": "S100ITAZ-0101010-tab4-r5c3",
+        "value": "81991000000"
+    },
+    "question_tqa_valid1034": {
+        "cell_id": "S100ITAZ-0105320-tab240-r38c4",
+        "value": "5986000000"
+    },
+    "question_tqa_valid1035": {
+        "cell_id": "S100IY1B-0105030-tab278-r30c3",
+        "value": "530000000"
+    },
+    "question_tqa_valid1036": {
+        "cell_id": "S100ITAZ-0105020-tab135-r27c3",
+        "value": "2057000000"
+    },
+    "question_tqa_valid1037": {
+        "cell_id": "S100JBJB-0104010-tab70-r14c2",
+        "value": "太　田　順　司"
+    },
+    "question_tqa_valid1038": {
+        "cell_id": "S100J4CT-0105010-tab96-r22c3",
+        "value": "27420000000"
+    },
+    "question_tqa_valid1039": {
+        "cell_id": "S100J2S4-0105320-tab152-r40c3",
+        "value": "62791000000"
+    },
+    "question_tqa_valid1040": {
+        "cell_id": "S100IWZG-0105310-tab271-r40c6",
+        "value": "101867000000"
+    },
+    "question_tqa_valid1041": {
+        "cell_id": "S100IWZG-0105010-tab85-r22c7",
+        "value": "3588085000000"
+    },
+    "question_tqa_valid1042": {
+        "cell_id": "S100IY17-0104010-tab66-r4c5",
+        "value": "－"
+    },
+    "question_tqa_valid1043": {
+        "cell_id": "S100J4CT-0101010-tab5-r6c5",
+        "value": "10000000000"
+    },
+    "question_tqa_valid1044": {
+        "cell_id": "S100J4CT-0105310-tab178-r27c6",
+        "value": "1571000000"
+    },
+    "question_tqa_valid1045": {
+        "cell_id": "S100IY17-0105050-tab84-r15c2",
+        "value": "10228000000"
+    },
+    "question_tqa_valid1046": {
+        "cell_id": "S100IWZG-0105310-tab271-r10c6",
+        "value": "665002000000"
+    },
+    "question_tqa_valid1047": {
+        "cell_id": "S100IY1B-0105010-tab107-r32c4",
+        "value": "-2160000000"
+    },
+    "question_tqa_valid1048": {
+        "cell_id": "S100IY17-0101010-tab3-r6c3",
+        "value": "85032000000"
+    },
+    "question_tqa_valid1049": {
+        "cell_id": "S100IY1B-0105030-tab279-r32c2",
+        "value": "－"
+    },
+    "question_tqa_valid1050": {
+        "cell_id": "S100IY17-0105320-tab183-r6c4",
+        "value": "392421000000"
+    },
+    "question_tqa_valid1051": {
+        "cell_id": "S100IYG9-0104010-tab53-r4c2",
+        "value": "2"
+    },
+    "question_tqa_valid1052": {
+        "cell_id": "S100ILF5-0105310-tab125-r28c6",
+        "value": "7481000000"
+    },
+    "question_tqa_valid1053": {
+        "cell_id": "S100J4CT-0105310-tab177-r5c5",
+        "value": "198424000000"
+    },
+    "question_tqa_valid1054": {
+        "cell_id": "S100IWZG-0105320-tab274-r33c4",
+        "value": "8579000000"
+    },
+    "question_tqa_valid1055": {
+        "cell_id": "S100J4CT-0105110-tab119-r3c3",
+        "value": "58999000000"
+    },
+    "question_tqa_valid1056": {
+        "cell_id": "S100J2S4-0105310-tab150-r17c5",
+        "value": "2122000000"
+    },
+    "question_tqa_valid1057": {
+        "cell_id": "S100JBJB-0104010-tab126-r5c2",
+        "value": "888000000"
+    },
+    "question_tqa_valid1058": {
+        "cell_id": "S100IY17-0000000-tab1-r8c2",
+        "value": "DAIKIN INDUSTRIES,LTD."
+    },
+    "question_tqa_valid1059": {
+        "cell_id": "S100IWZG-0105310-tab272-r31c4",
+        "value": "40000000"
+    },
+    "question_tqa_valid1060": {
+        "cell_id": "S100IWZG-0105310-tab271-r25c6",
+        "value": "24367000000"
+    },
+    "question_tqa_valid1061": {
+        "cell_id": "S100IYG9-0105320-tab261-r34c3",
+        "value": "10070000000"
+    },
+    "question_tqa_valid1062": {
+        "cell_id": "S100IYG9-0105320-tab261-r32c4",
+        "value": "12417000000"
+    },
+    "question_tqa_valid1063": {
+        "cell_id": "S100JBJB-0101010-tab3-r19c3",
+        "value": "－"
+    },
+    "question_tqa_valid1064": {
+        "cell_id": "S100J1GM-0101010-tab2-r12c4",
+        "value": "120.26"
+    },
+    "question_tqa_valid1065": {
+        "cell_id": "S100JBJB-0104010-tab70-r14c26",
+        "value": "－"
+    },
+    "question_tqa_valid1066": {
+        "cell_id": "S100J2S4-0000000-tab1-r9c2",
+        "value": "代表取締役社長　仁　島　浩　順"
+    },
+    "question_tqa_valid1067": {
+        "cell_id": "S100IWZG-0101010-tab3-r17c5",
+        "value": "0.375"
+    },
+    "question_tqa_valid1068": {
+        "cell_id": "S100J4CT-0101010-tab4-r12c4",
+        "value": "50.76"
+    },
+    "question_tqa_valid1069": {
+        "cell_id": "S100ILF5-0105320-tab126-r26c4",
+        "value": "3000000"
+    },
+    "question_tqa_valid1070": {
+        "cell_id": "S100ITAZ-0101010-tab4-r18c4",
+        "value": "0.4134"
+    },
+    "question_tqa_valid1071": {
+        "cell_id": "S100IY17-0105310-tab182-r20c4",
+        "value": "56850000000"
+    },
+    "question_tqa_valid1072": {
+        "cell_id": "S100IY1B-0105030-tab278-r15c2",
+        "value": "151000000"
+    },
+    "question_tqa_valid1073": {
+        "cell_id": "S100JBJB-0101010-tab3-r16c3",
+        "value": "0.103"
+    },
+    "question_tqa_valid1074": {
+        "cell_id": "S100IYG9-0105020-tab126-r29c3",
+        "value": "60346000000"
+    },
+    "question_tqa_valid1075": {
+        "cell_id": "S100J4CT-0101010-tab5-r8c6",
+        "value": "932667000000"
+    },
+    "question_tqa_valid1076": {
+        "cell_id": "S100IY1B-0104010-tab94-r3c3",
+        "value": "28000000"
+    },
+    "question_tqa_valid1077": {
+        "cell_id": "S100J4CT-0105010-tab95-r17c3",
+        "value": "127458000000"
+    },
+    "question_tqa_valid1078": {
+        "cell_id": "S100IY17-0101010-tab13-r8c2",
+        "value": "950"
+    },
+    "question_tqa_valid1079": {
+        "cell_id": "S100IYG9-0104010-tab53-r6c4",
+        "value": "0.0301"
+    },
+    "question_tqa_valid1080": {
+        "cell_id": "S100J1GM-0104010-tab79-r5c8",
+        "value": "190000000"
+    },
+    "question_tqa_valid1081": {
+        "cell_id": "S100IYG9-0105020-tab126-r6c4",
+        "value": "4642000000"
+    },
+    "question_tqa_valid1082": {
+        "cell_id": "S100J4CT-0105310-tab177-r31c5",
+        "value": "1106947000000"
+    },
+    "question_tqa_valid1083": {
+        "cell_id": "S100IYG9-0000000-tab1-r6c2",
+        "value": "第83期(自　2019年４月１日　至　2020年３月31日)"
+    },
+    "question_tqa_valid1084": {
+        "cell_id": "S100J4CT-0105320-tab179-r33c3",
+        "value": "94090000000"
+    },
+    "question_tqa_valid1085": {
+        "cell_id": "S100J1GM-0104010-tab60-r16c2",
+        "value": "浦野　邦子"
+    },
+    "question_tqa_valid1086": {
+        "cell_id": "S100IWZG-0105310-tab272-r40c5",
+        "value": "73107000000"
+    },
+    "question_tqa_valid1087": {
+        "cell_id": "S100ILF5-0105310-tab124-r39c5",
+        "value": "2688000000"
+    },
+    "question_tqa_valid1088": {
+        "cell_id": "S100IWZG-0105010-tab85-r5c7",
+        "value": "1811281000000"
+    },
+    "question_tqa_valid1089": {
+        "cell_id": "S100IY17-0105310-tab180-r28c5",
+        "value": "619000000"
+    },
+    "question_tqa_valid1090": {
+        "cell_id": "S100J4CT-0105025-tab98-r10c5",
+        "value": "-5507000000"
+    },
+    "question_tqa_valid1091": {
+        "cell_id": "S100IWZG-0105040-tab88-r23c13",
+        "value": "1498157000000"
+    },
+    "question_tqa_valid1092": {
+        "cell_id": "S100IWZG-0105310-tab271-r26c8",
+        "value": "-23305000000"
+    },
+    "question_tqa_valid1093": {
+        "cell_id": "S100J4CT-0105320-tab179-r21c3",
+        "value": "48000000"
+    },
+    "question_tqa_valid1094": {
+        "cell_id": "S100J1GM-0104010-tab87-r4c4",
+        "value": "－"
+    },
+    "question_tqa_valid1095": {
+        "cell_id": "S100IY17-0105330-tab185-r7c3",
+        "value": "-42407000000"
+    },
+    "question_tqa_valid1096": {
+        "cell_id": "S100J1GM-0000000-tab1-r15c2",
+        "value": "管理部長　　　　　　　横尾　和浩"
+    },
+    "question_tqa_valid1097": {
+        "cell_id": "S100JBJB-0105020-tab245-r28c2",
+        "value": "48893000000"
+    },
+    "question_tqa_valid1098": {
+        "cell_id": "S100IWZG-0105110-tab108-r4c4",
+        "value": "610669000000"
+    },
+    "question_tqa_valid1099": {
+        "cell_id": "S100J2S4-0105320-tab152-r32c4",
+        "value": "2313000000"
+    },
+    "question_tqa_valid1100": {
+        "cell_id": "S100IY1B-0105030-tab279-r16c2",
+        "value": "3650000000"
+    },
+    "question_tqa_valid1101": {
+        "cell_id": "S100IY17-0105310-tab182-r17c4",
+        "value": "-2582000000"
+    },
+    "question_tqa_valid1102": {
+        "cell_id": "S100JBJB-0104010-tab90-r48c2",
+        "value": "上　條　　　勉"
+    },
+    "question_tqa_valid1103": {
+        "cell_id": "S100IY1B-0105020-tab119-r8c6",
+        "value": "49338000000"
+    },
+    "question_tqa_valid1104": {
+        "cell_id": "S100J1GM-0104010-tab78-r8c4",
+        "value": "54000000"
+    },
+    "question_tqa_valid1105": {
+        "cell_id": "S100IY1B-0103010-tab35-r4c2",
+        "value": "33277000000"
+    },
+    "question_tqa_valid1106": {
+        "cell_id": "S100J2S4-0000000-tab1-r7c2",
+        "value": "住友不動産株式会社"
+    },
+    "question_tqa_valid1107": {
+        "cell_id": "S100ITAZ-0105320-tab240-r20c4",
+        "value": "23695000000"
+    },
+    "question_tqa_valid1108": {
+        "cell_id": "S100IYG9-0105010-tab123-r35c4",
+        "value": "3938000000"
+    },
+    "question_tqa_valid1109": {
+        "cell_id": "S100IWZG-0105040-tab88-r22c5",
+        "value": "-73894000000"
+    },
+    "question_tqa_valid1110": {
+        "cell_id": "S100ITAZ-0104010-tab72-r4c6",
+        "value": "0.0031"
+    },
+    "question_tqa_valid1111": {
+        "cell_id": "S100IY1B-0105020-tab151-r6c3",
+        "value": "36948000000"
+    },
+    "question_tqa_valid1112": {
+        "cell_id": "S100J4CT-0101010-tab5-r16c6",
+        "value": "0.037"
+    },
+    "question_tqa_valid1113": {
+        "cell_id": "S100J4CT-0105010-tab96-r12c3",
+        "value": "219362000000"
+    },
+    "question_tqa_valid1114": {
+        "cell_id": "S100IY17-0105400-tab198-r3c4",
+        "value": "-6000000"
+    },
+    "question_tqa_valid1115": {
+        "cell_id": "S100J1GM-0104010-tab60-r16c22",
+        "value": "34000"
+    },
+    "question_tqa_valid1116": {
+        "cell_id": "S100ILF5-0101010-tab3-r12c4",
+        "value": "45.00"
+    },
+    "question_tqa_valid1117": {
+        "cell_id": "S100J4CT-0105010-tab96-r20c5",
+        "value": "53459000000"
+    },
+    "question_tqa_valid1118": {
+        "cell_id": "S100JBJB-0101010-tab3-r21c5",
+        "value": "0.611"
+    },
+    "question_tqa_valid1119": {
+        "cell_id": "S100IYG9-0105010-tab123-r12c5",
+        "value": "66306000000"
+    },
+    "question_tqa_valid1120": {
+        "cell_id": "S100ILF5-0104010-tab25-r12c2",
+        "value": "114443496"
+    },
+    "question_tqa_valid1121": {
+        "cell_id": "S100J1GM-0105020-tab201-r37c2",
+        "value": "1333000000"
+    },
+    "question_tqa_valid1122": {
+        "cell_id": "S100IYG9-0105310-tab260-r12c4",
+        "value": "302986000000"
+    },
+    "question_tqa_valid1123": {
+        "cell_id": "S100J1GM-0105020-tab199-r36c2",
+        "value": "41371000000"
+    },
+    "question_tqa_valid1124": {
+        "cell_id": "S100JBJB-0104010-tab59-r6c5",
+        "value": "－"
+    },
+    "question_tqa_valid1125": {
+        "cell_id": "S100ILF5-0105010-tab56-r9c4",
+        "value": "3570000000"
+    },
+    "question_tqa_valid1126": {
+        "cell_id": "S100IY17-0105010-tab76-r37c5",
+        "value": "-7687000000"
+    },
+    "question_tqa_valid1127": {
+        "cell_id": "S100ILF5-0105310-tab125-r35c5",
+        "value": "393131000000"
+    },
+    "question_tqa_valid1128": {
+        "cell_id": "S100ILF5-0105320-tab126-r8c4",
+        "value": "21263000000"
+    },
+    "question_tqa_valid1129": {
+        "cell_id": "S100IY1B-0000000-tab1-r14c2",
+        "value": "03(5250)8111"
+    },
+    "question_tqa_valid1130": {
+        "cell_id": "S100J4CT-0105320-tab179-r23c2",
+        "value": "55413000000"
+    },
+    "question_tqa_valid1131": {
+        "cell_id": "S100IYG9-0105010-tab122-r37c5",
+        "value": "3217000000"
+    },
+    "question_tqa_valid1132": {
+        "cell_id": "S100ITAZ-0101010-tab3-r7c5",
+        "value": "1513585000000"
+    },
+    "question_tqa_valid1133": {
+        "cell_id": "S100IY1B-0105030-tab280-r8c10",
+        "value": "-18455000000"
+    },
+    "question_tqa_valid1134": {
+        "cell_id": "S100J2S4-0105020-tab75-r18c3",
+        "value": "9471000000"
+    },
+    "question_tqa_valid1135": {
+        "cell_id": "S100IWZG-0101010-tab2-r9c3",
+        "value": "1508396000000"
+    },
+    "question_tqa_valid1136": {
+        "cell_id": "S100J2S4-0105310-tab150-r8c5",
+        "value": "120000000000"
+    },
+    "question_tqa_valid1137": {
+        "cell_id": "S100ITAZ-0105320-tab240-r10c3",
+        "value": "394826000000"
+    },
+    "question_tqa_valid1138": {
+        "cell_id": "S100J2S4-0105320-tab152-r39c3",
+        "value": "201931000000"
+    },
+    "question_tqa_valid1139": {
+        "cell_id": "S100IY17-0000000-tab1-r13c2",
+        "value": "東京都港区港南２丁目18番１号ＪＲ品川イーストビル"
+    },
+    "question_tqa_valid1140": {
+        "cell_id": "S100IWZG-0105320-tab274-r11c4",
+        "value": "39801000000"
+    },
+    "question_tqa_valid1141": {
+        "cell_id": "S100J4CT-0105310-tab177-r30c5",
+        "value": "-4000000"
+    },
+    "question_tqa_valid1142": {
+        "cell_id": "S100J1GM-0105020-tab201-r9c2",
+        "value": "47841000000"
+    },
+    "question_tqa_valid1143": {
+        "cell_id": "S100IYG9-0104010-tab107-r3c3",
+        "value": "3000000"
+    },
+    "question_tqa_valid1144": {
+        "cell_id": "S100J4CT-0104010-tab31-r3c2",
+        "value": "1695960030"
+    },
+    "question_tqa_valid1145": {
+        "cell_id": "S100JBJB-0105020-tab246-r43c3",
+        "value": "606397000000"
+    },
+    "question_tqa_valid1146": {
+        "cell_id": "S100IWZG-0105310-tab271-r34c6",
+        "value": "715000000"
+    },
+    "question_tqa_valid1147": {
+        "cell_id": "S100JBJB-0105020-tab250-r10c11",
+        "value": "-10112000000"
+    },
+    "question_tqa_valid1148": {
+        "cell_id": "S100IWZG-0105310-tab273-r41c6",
+        "value": "713771000000"
+    },
+    "question_tqa_valid1149": {
+        "cell_id": "S100IYG9-0105020-tab126-r15c3",
+        "value": "－"
+    },
+    "question_tqa_valid1150": {
+        "cell_id": "S100ILF5-0000000-tab1-r5c2",
+        "value": "2020-05-15"
+    },
+    "question_tqa_valid1151": {
+        "cell_id": "S100ITAZ-0105010-tab132-r26c7",
+        "value": "-87716000000"
+    },
+    "question_tqa_valid1152": {
+        "cell_id": "S100ILF5-0105320-tab126-r10c2",
+        "value": "65258000000"
+    },
+    "question_tqa_valid1153": {
+        "cell_id": "S100J4CT-0104010-tab41-r4c8",
+        "value": "53249"
+    },
+    "question_tqa_valid1154": {
+        "cell_id": "S100IWZG-0105310-tab273-r29c4",
+        "value": "950000000"
+    },
+    "question_tqa_valid1155": {
+        "cell_id": "S100IY17-0105050-tab84-r17c3",
+        "value": "-47000000"
+    },
+    "question_tqa_valid1156": {
+        "cell_id": "S100ILF5-0105320-tab126-r31c4",
+        "value": "3967000000"
+    },
+    "question_tqa_valid1157": {
+        "cell_id": "S100IYG9-0104010-tab112-r5c7",
+        "value": "7"
+    },
+    "question_tqa_valid1158": {
+        "cell_id": "S100ILF5-0101010-tab2-r11c5",
+        "value": "571.63"
+    },
+    "question_tqa_valid1159": {
+        "cell_id": "S100ITAZ-0105320-tab241-r5c3",
+        "value": "27736000000"
+    },
+    "question_tqa_valid1160": {
+        "cell_id": "S100J2S4-0105010-tab73-r16c6",
+        "value": "1584047000000"
+    },
+    "question_tqa_valid1161": {
+        "cell_id": "S100IYG9-0105330-tab263-r11c5",
+        "value": "-14619000000"
+    },
+    "question_tqa_valid1162": {
+        "cell_id": "S100ILF5-0105310-tab124-r33c5",
+        "value": "441000000"
+    },
+    "question_tqa_valid1163": {
+        "cell_id": "S100ITAZ-0105310-tab238-r34c5",
+        "value": "739000000"
+    },
+    "question_tqa_valid1164": {
+        "cell_id": "S100IY17-0105020-tab77-r30c3",
+        "value": "7000000"
+    },
+    "question_tqa_valid1165": {
+        "cell_id": "S100IY17-0101010-tab3-r16c6",
+        "value": "0.167"
+    },
+    "question_tqa_valid1166": {
+        "cell_id": "S100IWZG-0105050-tab91-r16c3",
+        "value": "516000000"
+    },
+    "question_tqa_valid1167": {
+        "cell_id": "S100IY1B-0101010-tab4-r15c3",
+        "value": "－"
+    },
+    "question_tqa_valid1168": {
+        "cell_id": "S100ITAZ-0105310-tab237-r18c5",
+        "value": "2887000000"
+    },
+    "question_tqa_valid1169": {
+        "cell_id": "S100ILF5-0105320-tab126-r37c3",
+        "value": "1814000000"
+    },
+    "question_tqa_valid1170": {
+        "cell_id": "S100IY1B-0105030-tab279-r8c3",
+        "value": "-7427000000"
+    },
+    "question_tqa_valid1171": {
+        "cell_id": "S100J4CT-0105010-tab95-r8c3",
+        "value": "38938000000"
+    },
+    "question_tqa_valid1172": {
+        "cell_id": "S100IY1B-0101010-tab2-r13c3",
+        "value": "121.23"
+    },
+    "question_tqa_valid1173": {
+        "cell_id": "S100IWZG-0105040-tab88-r19c5",
+        "value": "667000000"
+    },
+    "question_tqa_valid1174": {
+        "cell_id": "S100J2S4-0105310-tab150-r15c5",
+        "value": "25627000000"
+    },
+    "question_tqa_valid1175": {
+        "cell_id": "S100IY17-0105320-tab183-r44c2",
+        "value": "18157000000"
+    },
+    "question_tqa_valid1176": {
+        "cell_id": "S100ITAZ-0104010-tab123-r2c2",
+        "value": "62"
+    },
+    "question_tqa_valid1177": {
+        "cell_id": "S100ITAZ-0105110-tab216-r7c2",
+        "value": "503571000000"
+    },
+    "question_tqa_valid1178": {
+        "cell_id": "S100IY17-0105320-tab183-r26c3",
+        "value": "－"
+    },
+    "question_tqa_valid1179": {
+        "cell_id": "S100IWZG-0000000-tab1-r9c2",
+        "value": "代表取締役 社長執行役員 兼 CEO　宮内 謙"
+    },
+    "question_tqa_valid1180": {
+        "cell_id": "S100IWZG-0105110-tab128-r10c8",
+        "value": "180255000000"
+    },
+    "question_tqa_valid1181": {
+        "cell_id": "S100IY17-0101010-tab2-r9c5",
+        "value": "4433.62"
+    },
+    "question_tqa_valid1182": {
+        "cell_id": "S100IYG9-0101010-tab3-r20c3",
+        "value": "0.762"
+    },
+    "question_tqa_valid1183": {
+        "cell_id": "S100JBJB-0101010-tab3-r10c4",
+        "value": "2803644000000"
+    },
+    "question_tqa_valid1184": {
+        "cell_id": "S100J4CT-0105320-tab179-r25c4",
+        "value": "－"
+    },
+    "question_tqa_valid1185": {
+        "cell_id": "S100ITAZ-0104010-tab64-r2c2",
+        "value": "666238205"
+    },
+    "question_tqa_valid1186": {
+        "cell_id": "S100J4CT-0105310-tab178-r31c7",
+        "value": "820909000000"
+    },
+    "question_tqa_valid1187": {
+        "cell_id": "S100J2S4-0105320-tab152-r31c4",
+        "value": "618000000"
+    },
+    "question_tqa_valid1188": {
+        "cell_id": "S100ILF5-0105310-tab124-r17c6",
+        "value": "347000000"
+    },
+    "question_tqa_valid1189": {
+        "cell_id": "S100J1GM-0104010-tab46-r8c4",
+        "value": "0.0314"
+    },
+    "question_tqa_valid1190": {
+        "cell_id": "S100J2S4-0104010-tab31-r2c5",
+        "value": "単元株式数は100株であります。"
+    },
+    "question_tqa_valid1191": {
+        "cell_id": "S100J4CT-0104010-tab41-r4c4",
+        "value": "49"
+    },
+    "question_tqa_valid1192": {
+        "cell_id": "S100ITAZ-0105310-tab239-r36c3",
+        "value": "114000000"
+    },
+    "question_tqa_valid1193": {
+        "cell_id": "S100IWZG-0105320-tab274-r17c3",
+        "value": "814404000000"
+    },
+    "question_tqa_valid1194": {
+        "cell_id": "S100IY1B-0105010-tab107-r37c4",
+        "value": "53095000000"
+    },
+    "question_tqa_valid1195": {
+        "cell_id": "S100IWZG-0105110-tab108-r6c14",
+        "value": "-108865000000"
+    },
+    "question_tqa_valid1196": {
+        "cell_id": "S100IWZG-0000000-tab1-r8c2",
+        "value": "SoftBank Corp."
+    },
+    "question_tqa_valid1197": {
+        "cell_id": "S100IY17-0105110-tab156-r5c8",
+        "value": "2481109000000"
+    },
+    "question_tqa_valid1198": {
+        "cell_id": "S100IWZG-0105310-tab272-r22c6",
+        "value": "1050000000"
+    },
+    "question_tqa_valid1199": {
+        "cell_id": "S100ITAZ-0105040-tab141-r6c4",
+        "value": "－"
+    },
+    "question_tqa_valid1200": {
+        "cell_id": "S100JBJB-0105020-tab260-r4c2",
+        "value": "226000000"
+    },
+    "question_tqa_valid1201": {
+        "cell_id": "S100J4CT-0105310-tab177-r18c6",
+        "value": "－"
+    },
+    "question_tqa_valid1202": {
+        "cell_id": "S100IY1B-0105030-tab278-r30c2",
+        "value": "598000000"
+    },
+    "question_tqa_valid1203": {
+        "cell_id": "S100ILF5-0105310-tab125-r15c5",
+        "value": "4000000000"
+    },
+    "question_tqa_valid1204": {
+        "cell_id": "S100ITAZ-0105020-tab135-r21c4",
+        "value": "65873000000"
+    },
+    "question_tqa_valid1205": {
+        "cell_id": "S100IY1B-0101010-tab4-r8c5",
+        "value": "571863354"
+    },
+    "question_tqa_valid1206": {
+        "cell_id": "S100JBJB-0101010-tab2-r9c3",
+        "value": "328874000000"
+    },
+    "question_tqa_valid1207": {
+        "cell_id": "S100IYG9-0105050-tab133-r33c3",
+        "value": "-188952000000"
+    },
+    "question_tqa_valid1208": {
+        "cell_id": "S100J4CT-0101010-tab3-r16c3",
+        "value": "－"
+    },
+    "question_tqa_valid1209": {
+        "cell_id": "S100J2S4-0105310-tab149-r14c5",
+        "value": "-20000000"
+    },
+    "question_tqa_valid1210": {
+        "cell_id": "S100J1GM-0105020-tab201-r36c3",
+        "value": "－"
+    },
+    "question_tqa_valid1211": {
+        "cell_id": "S100IY1B-0105030-tab278-r20c3",
+        "value": "499000000"
+    },
+    "question_tqa_valid1212": {
+        "cell_id": "S100IYG9-0105020-tab125-r30c3",
+        "value": "8397000000"
+    },
+    "question_tqa_valid1213": {
+        "cell_id": "S100J2S4-0101010-tab2-r11c7",
+        "value": "－"
+    },
+    "question_tqa_valid1214": {
+        "cell_id": "S100IY1B-0101010-tab4-r19c3",
+        "value": "0.497"
+    },
+    "question_tqa_valid1215": {
+        "cell_id": "S100J2S4-0105010-tab73-r18c6",
+        "value": "859028000000"
+    },
+    "question_tqa_valid1216": {
+        "cell_id": "S100IYG9-0105320-tab261-r18c4",
+        "value": "12574000000"
+    },
+    "question_tqa_valid1217": {
+        "cell_id": "S100IYG9-0104010-tab58-r3c6",
+        "value": "0.1058"
+    },
+    "question_tqa_valid1218": {
+        "cell_id": "S100IY1B-0105020-tab217-r14c2",
+        "value": "270000000"
+    },
+    "question_tqa_valid1219": {
+        "cell_id": "S100IWZG-0101010-tab2-r11c4",
+        "value": "375.05"
+    },
+    "question_tqa_valid1220": {
+        "cell_id": "S100ITAZ-0105310-tab238-r34c4",
+        "value": "1271000000"
+    },
+    "question_tqa_valid1221": {
+        "cell_id": "S100IY1B-0105020-tab217-r6c2",
+        "value": "4375000000"
+    },
+    "question_tqa_valid1222": {
+        "cell_id": "S100ILF5-0104010-tab20-r6c10",
+        "value": "218696"
+    },
+    "question_tqa_valid1223": {
+        "cell_id": "S100IY17-0101010-tab3-r9c6",
+        "value": "1430855000000"
+    },
+    "question_tqa_valid1224": {
+        "cell_id": "S100IY1B-0105030-tab277-r18c3",
+        "value": "-1563000000"
+    },
+    "question_tqa_valid1225": {
+        "cell_id": "S100J2S4-0104010-tab33-r6c2",
+        "value": "0.0000"
+    },
+    "question_tqa_valid1226": {
+        "cell_id": "S100JBJB-0103010-tab30-r5c2",
+        "value": "18800000000"
+    },
+    "question_tqa_valid1227": {
+        "cell_id": "S100IY1B-0105020-tab121-r6c8",
+        "value": "－"
+    },
+    "question_tqa_valid1228": {
+        "cell_id": "S100IWZG-0105310-tab271-r13c6",
+        "value": "233426000000"
+    },
+    "question_tqa_valid1229": {
+        "cell_id": "S100IYG9-0105010-tab122-r8c4",
+        "value": "812341000000"
+    },
+    "question_tqa_valid1230": {
+        "cell_id": "S100J2S4-0105100-tab89-r5c4",
+        "value": "887000000"
+    },
+    "question_tqa_valid1231": {
+        "cell_id": "S100ITAZ-0104010-tab69-r7c3",
+        "value": "0.4769"
+    },
+    "question_tqa_valid1232": {
+        "cell_id": "S100J1GM-0104010-tab35-r3c5",
+        "value": "権利内容に何ら限定のない当社における標準となる株式単元株式数100株"
+    },
+    "question_tqa_valid1233": {
+        "cell_id": "S100ITAZ-0105320-tab240-r33c4",
+        "value": "9222000000"
+    },
+    "question_tqa_valid1234": {
+        "cell_id": "S100J4CT-0101010-tab5-r21c5",
+        "value": "2.165"
+    },
+    "question_tqa_valid1235": {
+        "cell_id": "S100J4CT-0104010-tab31-r2c2",
+        "value": "1695960030"
+    },
+    "question_tqa_valid1236": {
+        "cell_id": "S100JBJB-0104010-tab54-r4c2",
+        "value": "455000000"
+    },
+    "question_tqa_valid1237": {
+        "cell_id": "S100IY1B-0105010-tab107-r30c4",
+        "value": "79863000000"
+    },
+    "question_tqa_valid1238": {
+        "cell_id": "S100IWZG-0105320-tab274-r29c3",
+        "value": "27665000000"
+    },
+    "question_tqa_valid1239": {
+        "cell_id": "S100IYG9-0105320-tab261-r20c3",
+        "value": "43124000000"
+    },
+    "question_tqa_valid1240": {
+        "cell_id": "S100IWZG-0105010-tab85-r5c5",
+        "value": "953730000000"
+    },
+    "question_tqa_valid1241": {
+        "cell_id": "S100IYG9-0105330-tab264-r8c6",
+        "value": "-31164000000"
+    },
+    "question_tqa_valid1242": {
+        "cell_id": "S100ILF5-0105010-tab57-r19c5",
+        "value": "1343000000"
+    },
+    "question_tqa_valid1243": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c4",
+        "value": "216877"
+    },
+    "question_tqa_valid1244": {
+        "cell_id": "S100IY1B-0105030-tab277-r48c2",
+        "value": "-47000000"
+    },
+    "question_tqa_valid1245": {
+        "cell_id": "S100ITAZ-0105320-tab241-r15c3",
+        "value": "275581000000"
+    },
+    "question_tqa_valid1246": {
+        "cell_id": "S100J4CT-0105040-tab100-r7c7",
+        "value": "5055000000"
+    },
+    "question_tqa_valid1247": {
+        "cell_id": "S100IY17-0105310-tab181-r10c6",
+        "value": "233000000"
+    },
+    "question_tqa_valid1248": {
+        "cell_id": "S100J2S4-0105310-tab149-r14c4",
+        "value": "-20000000"
+    },
+    "question_tqa_valid1249": {
+        "cell_id": "S100J1GM-0105020-tab199-r35c2",
+        "value": "378851000000"
+    },
+    "question_tqa_valid1250": {
+        "cell_id": "S100J2S4-0104010-tab65-r3c3",
+        "value": "7825000000"
+    },
+    "question_tqa_valid1251": {
+        "cell_id": "S100IYG9-0105320-tab261-r28c4",
+        "value": "168000000"
+    },
+    "question_tqa_valid1252": {
+        "cell_id": "S100ITAZ-0105320-tab240-r27c4",
+        "value": "10682000000"
+    },
+    "question_tqa_valid1253": {
+        "cell_id": "S100ILF5-0105310-tab124-r6c5",
+        "value": "1690000000"
+    },
+    "question_tqa_valid1254": {
+        "cell_id": "S100IY1B-0105030-tab278-r52c3",
+        "value": "7282000000"
+    },
+    "question_tqa_valid1255": {
+        "cell_id": "S100IYG9-0105310-tab260-r27c6",
+        "value": "45335000000"
+    },
+    "question_tqa_valid1256": {
+        "cell_id": "S100IWZG-0104010-tab43-r6c5",
+        "value": "32740517"
+    },
+    "question_tqa_valid1257": {
+        "cell_id": "S100IYG9-0105020-tab125-r16c2",
+        "value": "441240000000"
+    },
+    "question_tqa_valid1258": {
+        "cell_id": "S100IY1B-0105030-tab278-r8c3",
+        "value": "40000000000"
+    },
+    "question_tqa_valid1259": {
+        "cell_id": "S100IY17-0105310-tab181-r21c4",
+        "value": "40324000000"
+    },
+    "question_tqa_valid1260": {
+        "cell_id": "S100ILF5-0105020-tab58-r30c3",
+        "value": "－"
+    },
+    "question_tqa_valid1261": {
+        "cell_id": "S100IWZG-0105010-tab85-r29c5",
+        "value": "1178282000000"
+    },
+    "question_tqa_valid1262": {
+        "cell_id": "S100J4CT-0101010-tab4-r14c5",
+        "value": "0.130"
+    },
+    "question_tqa_valid1263": {
+        "cell_id": "S100J4CT-0101010-tab5-r6c4",
+        "value": "10000000000"
+    },
+    "question_tqa_valid1264": {
+        "cell_id": "S100ILF5-0105010-tab56-r9c5",
+        "value": "4127000000"
+    },
+    "question_tqa_valid1265": {
+        "cell_id": "S100J4CT-0105310-tab178-r18c5",
+        "value": "667000000"
+    },
+    "question_tqa_valid1266": {
+        "cell_id": "S100IY17-0105310-tab181-r43c4",
+        "value": "6723000000"
+    },
+    "question_tqa_valid1267": {
+        "cell_id": "S100IWZG-0105330-tab279-r8c3",
+        "value": "－"
+    },
+    "question_tqa_valid1268": {
+        "cell_id": "S100IY17-0105310-tab181-r39c4",
+        "value": "60000000000"
+    },
+    "question_tqa_valid1269": {
+        "cell_id": "S100ITAZ-0104010-tab71-r5c5",
+        "value": "－"
+    },
+    "question_tqa_valid1270": {
+        "cell_id": "S100ILF5-0105310-tab124-r36c6",
+        "value": "5316000000"
+    },
+    "question_tqa_valid1271": {
+        "cell_id": "S100J4CT-0105010-tab96-r24c5",
+        "value": "1003174000000"
+    },
+    "question_tqa_valid1272": {
+        "cell_id": "S100J1GM-0105020-tab205-r13c3",
+        "value": "760000000"
+    },
+    "question_tqa_valid1273": {
+        "cell_id": "S100JBJB-0104010-tab129-r4c5",
+        "value": "14"
+    },
+    "question_tqa_valid1274": {
+        "cell_id": "S100IY17-0101010-tab2-r14c5",
+        "value": "18.2"
+    },
+    "question_tqa_valid1275": {
+        "cell_id": "S100IY1B-0105030-tab277-r13c3",
+        "value": "27551000000"
+    },
+    "question_tqa_valid1276": {
+        "cell_id": "S100IY1B-0105020-tab148-r6c3",
+        "value": "617080000000"
+    },
+    "question_tqa_valid1277": {
+        "cell_id": "S100J4CT-0105310-tab178-r7c5",
+        "value": "2042000000"
+    },
+    "question_tqa_valid1278": {
+        "cell_id": "S100ITAZ-0105010-tab132-r6c5",
+        "value": "433053000000"
+    },
+    "question_tqa_valid1279": {
+        "cell_id": "S100IY1B-0101010-tab3-r8c3",
+        "value": "380000000"
+    },
+    "question_tqa_valid1280": {
+        "cell_id": "S100IWZG-0104010-tab51-r13c3",
+        "value": "1949-11-01"
+    },
+    "question_tqa_valid1281": {
+        "cell_id": "S100IYG9-0105010-tab123-r7c6",
+        "value": "1805910000000"
+    },
+    "question_tqa_valid1282": {
+        "cell_id": "S100ITAZ-0101010-tab4-r14c6",
+        "value": "274.51"
+    },
+    "question_tqa_valid1283": {
+        "cell_id": "S100IY1B-0105030-tab278-r32c2",
+        "value": "49000000"
+    },
+    "question_tqa_valid1284": {
+        "cell_id": "S100IWZG-0104010-tab73-r6c2",
+        "value": "48000000"
+    },
+    "question_tqa_valid1285": {
+        "cell_id": "S100IY1B-0105030-tab277-r16c3",
+        "value": "3231000000"
+    },
+    "question_tqa_valid1286": {
+        "cell_id": "S100IWZG-0101010-tab3-r23c2",
+        "value": "－"
+    },
+    "question_tqa_valid1287": {
+        "cell_id": "S100IWZG-0105330-tab280-r7c5",
+        "value": "－"
+    },
+    "question_tqa_valid1288": {
+        "cell_id": "S100ITAZ-0105310-tab239-r13c5",
+        "value": "863837000000"
+    },
+    "question_tqa_valid1289": {
+        "cell_id": "S100J4CT-0101010-tab4-r13c4",
+        "value": "0.532"
+    },
+    "question_tqa_valid1290": {
+        "cell_id": "S100IY1B-0105030-tab277-r6c3",
+        "value": "54101000000"
+    },
+    "question_tqa_valid1291": {
+        "cell_id": "S100J1GM-0101010-tab2-r9c3",
+        "value": "1587760000000"
+    },
+    "question_tqa_valid1292": {
+        "cell_id": "S100ITAZ-0105310-tab238-r40c5",
+        "value": "76330000000"
+    },
+    "question_tqa_valid1293": {
+        "cell_id": "S100J2S4-0105310-tab150-r27c4",
+        "value": "90136000000"
+    },
+    "question_tqa_valid1294": {
+        "cell_id": "S100IYG9-0105310-tab259-r5c4",
+        "value": "29933000000"
+    },
+    "question_tqa_valid1295": {
+        "cell_id": "S100ITAZ-0101010-tab3-r4c7",
+        "value": "367669000000"
+    },
+    "question_tqa_valid1296": {
+        "cell_id": "S100ITAZ-0105310-tab238-r31c5",
+        "value": "－"
+    },
+    "question_tqa_valid1297": {
+        "cell_id": "S100ILF5-0105330-tab128-r9c11",
+        "value": "56788000000"
+    },
+    "question_tqa_valid1298": {
+        "cell_id": "S100ITAZ-0105110-tab219-r3c4",
+        "value": "－"
+    },
+    "question_tqa_valid1299": {
+        "cell_id": "S100J2S4-0105310-tab151-r5c5",
+        "value": "122805000000"
+    },
+    "question_tqa_valid1300": {
+        "cell_id": "S100J2S4-0105310-tab149-r45c5",
+        "value": "869040000000"
+    },
+    "question_tqa_valid1301": {
+        "cell_id": "S100J4CT-0105020-tab97-r27c3",
+        "value": "104.11"
+    },
+    "question_tqa_valid1302": {
+        "cell_id": "S100IYG9-0105010-tab123-r35c5",
+        "value": "3918000000"
+    },
+    "question_tqa_valid1303": {
+        "cell_id": "S100IWZG-0105310-tab272-r18c6",
+        "value": "359583000000"
+    },
+    "question_tqa_valid1304": {
+        "cell_id": "S100IY1B-0105030-tab278-r50c2",
+        "value": "313345000000"
+    },
+    "question_tqa_valid1305": {
+        "cell_id": "S100IY1B-0105010-tab113-r10c7",
+        "value": "-6000000"
+    },
+    "question_tqa_valid1306": {
+        "cell_id": "S100IWZG-0105310-tab272-r9c6",
+        "value": "68000000"
+    },
+    "question_tqa_valid1307": {
+        "cell_id": "S100JBJB-0105020-tab247-r35c2",
+        "value": "76170000000"
+    },
+    "question_tqa_valid1308": {
+        "cell_id": "S100IYG9-0104010-tab113-r3c2",
+        "value": "184000000"
+    },
+    "question_tqa_valid1309": {
+        "cell_id": "S100J1GM-0105020-tab201-r13c3",
+        "value": "9434000000"
+    },
+    "question_tqa_valid1310": {
+        "cell_id": "S100J4CT-0105020-tab97-r17c5",
+        "value": "44899000000"
+    },
+    "question_tqa_valid1311": {
+        "cell_id": "S100J4CT-0101010-tab5-r22c5",
+        "value": "1.185"
+    },
+    "question_tqa_valid1312": {
+        "cell_id": "S100ITAZ-0105310-tab238-r43c4",
+        "value": "15851000000"
+    },
+    "question_tqa_valid1313": {
+        "cell_id": "S100IY17-0105400-tab198-r7c4",
+        "value": "1350000000"
+    },
+    "question_tqa_valid1314": {
+        "cell_id": "S100IY1B-0105030-tab277-r18c2",
+        "value": "-1469000000"
+    },
+    "question_tqa_valid1315": {
+        "cell_id": "S100JBJB-0105020-tab260-r5c2",
+        "value": "173000000"
+    },
+    "question_tqa_valid1316": {
+        "cell_id": "S100IYG9-0105010-tab123-r12c6",
+        "value": "55261000000"
+    },
+    "question_tqa_valid1317": {
+        "cell_id": "S100J1GM-0101010-tab2-r4c5",
+        "value": "2501107000000"
+    },
+    "question_tqa_valid1318": {
+        "cell_id": "S100ITAZ-0105310-tab237-r19c4",
+        "value": "11074000000"
+    },
+    "question_tqa_valid1319": {
+        "cell_id": "S100J2S4-0105010-tab73-r6c4",
+        "value": "21566000000"
+    },
+    "question_tqa_valid1320": {
+        "cell_id": "S100IWZG-0104010-tab73-r7c7",
+        "value": "2"
+    },
+    "question_tqa_valid1321": {
+        "cell_id": "S100IY17-0104010-tab33-r4c8",
+        "value": "25256"
+    },
+    "question_tqa_valid1322": {
+        "cell_id": "S100J2S4-0105020-tab75-r10c3",
+        "value": "146000000"
+    },
+    "question_tqa_valid1323": {
+        "cell_id": "S100IWZG-0101010-tab3-r7c3",
+        "value": "177251000000"
+    },
+    "question_tqa_valid1324": {
+        "cell_id": "S100J2S4-0105010-tab74-r22c4",
+        "value": "40000000"
+    },
+    "question_tqa_valid1325": {
+        "cell_id": "S100J4CT-0105040-tab102-r11c6",
+        "value": "-81346000000"
+    },
+    "question_tqa_valid1326": {
+        "cell_id": "S100IY1B-0105030-tab278-r35c2",
+        "value": "314463000000"
+    },
+    "question_tqa_valid1327": {
+        "cell_id": "S100J2S4-0101010-tab7-r2c4",
+        "value": "6794087"
+    },
+    "question_tqa_valid1328": {
+        "cell_id": "S100IWZG-0105310-tab273-r41c7",
+        "value": "738540000000"
+    },
+    "question_tqa_valid1329": {
+        "cell_id": "S100ITAZ-0105320-tab240-r31c3",
+        "value": "1255000000"
+    },
+    "question_tqa_valid1330": {
+        "cell_id": "S100JBJB-0101010-tab2-r14c3",
+        "value": "－"
+    },
+    "question_tqa_valid1331": {
+        "cell_id": "S100IWZG-0105330-tab280-r11c5",
+        "value": "－"
+    },
+    "question_tqa_valid1332": {
+        "cell_id": "S100ITAZ-0104010-tab69-r7c4",
+        "value": "0.0296"
+    },
+    "question_tqa_valid1333": {
+        "cell_id": "S100IYG9-0000000-tab1-r13c2",
+        "value": "東京都千代田区丸の内一丁目９番１号"
+    },
+    "question_tqa_valid1334": {
+        "cell_id": "S100JBJB-0105020-tab246-r37c3",
+        "value": "2155000000"
+    },
+    "question_tqa_valid1335": {
+        "cell_id": "S100IWZG-0105310-tab273-r42c6",
+        "value": "738540000000"
+    },
+    "question_tqa_valid1336": {
+        "cell_id": "S100ITAZ-0105320-tab240-r15c4",
+        "value": "150900000000"
+    },
+    "question_tqa_valid1337": {
+        "cell_id": "S100ITAZ-0105320-tab241-r9c3",
+        "value": "1051000000"
+    },
+    "question_tqa_valid1338": {
+        "cell_id": "S100IY1B-0105020-tab150-r21c6",
+        "value": "10053000000"
+    },
+    "question_tqa_valid1339": {
+        "cell_id": "S100IY17-0101010-tab2-r3c5",
+        "value": "2290560000000"
+    },
+    "question_tqa_valid1340": {
+        "cell_id": "S100J1GM-0105020-tab202-r10c11",
+        "value": "－"
+    },
+    "question_tqa_valid1341": {
+        "cell_id": "S100ITAZ-0105010-tab132-r38c6",
+        "value": "－"
+    },
+    "question_tqa_valid1342": {
+        "cell_id": "S100ILF5-0105025-tab59-r10c2",
+        "value": "66742000000"
+    },
+    "question_tqa_valid1343": {
+        "cell_id": "S100ITAZ-0105310-tab237-r23c4",
+        "value": "948390000000"
+    },
+    "question_tqa_valid1344": {
+        "cell_id": "S100J1GM-0105020-tab199-r8c3",
+        "value": "129987000000"
+    },
+    "question_tqa_valid1345": {
+        "cell_id": "S100ILF5-0105310-tab124-r33c6",
+        "value": "414000000"
+    },
+    "question_tqa_valid1346": {
+        "cell_id": "S100ILF5-0105310-tab124-r31c5",
+        "value": "3573000000"
+    },
+    "question_tqa_valid1347": {
+        "cell_id": "S100J1GM-0101010-tab2-r20c5",
+        "value": "144397000000"
+    },
+    "question_tqa_valid1348": {
+        "cell_id": "S100J2S4-0104010-tab33-r5c6",
+        "value": "1123469"
+    },
+    "question_tqa_valid1349": {
+        "cell_id": "S100IY1B-0105030-tab279-r39c2",
+        "value": "20740000000"
+    },
+    "question_tqa_valid1350": {
+        "cell_id": "S100ITAZ-0101010-tab19-r5c3",
+        "value": "3"
+    },
+    "question_tqa_valid1351": {
+        "cell_id": "S100J2S4-0101010-tab2-r11c5",
+        "value": "－"
+    },
+    "question_tqa_valid1352": {
+        "cell_id": "S100IY1B-0105010-tab106-r11c4",
+        "value": "16225000000"
+    },
+    "question_tqa_valid1353": {
+        "cell_id": "S100J4CT-0101010-tab3-r14c5",
+        "value": "0.531"
+    },
+    "question_tqa_valid1354": {
+        "cell_id": "S100IWZG-0105050-tab91-r17c3",
+        "value": "-49388000000"
+    },
+    "question_tqa_valid1355": {
+        "cell_id": "S100J2S4-0105020-tab75-r18c4",
+        "value": "11023000000"
+    },
+    "question_tqa_valid1356": {
+        "cell_id": "S100ITAZ-0105320-tab241-r38c2",
+        "value": "71692000000"
+    },
+    "question_tqa_valid1357": {
+        "cell_id": "S100J2S4-0105010-tab73-r10c5",
+        "value": "887000000"
+    },
+    "question_tqa_valid1358": {
+        "cell_id": "S100ITAZ-0105310-tab237-r5c4",
+        "value": "97450000000"
+    },
+    "question_tqa_valid1359": {
+        "cell_id": "S100IWZG-0105020-tab86-r21c3",
+        "value": "462455000000"
+    },
+    "question_tqa_valid1360": {
+        "cell_id": "S100IYG9-0105310-tab260-r10c4",
+        "value": "767000000"
+    },
+    "question_tqa_valid1361": {
+        "cell_id": "S100ILF5-0105040-tab63-r9c3",
+        "value": "-740000000"
+    },
+    "question_tqa_valid1362": {
+        "cell_id": "S100ITAZ-0105310-tab239-r14c3",
+        "value": "1602790000000"
+    },
+    "question_tqa_valid1363": {
+        "cell_id": "S100IYG9-0105320-tab261-r16c4",
+        "value": "2763000000"
+    },
+    "question_tqa_valid1364": {
+        "cell_id": "S100IY1B-0105030-tab291-r15c2",
+        "value": "1866000000"
+    },
+    "question_tqa_valid1365": {
+        "cell_id": "S100IYG9-0105320-tab261-r25c3",
+        "value": "6243000000"
+    },
+    "question_tqa_valid1366": {
+        "cell_id": "S100J2S4-0105310-tab151-r16c5",
+        "value": "-4473000000"
+    },
+    "question_tqa_valid1367": {
+        "cell_id": "S100ILF5-0105025-tab59-r5c4",
+        "value": "-197000000"
+    },
+    "question_tqa_valid1368": {
+        "cell_id": "S100IYG9-0101010-tab3-r7c5",
+        "value": "1699378000"
+    },
+    "question_tqa_valid1369": {
+        "cell_id": "S100ITAZ-0101010-tab4-r17c6",
+        "value": "12.81"
+    },
+    "question_tqa_valid1370": {
+        "cell_id": "S100IWZG-0105320-tab274-r13c4",
+        "value": "43537000000"
+    },
+    "question_tqa_valid1371": {
+        "cell_id": "S100ILF5-0105310-tab124-r35c5",
+        "value": "4939000000"
+    },
+    "question_tqa_valid1372": {
+        "cell_id": "S100J4CT-0105330-tab180-r14c4",
+        "value": "-206000000"
+    },
+    "question_tqa_valid1373": {
+        "cell_id": "S100ILF5-0101010-tab2-r13c7",
+        "value": "0.135"
+    },
+    "question_tqa_valid1374": {
+        "cell_id": "S100IWZG-0101010-tab2-r12c4",
+        "value": "107.53"
+    },
+    "question_tqa_valid1375": {
+        "cell_id": "S100J1GM-0101010-tab2-r10c5",
+        "value": "3372538000000"
+    },
+    "question_tqa_valid1376": {
+        "cell_id": "S100J4CT-0105010-tab96-r30c3",
+        "value": "942449000000"
+    },
+    "question_tqa_valid1377": {
+        "cell_id": "S100ILF5-0104010-tab20-r2c2",
+        "value": "100"
+    },
+    "question_tqa_valid1378": {
+        "cell_id": "S100J2S4-0105310-tab150-r23c5",
+        "value": "2553346000000"
+    },
+    "question_tqa_valid1379": {
+        "cell_id": "S100IYG9-0105310-tab259-r6c4",
+        "value": "341623000000"
+    },
+    "question_tqa_valid1380": {
+        "cell_id": "S100J4CT-0104010-tab41-r4c3",
+        "value": "124"
+    },
+    "question_tqa_valid1381": {
+        "cell_id": "S100ILF5-0101010-tab2-r4c5",
+        "value": "94860000000"
+    },
+    "question_tqa_valid1382": {
+        "cell_id": "S100J2S4-0105320-tab152-r25c3",
+        "value": "7792000000"
+    },
+    "question_tqa_valid1383": {
+        "cell_id": "S100IY1B-0105030-tab278-r10c2",
+        "value": "12399000000"
+    },
+    "question_tqa_valid1384": {
+        "cell_id": "S100IY17-0104010-tab33-r6c6",
+        "value": "0.3563"
+    },
+    "question_tqa_valid1385": {
+        "cell_id": "S100IWZG-0105040-tab89-r20c3",
+        "value": "－"
+    },
+    "question_tqa_valid1386": {
+        "cell_id": "S100IYG9-0105010-tab122-r21c5",
+        "value": "854135000000"
+    },
+    "question_tqa_valid1387": {
+        "cell_id": "S100J2S4-0105320-tab152-r24c3",
+        "value": "2648000000"
+    },
+    "question_tqa_valid1388": {
+        "cell_id": "S100IY1B-0105010-tab113-r18c7",
+        "value": "－"
+    },
+    "question_tqa_valid1389": {
+        "cell_id": "S100IYG9-0105010-tab122-r20c6",
+        "value": "4813361000000"
+    },
+    "question_tqa_valid1390": {
+        "cell_id": "S100IY17-0101010-tab2-r18c3",
+        "value": "291205000000"
+    },
+    "question_tqa_valid1391": {
+        "cell_id": "S100IY17-0105310-tab182-r23c3",
+        "value": "1720000000"
+    },
+    "question_tqa_valid1392": {
+        "cell_id": "S100IYG9-0105010-tab122-r16c4",
+        "value": "175034000000"
+    },
+    "question_tqa_valid1393": {
+        "cell_id": "S100J2S4-0105310-tab149-r27c6",
+        "value": "3053222000000"
+    },
+    "question_tqa_valid1394": {
+        "cell_id": "S100IY1B-0105020-tab122-r6c2",
+        "value": "4316000000"
+    },
+    "question_tqa_valid1395": {
+        "cell_id": "S100JBJB-0105020-tab246-r17c3",
+        "value": "5847000000"
+    },
+    "question_tqa_valid1396": {
+        "cell_id": "S100IY17-0105310-tab182-r17c5",
+        "value": "-2256000000"
+    },
+    "question_tqa_valid1397": {
+        "cell_id": "S100ITAZ-0104010-tab69-r6c7",
+        "value": "910"
+    },
+    "question_tqa_valid1398": {
+        "cell_id": "S100J2S4-0105310-tab149-r46c5",
+        "value": "3933315000000"
+    },
+    "question_tqa_valid1399": {
+        "cell_id": "S100ITAZ-0105310-tab238-r33c4",
+        "value": "182240000000"
+    },
+    "question_tqa_valid1400": {
+        "cell_id": "S100IWZG-0105310-tab272-r8c6",
+        "value": "15000000"
+    },
+    "question_tqa_valid1401": {
+        "cell_id": "S100J2S4-0103010-tab22-r3c2",
+        "value": "2919000000"
+    },
+    "question_tqa_valid1402": {
+        "cell_id": "S100JBJB-0101010-tab3-r21c4",
+        "value": "0.479"
+    },
+    "question_tqa_valid1403": {
+        "cell_id": "S100IWZG-0105010-tab84-r7c7",
+        "value": "94906000000"
+    },
+    "question_tqa_valid1404": {
+        "cell_id": "S100IY1B-0105020-tab213-r4c2",
+        "value": "55303000000"
+    },
+    "question_tqa_valid1405": {
+        "cell_id": "S100J1GM-0105020-tab199-r34c2",
+        "value": "1237000000"
+    },
+    "question_tqa_valid1406": {
+        "cell_id": "S100IYG9-0104010-tab96-r2c1",
+        "value": "専務執行役リテール部門担当"
+    },
+    "question_tqa_valid1407": {
+        "cell_id": "S100J4CT-0105010-tab96-r10c5",
+        "value": "16850000000"
+    },
+    "question_tqa_valid1408": {
+        "cell_id": "S100J2S4-0101010-tab2-r8c7",
+        "value": "5317623000000"
+    },
+    "question_tqa_valid1409": {
+        "cell_id": "S100IWZG-0105110-tab117-r9c4",
+        "value": "131283000000"
+    },
+    "question_tqa_valid1410": {
+        "cell_id": "S100JBJB-0105020-tab247-r4c3",
+        "value": "75031000000"
+    },
+    "question_tqa_valid1411": {
+        "cell_id": "S100IYG9-0104010-tab28-r3c2",
+        "value": "1699378772"
+    },
+    "question_tqa_valid1412": {
+        "cell_id": "S100J4CT-0104010-tab78-r3c2",
+        "value": "454000000"
+    },
+    "question_tqa_valid1413": {
+        "cell_id": "S100JBJB-0104010-tab60-r5c3",
+        "value": "1425500"
+    },
+    "question_tqa_valid1414": {
+        "cell_id": "S100J1GM-0104010-tab86-r4c2",
+        "value": "－"
+    },
+    "question_tqa_valid1415": {
+        "cell_id": "S100J2S4-0105320-tab152-r14c3",
+        "value": "621824000000"
+    },
+    "question_tqa_valid1416": {
+        "cell_id": "S100J4CT-0101010-tab4-r14c4",
+        "value": "0.111"
+    },
+    "question_tqa_valid1417": {
+        "cell_id": "S100ILF5-0105310-tab125-r31c6",
+        "value": "500000000"
+    },
+    "question_tqa_valid1418": {
+        "cell_id": "S100IWZG-0105310-tab273-r49c4",
+        "value": "6382000000"
+    },
+    "question_tqa_valid1419": {
+        "cell_id": "S100J4CT-0105025-tab98-r12c5",
+        "value": "-22407000000"
+    },
+    "question_tqa_valid1420": {
+        "cell_id": "S100JBJB-0105020-tab247-r8c2",
+        "value": "-40289000000"
+    },
+    "question_tqa_valid1421": {
+        "cell_id": "S100IWZG-0105025-tab87-r13c3",
+        "value": "-561000000"
+    },
+    "question_tqa_valid1422": {
+        "cell_id": "S100JBJB-0105020-tab247-r10c2",
+        "value": "1397000000"
+    },
+    "question_tqa_valid1423": {
+        "cell_id": "S100ILF5-0101010-tab3-r17c6",
+        "value": "27.77"
+    },
+    "question_tqa_valid1424": {
+        "cell_id": "S100J4CT-0105320-tab179-r5c3",
+        "value": "43362000000"
+    },
+    "question_tqa_valid1425": {
+        "cell_id": "S100J2S4-0105320-tab152-r7c3",
+        "value": "3023000000"
+    },
+    "question_tqa_valid1426": {
+        "cell_id": "S100J2S4-0105310-tab150-r32c3",
+        "value": "3488913000000"
+    },
+    "question_tqa_valid1427": {
+        "cell_id": "S100IWZG-0105320-tab274-r24c3",
+        "value": "12380000000"
+    },
+    "question_tqa_valid1428": {
+        "cell_id": "S100JBJB-0101010-tab3-r11c5",
+        "value": "74.30"
+    },
+    "question_tqa_valid1429": {
+        "cell_id": "S100J1GM-0105020-tab199-r11c3",
+        "value": "3327000000"
+    },
+    "question_tqa_valid1430": {
+        "cell_id": "S100IY1B-0104010-tab41-r3c5",
+        "value": "単元株式数100株"
+    },
+    "question_tqa_valid1431": {
+        "cell_id": "S100IY17-0104010-tab69-r2c4",
+        "value": "事業提携関係強化のため"
+    },
+    "question_tqa_valid1432": {
+        "cell_id": "S100J4CT-0104010-tab85-r7c2",
+        "value": "28000000"
+    },
+    "question_tqa_valid1433": {
+        "cell_id": "S100IWZG-0105110-tab246-r7c2",
+        "value": "8440000000"
+    },
+    "question_tqa_valid1434": {
+        "cell_id": "S100JBJB-0104010-tab90-r48c1",
+        "value": "執行役常務グループ調達部担当、生産推進部担当、石井執行役常務補佐(生産技術センター関係)"
+    },
+    "question_tqa_valid1435": {
+        "cell_id": "S100IY17-0105320-tab183-r29c3",
+        "value": "153255000000"
+    },
+    "question_tqa_valid1436": {
+        "cell_id": "S100IY1B-0101010-tab4-r13c4",
+        "value": "15.00"
+    },
+    "question_tqa_valid1437": {
+        "cell_id": "S100ITAZ-0105310-tab238-r31c4",
+        "value": "3415000000"
+    },
+    "question_tqa_valid1438": {
+        "cell_id": "S100IY17-0105320-tab183-r10c4",
+        "value": "37842000000"
+    },
+    "question_tqa_valid1439": {
+        "cell_id": "S100IWZG-0105310-tab272-r20c5",
+        "value": "1000000"
+    },
+    "question_tqa_valid1440": {
+        "cell_id": "S100IY17-0105320-tab183-r28c3",
+        "value": "11274000000"
+    },
+    "question_tqa_valid1441": {
+        "cell_id": "S100JBJB-0105020-tab251-r11c5",
+        "value": "-300299000000"
+    }
+}

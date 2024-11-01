@@ -6,26 +6,28 @@
 [TQAタスクの設定](https://sites.google.com/view/ntcir18-u4/subtasks/table-qa?authuser=0, "Table QA")
 
 ## 配布ファイル
-このリポジトリには、以下のファイルが含まれます。
-- `reports_tqa_{type}`
+このリポジトリには、以下のファイルが``含まれます。
+- `reports`
     - 各企業が発行した有価証券報告書に情報を追加したもので、入力として用います。
-- `questions_tqa_{type}.json`
+- `questions.json`
     - 質問文やコンテキストが記載されたファイルです。入力として用います。
-- `gold_standard_tqa_{type}.json`
+- `gold_standard.json`
     - 正解データです。評価に用います。
     - `test_tqa`には含まれません。
-- `answersheet_tqa_{type}.json`
-    - 出力ファイルのテンプレートです。Valueを埋める形で、出力ファイルを作成してください。
+- `answersheet.json`
+    - 出力ファイルのテンプレートです。`value`、`cell_id`のどちらか、あるいは両方を埋める形で、出力ファイルを作成してください。
 - `src/eval.py`
     - 評価スクリプトです。`-f`オプションで評価したいファイルのパス、`-g`オプションで正解データファイルのパスを指定してください。
-- `src/sample_tqa_random.py`
+- `src/eval.py`
+    - 解答となる`value`と回答された`value`の表現を統一し、適切に評価を行うための関数が記述されたファイルです。リーダーボードでの評価においても、同じ関数が使用されています。
+- `src/sample_random.py`
     - サンプルプログラムです。各質問に対し、ランダムなTable IDを付与し、出力ファイルを作成します。
 
 ## 入力ファイル形式
 ### HTMLファイル
 各企業が発行した有価証券報告書（HTML 形式）に、必要なアノテーションを行ったものを利用します。
 
-`reports_tr_{type}/{doc_id}/*.html` は、各企業が発行した有価証券報告書に、以下の修正を加えたものです。
+`reports/{doc_id}/*.html` は、各企業が発行した有価証券報告書に、以下の修正を加えたものです。
 
 - `table` タグに `table-id` 属性を追加。
     - `table-id`は、テーブルを一意に識別する文字列で、`[書類管理番号(DocID)]-[ファイル名]-tab[テーブル連番]`の形式です。
@@ -36,7 +38,7 @@
     - 例：`S100IHTB-0000000-tab1-r3c2`
 
 ### JSONファイル
-`questions_tr_{type}.json` は、
+`questions.json` は、以下のフォーマットです。
 
 ```json
 {
