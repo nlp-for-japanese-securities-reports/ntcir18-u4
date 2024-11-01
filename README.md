@@ -43,7 +43,8 @@ validディレクトリのデータセットを対象に、各タスクのベー
 | Claude 3 Haiku | claude-3-haiku-20240307 | 0.3209 | 1005 / 3132 |
 
 ## 特記事項
-Table QAタスクのリーダーボード上のランキングは、Valueのスコアが優先されます。
+- Table QAタスクのリーダーボード上のランキングは、Valueのスコアが優先されます。
+- Formal Run では、モデルの過学習を防ぐために、Public Score（テストデータの一部を使った結果）のみをリーダーボードに表示します。Formal Run 期間の終了後、2月1日を目処に、Private Score（Public Scoreで利用していないデータでの評価結果）をお知らせします。
 
 ## 出典
 - `table_retrieval`および`table_qa`ディレクトリ内のファイルは、EDINET 閲覧（提出）サイト（※）をもとに NTCIR-18 U4 タスクオーガナイザが作成したものです。
